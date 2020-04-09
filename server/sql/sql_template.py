@@ -10,5 +10,6 @@ from server import app, sql_db
 # https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
 @app.route('/sql', methods=['GET'])
 def sql_template():
-    result = sql_db.session.execute('SELECT id FROM test WHERE id = :val', {'val': "Hi"})
-    return result[0]
+    result = sql_db.engine.execute('SELECT id FROM test WHERE id = %s', ('Hi'))
+    rows = result.fetchall()
+    return rows[0]['id']

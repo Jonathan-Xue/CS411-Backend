@@ -7,7 +7,9 @@ class Config(object):
     CSRF_ENABLED = True
     SECRET_KEY = 'this-really-needs-to-be-changed'
 
+    SQLALCHEMY_TRACK_MODIFICATIONS = False
     MONGO_URI = os.environ['MONGO_URI']
+    CLOUD_SQL_URI = os.environ['CLOUD_SQL_URI']
 
 class ProductionConfig(Config):
     DEBUG = False

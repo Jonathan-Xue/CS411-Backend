@@ -1,902 +1,904 @@
-courseNo,courseTitle,year,term,primaryInstructor,aPlus,a,aMinus,bPlus,b,bMinus,cPlus,c,cMinus,dPlus,d,dMinus,f
-100,Freshman Orientation,2012,Fall,"Pitt, Leonard B",0,188,0.1,0.2,21,0.3,0.4,6,0.5,0.6,1,0.7,9
-100,Freshman Orientation,2013,Fall,"Pitt, Leonard B",0,222,0.0,5.0,16,0.0,5.0,4,0.0,2.0,1,0.0,9
-100,Freshman Orientation,2014,Fall,"Pitt, Leonard B",0,232,11.0,3.0,11,3.0,2.0,6,1.0,0.0,2,1.0,9
-100,Freshman Orientation,2015,Fall,"Pitt, Leonard B",0,234,0.0,9.0,11,4.0,0.0,10,0.0,0.0,2,2.0,4
-100,Freshman Orientation,2016,Fall,"Pitt, Leonard B",0,279,0.0,5.0,11,0.0,1.0,6,0.0,0.0,3,0.0,6
-100,Freshman Orientation,2017,Fall,"Pitt, Leonard B",0,258,5.0,12.0,12,4.0,3.0,3,2.0,0.0,0,1.0,4
-100,Freshman Orientation,2018,Fall,"Gunter, Elsa",0,290,10.0,9.0,4,2.0,1.0,2,2.0,0.0,1,0.0,1
-101,Intro Computing: Engrg & Sci,2010,Fall,"Gambill, Thomas N",49,74,68.0,67.0,56,46.0,39.0,25,16.0,9.0,6,8.0,2
-101,Intro Computing: Engrg & Sci,2010,Spring,"Bhasin, Rajesh",9,13,11.0,18.0,6,9.0,2.0,6,1.0,3.0,0,0.0,0
-101,Intro Computing: Engrg & Sci,2010,Spring,"Fister, Andrew E",8,16,20.0,12.0,6,4.0,3.0,3,0.0,1.0,1,0.0,3
-101,Intro Computing: Engrg & Sci,2010,Spring,"Gupta, Piyush",15,11,23.0,9.0,6,6.0,1.0,1,4.0,1.0,0,0.0,2
-101,Intro Computing: Engrg & Sci,2010,Spring,"Huang, Zu C",13,15,11.0,6.0,4,9.0,8.0,2,2.0,2.0,2,1.0,1
-101,Intro Computing: Engrg & Sci,2010,Spring,"Shifteh Far, Saeidreza",13,12,9.0,6.0,11,7.0,0.0,5,4.0,3.0,2,0.0,3
-101,Intro Computing: Engrg & Sci,2010,Spring,"Su, Lu",8,11,9.0,14.0,7,9.0,3.0,3,2.0,2.0,0,0.0,2
-101,Intro Computing: Engrg & Sci,2011,Fall,"Gambill, Thomas N",115,80,49.0,47.0,41,45.0,26.0,20,14.0,8.0,7,6.0,4
-101,Intro Computing: Engrg & Sci,2011,Spring,"Gambill, Thomas N",106,103,78.0,52.0,42,33.0,19.0,12,9.0,4.0,4,8.0,4
-101,Intro Computing: Engrg & Sci,2012,Fall,"Gambill, Thomas N",86,61,56.0,40.0,52,41.0,36.0,30,14.0,10.0,4,4.0,15
-101,Intro Computing: Engrg & Sci,2013,Fall,"Gambill, Thomas N",82,64,56.0,51.0,53,53.0,34.0,33,28.0,23.0,13,11.0,17
-101,Intro Computing: Engrg & Sci,2013,Spring,"Gambill, Thomas N",104,85,71.0,67.0,44,45.0,38.0,24,22.0,14.0,5,4.0,8
-101,Intro Computing: Engrg & Sci,2014,Fall,"Gambill, Thomas N",79,51,64.0,66.0,78,66.0,57.0,48,39.0,35.0,20,13.0,50
-101,Intro Computing: Engrg & Sci,2014,Spring,"Gambill, Thomas N",113,74,59.0,56.0,42,37.0,33.0,29,21.0,18.0,8,8.0,23
-101,Intro Computing: Engrg & Sci,2015,Fall,"Cunningham, Ryan M",7,213,76.0,83.0,142,35.0,23.0,53,12.0,0.0,26,0.0,24
-101,Intro Computing: Engrg & Sci,2015,Spring,"Gambill, Thomas N",116,83,83.0,68.0,73,66.0,48.0,43,16.0,20.0,19,7.0,35
-101,Intro Computing: Engrg & Sci,2016,Fall,"Davis, Neal E",93,154,124.0,67.0,72,36.0,39.0,26,11.0,10.0,15,14.0,21
-101,Intro Computing: Engrg & Sci,2016,Spring,"Cunningham, Ryan M",6,341,78.0,65.0,96,14.0,13.0,33,11.0,0.0,15,0.0,16
-101,Intro Computing: Engrg & Sci,2017,Fall,"Davis, Neal E",439,90,43.0,30.0,19,16.0,5.0,9,6.0,1.0,9,0.0,14
-101,Intro Computing: Engrg & Sci,2017,Spring,"Davis, Neal E",239,159,72.0,61.0,44,24.0,9.0,12,9.0,7.0,2,4.0,15
-101,Intro Computing: Engrg & Sci,2018,Fall,"Davis, Neal E",263,162,72.0,59.0,40,16.0,12.0,11,5.0,8.0,7,6.0,11
-101,Intro Computing: Engrg & Sci,2018,Spring,"Davis, Neal E",360,128,67.0,37.0,25,14.0,16.0,12,12.0,2.0,5,3.0,8
-101,Intro Computing: Engrg & Sci,2019,Spring,"Davis, Neal E",320,158,75.0,42.0,22,20.0,12.0,7,11.0,2.0,8,7.0,10
-105,Intro Computing: Non-Tech,2010,Fall,"Gambill, Thomas N",45,169,102.0,71.0,119,81.0,70.0,110,19.0,5.0,11,7.0,8
-105,Intro Computing: Non-Tech,2010,Spring,"Bhagath, Aditya",1,11,1.0,1.0,5,3.0,1.0,1,0.0,1.0,1,1.0,0
-105,Intro Computing: Non-Tech,2010,Spring,"Charalambides, Minas",9,11,11.0,7.0,13,6.0,7.0,3,6.0,2.0,2,0.0,0
-105,Intro Computing: Non-Tech,2010,Spring,"Chen, Yi-Shuan",8,20,15.0,9.0,6,3.0,5.0,5,4.0,1.0,3,1.0,1
-105,Intro Computing: Non-Tech,2010,Spring,"Date, Chaitanya P",5,11,12.0,10.0,11,4.0,6.0,0,3.0,1.0,0,1.0,0
-105,Intro Computing: Non-Tech,2010,Spring,"Hsiao, Christopher R",3,20,11.0,10.0,6,4.0,5.0,6,6.0,4.0,0,0.0,1
-105,Intro Computing: Non-Tech,2010,Spring,"Mitchell, Damion R",4,16,9.0,8.0,6,0.0,7.0,1,6.0,2.0,1,1.0,1
-105,Intro Computing: Non-Tech,2010,Spring,"Saharan, Ankit",8,15,11.0,10.0,10,3.0,1.0,3,2.0,2.0,0,1.0,1
-105,Intro Computing: Non-Tech,2010,Spring,"Ved, Ankeeth S",6,15,8.0,13.0,10,6.0,6.0,5,4.0,2.0,1,1.0,0
-105,Intro Computing: Non-Tech,2010,Spring,"Yuttanan, Boonrod",1,2,5.0,3.0,5,1.0,7.0,4,4.0,1.0,0,0.0,1
-105,Intro Computing: Non-Tech,2010,Spring,"Zutshi, Aditya",2,9,11.0,15.0,11,6.0,8.0,3,7.0,2.0,3,1.0,3
-105,Intro Computing: Non-Tech,2011,Fall,"Gambill, Thomas N",129,147,106.0,96.0,124,70.0,40.0,48,18.0,15.0,22,7.0,10
-105,Intro Computing: Non-Tech,2011,Spring,"Lauterburg, Steven T",30,86,66.0,53.0,88,45.0,40.0,47,17.0,5.0,18,3.0,14
-105,Intro Computing: Non-Tech,2012,Fall,"Zhao, Kai",52,193,170.0,144.0,122,62.0,45.0,34,15.0,9.0,4,1.0,2
-105,Intro Computing: Non-Tech,2013,Fall,"Zhao, Kai",67,145,136.0,103.0,138,62.0,33.0,0,49.0,11.0,9,4.0,11
-105,Intro Computing: Non-Tech,2013,Spring,"Zhao, Kai",59,181,86.0,84.0,80,34.0,27.0,21,5.0,7.0,4,0.0,5
-105,Intro Computing: Non-Tech,2014,Fall,"Fagen, Wade A",77,169,135.0,106.0,133,67.0,36.0,45,22.0,13.0,17,2.0,14
-105,Intro Computing: Non-Tech,2014,Spring,"Fagen, Wade A",35,82,62.0,70.0,59,35.0,32.0,23,8.0,7.0,5,5.0,6
-105,Intro Computing: Non-Tech,2015,Fall,"Fagen, Wade A",268,237,111.0,87.0,81,36.0,22.0,12,9.0,8.0,4,1.0,9
-105,Intro Computing: Non-Tech,2015,Spring,"Fagen, Wade A",60,101,61.0,40.0,52,41.0,25.0,24,10.0,6.0,2,1.0,8
-105,Intro Computing: Non-Tech,2016,Fall,"Hellwig, Martin",125,191,109.0,87.0,76,25.0,15.0,8,6.0,4.0,2,1.0,11
-105,Intro Computing: Non-Tech,2016,Spring,"Hellwig, Martin",161,135,86.0,49.0,34,15.0,11.0,3,4.0,1.0,1,0.0,8
-105,Intro Computing: Non-Tech,2017,Fall,"Harris, Albert F",40,157,204.0,0.0,100,0.0,0.0,15,0.0,0.0,4,0.0,8
-105,Intro Computing: Non-Tech,2017,Spring,"Haberman, Michael",184,130,64.0,42.0,41,21.0,11.0,14,1.0,5.0,9,1.0,21
-105,Intro Computing: Non-Tech,2018,Fall,"Harris, Albert F",124,95,66.0,56.0,46,31.0,25.0,24,12.0,0.0,14,0.0,7
-105,Intro Computing: Non-Tech,2018,Spring,"Harris, Albert F",43,134,115.0,60.0,45,50.0,19.0,16,20.0,0.0,18,0.0,13
-105,Intro Computing: Non-Tech,2019,Spring,"Harris, Albert F",216,189,39.0,35.0,48,13.0,7.0,16,2.0,1.0,12,4.0,2
-125,Intro to Computer Science,2010,Fall,"Angrave, Lawrence C",73,66,59.0,33.0,4,10.0,11.0,9,14.0,1.0,1,8.0,9
-125,Intro to Computer Science,2010,Spring,"Fogla, Navin",1,6,5.0,0.0,0,2.0,1.0,2,3.0,0.0,0,2.0,2
-125,Intro to Computer Science,2010,Spring,"Nagaraja, Sharat",6,16,9.0,11.0,2,7.0,8.0,4,2.0,1.0,0,0.0,0
-125,Intro to Computer Science,2010,Spring,"Somnath, Nisha",5,5,4.0,1.0,2,2.0,1.0,1,3.0,2.0,0,1.0,1
-125,Intro to Computer Science,2011,Fall,"Angrave, Lawrence C",70,79,73.0,33.0,16,13.0,11.0,13,12.0,0.0,7,0.0,22
-125,Intro to Computer Science,2011,Spring,"Angrave, Lawrence C",27,41,31.0,26.0,4,16.0,8.0,9,10.0,0.0,8,0.0,9
-125,Intro to Computer Science,2012,Fall,"Angrave, Lawrence C",36,63,81.0,41.0,37,20.0,19.0,25,22.0,0.0,11,0.0,20
-125,Intro to Computer Science,2013,Fall,"Zilles, Craig",28,131,35.0,35.0,68,20.0,14.0,27,11.0,0.0,13,11.0,13
-125,Intro to Computer Science,2013,Spring,"Angrave, Lawrence C",47,88,50.0,36.0,23,16.0,14.0,28,10.0,0.0,10,1.0,16
-125,Intro to Computer Science,2014,Fall,"Chapman, William L",137,129,29.0,21.0,33,10.0,6.0,17,2.0,0.0,0,1.0,8
-125,Intro to Computer Science,2014,Spring,"Angrave, Lawrence C",60,109,38.0,53.0,28,19.0,15.0,15,16.0,0.0,10,0.0,13
-125,Intro to Computer Science,2015,Fall,"Chapman, William L",152,170,42.0,44.0,49,15.0,34.0,41,4.0,6.0,1,1.0,12
-125,Intro to Computer Science,2015,Spring,"Chapman, William L",122,152,65.0,47.0,63,17.0,29.0,39,12.0,8.0,3,5.0,7
-125,Intro to Computer Science,2016,Fall,"Chapman, William L",103,178,78.0,34.0,63,49.0,36.0,27,9.0,3.0,1,3.0,3
-125,Intro to Computer Science,2016,Spring,"Chapman, William L",108,184,59.0,42.0,70,13.0,37.0,26,7.0,3.0,4,1.0,9
-125,Intro to Computer Science,2017,Fall,"Angrave, Lawrence C",19,264,77.0,68.0,45,43.0,68.0,35,24.0,0.0,24,0.0,17
-125,Intro to Computer Science,2017,Spring,"Chapman, William L",77,141,61.0,30.0,68,40.0,36.0,36,29.0,6.0,4,1.0,3
-125,Intro to Computer Science,2018,Fall,"Challen, Geoffrey W",143,389,53.0,34.0,32,19.0,8.0,7,8.0,0.0,14,0.0,20
-125,Intro to Computer Science,2018,Spring,"Challen, Geoffrey W",56,169,40.0,43.0,33,19.0,16.0,10,8.0,0.0,9,0.0,10
-125,Intro to Computer Science,2019,Spring,"Challen, Geoffrey W",55,223,39.0,20.0,32,13.0,4.0,9,2.0,0.0,18,0.0,21
-126,Software Design Studio,2016,Fall,"Zilles, Craig",4,23,0.0,3.0,1,1.0,1.0,0,1.0,0.0,0,0.0,0
-126,Software Design Studio,2017,Fall,"Zilles, Craig",22,23,18.0,10.0,18,3.0,6.0,5,2.0,0.0,1,0.0,3
-126,Software Design Studio,2017,Spring,"Angrave, Lawrence C",36,47,58.0,47.0,20,20.0,10.0,6,6.0,3.0,0,1.0,7
-126,Software Design Studio,2018,Fall,"Evans, Graham C",6,51,23.0,9.0,8,4.0,2.0,0,0.0,0.0,0,0.0,7
-126,Software Design Studio,2018,Spring,"Evans, Graham C",54,92,42.0,34.0,13,8.0,4.0,1,0.0,0.0,0,0.0,14
-126,Software Design Studio,2019,Spring,"Evans, Graham C",17,116,81.0,44.0,23,9.0,2.0,4,4.0,0.0,0,0.0,13
-173,Discrete Structures,2010,Fall,"Fleck, Margaret M",5,9,23.0,16.0,13,18.0,17.0,8,19.0,11.0,7,12.0,7
-173,Discrete Structures,2010,Spring,"Cook, Lucas T",7,5,4.0,7.0,2,3.0,2.0,5,6.0,4.0,3,0.0,1
-173,Discrete Structures,2010,Spring,"Fanek, Samer R",4,3,1.0,6.0,4,7.0,8.0,7,7.0,1.0,0,1.0,3
-173,Discrete Structures,2010,Spring,"Li, Chen",0,8,5.0,3.0,5,4.0,6.0,8,5.0,3.0,3,2.0,0
-173,Discrete Structures,2010,Spring,"Pittman, Lance C",3,0,3.0,2.0,4,4.0,4.0,4,0.0,2.0,2,0.0,0
-173,Discrete Structures,2011,Fall,"Fleck, Margaret M",14,25,16.0,29.0,22,17.0,14.0,17,15.0,8.0,9,7.0,4
-173,Discrete Structures,2011,Spring,"Fleck, Margaret M",12,30,21.0,37.0,28,18.0,30.0,26,20.0,15.0,16,4.0,30
-173,Discrete Structures,2012,Fall,"Fleck, Margaret M",20,46,34.0,42.0,51,32.0,33.0,31,21.0,18.0,13,7.0,8
-173,Discrete Structures,2012,Spring,"Pittman, Lance C",1,0,8.0,5.0,2,8.0,4.0,0,1.0,0.0,0,1.0,0
-173,Discrete Structures,2013,Fall,"Fleck, Margaret M",18,40,29.0,43.0,40,32.0,26.0,29,25.0,8.0,8,6.0,13
-173,Discrete Structures,2013,Fall,"Parthasarathy, Madhusudan",1,6,1.0,3.0,6,1.0,4.0,1,5.0,1.0,1,0.0,0
-173,Discrete Structures,2013,Spring,"Fleck, Margaret M",19,57,51.0,48.0,58,37.0,31.0,30,14.0,11.0,10,8.0,9
-173,Discrete Structures,2014,Fall,"Fleck, Margaret M",19,73,61.0,58.0,71,34.0,28.0,24,11.0,21.0,13,10.0,12
-173,Discrete Structures,2014,Fall,"Parthasarathy, Madhusudan",0,7,4.0,4.0,7,2.0,1.0,1,0.0,2.0,1,0.0,0
-173,Discrete Structures,2014,Spring,"Fleck, Margaret M",36,42,54.0,48.0,75,40.0,30.0,34,15.0,12.0,9,8.0,14
-173,Discrete Structures,2015,Fall,"Fleck, Margaret M",41,86,88.0,63.0,73,53.0,36.0,26,16.0,11.0,11,5.0,3
-173,Discrete Structures,2015,Spring,"Fleck, Margaret M",17,103,103.0,89.0,80,34.0,31.0,22,15.0,14.0,10,4.0,6
-173,Discrete Structures,2016,Fall,"Fleck, Margaret M",21,79,81.0,66.0,71,59.0,33.0,38,12.0,14.0,9,7.0,5
-173,Discrete Structures,2016,Spring,"Fleck, Margaret M",37,112,59.0,83.0,74,35.0,27.0,19,8.0,5.0,25,3.0,14
-173,Discrete Structures,2017,Fall,"Fleck, Margaret M",23,91,81.0,80.0,73,57.0,32.0,37,13.0,4.0,12,9.0,10
-173,Discrete Structures,2017,Spring,"Fleck, Margaret M",39,135,82.0,74.0,76,38.0,33.0,45,15.0,9.0,9,5.0,6
-173,Discrete Structures,2018,Fall,"Evans, Graham C",11,42,29.0,17.0,24,20.0,12.0,6,6.0,3.0,5,1.0,5
-173,Discrete Structures,2018,Fall,"Warnow, Tandy",45,38,13.0,20.0,22,13.0,11.0,7,4.0,4.0,4,4.0,4
-173,Discrete Structures,2018,Spring,"Fleck, Margaret M",26,83,57.0,50.0,51,35.0,28.0,18,7.0,9.0,9,3.0,3
-173,Discrete Structures,2018,Spring,"Meseguer, Jose",21,18,17.0,7.0,11,10.0,8.0,11,12.0,5.0,3,4.0,3
-173,Discrete Structures,2019,Spring,"Fleck, Margaret M",13,73,59.0,78.0,45,45.0,25.0,26,7.0,9.0,9,5.0,7
-173,Discrete Structures,2019,Spring,"Varodayan, David",11,30,33.0,18.0,25,14.0,21.0,17,6.0,3.0,4,5.0,5
-196,Freshman Honors,2010,Fall,"Angrave, Lawrence C",31,10,4.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,5
-196,Freshman Honors,2010,Fall,"Kumar, Viraj",6,2,1.0,5.0,0,2.0,3.0,2,1.0,0.0,4,0.0,1
-196,Freshman Honors,2010,Spring,"Gambill, Thomas N",0,47,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,1
-196,Freshman Honors,2011,Fall,"Angrave, Lawrence C",8,38,10.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,2
-196,Freshman Honors,2011,Spring,"Fleck, Margaret M",2,19,9.0,2.0,3,0.0,0.0,1,0.0,0.0,1,0.0,0
-196,Freshman Honors,2012,Fall,"Angrave, Lawrence C",9,27,10.0,3.0,0,0.0,0.0,0,1.0,0.0,0,0.0,2
-196,Freshman Honors,2013,Fall,"Angrave, Lawrence C",11,58,0.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2013,Spring,"Angrave, Lawrence C",2,11,18.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,2
-196,Freshman Honors,2013,Spring,"Fleck, Margaret M",4,6,5.0,7.0,0,1.0,2.0,0,0.0,0.0,1,0.0,1
-196,Freshman Honors,2014,Fall,"Chapman, William L",32,97,14.0,7.0,4,4.0,1.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2014,Spring,"Angrave, Lawrence C",13,45,1.0,1.0,0,0.0,0.0,1,0.0,0.0,0,0.0,1
-196,Freshman Honors,2014,Spring,"Fleck, Margaret M",16,19,3.0,1.0,2,1.0,1.0,0,3.0,0.0,0,0.0,0
-196,Freshman Honors,2015,Fall,"Chapman, William L",62,55,9.0,1.0,5,2.0,1.0,4,0.0,0.0,0,0.0,1
-196,Freshman Honors,2015,Fall,"Fleck, Margaret M",8,12,5.0,0.0,1,0.0,0.0,1,0.0,0.0,1,0.0,1
-196,Freshman Honors,2015,Spring,"Chapman, William L",26,68,23.0,6.0,5,2.0,0.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2015,Spring,"Fleck, Margaret M",3,12,6.0,6.0,3,2.0,1.0,0,1.0,0.0,0,0.0,0
-196,Freshman Honors,2016,Fall,"Chapman, William L",25,89,0.0,2.0,1,0.0,0.0,4,0.0,0.0,0,0.0,0
-196,Freshman Honors,2016,Fall,"Fleck, Margaret M",2,15,0.0,0.0,2,1.0,0.0,0,0.0,0.0,0,0.0,1
-196,Freshman Honors,2016,Spring,"Chapman, William L",23,39,11.0,9.0,6,0.0,0.0,1,0.0,0.0,0,0.0,3
-196,Freshman Honors,2016,Spring,"Fleck, Margaret M",7,6,6.0,2.0,3,0.0,0.0,0,1.0,0.0,0,0.0,0
-196,Freshman Honors,2017,Fall,"Challen, Geoffrey W",7,97,29.0,14.0,7,1.0,3.0,1,2.0,0.0,0,0.0,2
-196,Freshman Honors,2017,Fall,"Fleck, Margaret M",0,22,7.0,1.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2017,Spring,"Chapman, William L",4,25,11.0,8.0,2,2.0,3.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2018,Fall,"Challen, Geoffrey W",6,61,27.0,11.0,3,2.0,1.0,5,0.0,0.0,0,0.0,0
-196,Freshman Honors,2018,Spring,"Challen, Geoffrey W",4,19,10.0,4.0,1,2.0,0.0,0,0.0,0.0,0,0.0,0
-196,Freshman Honors,2018,Spring,"Fleck, Margaret M",1,12,6.0,2.0,1,1.0,0.0,1,0.0,0.0,0,0.0,0
-196,Freshman Honors,2019,Spring,"Challen, Geoffrey W",2,10,4.0,0.0,3,0.0,0.0,0,0.0,0.0,0,1.0,1
-196,Freshman Honors,2019,Spring,"Fleck, Margaret M",2,23,9.0,2.0,1,0.0,0.0,0,1.0,0.0,0,0.0,1
-199,De-Bug your Brain,2017,Fall,"Angrave, Lawrence C",0,22,1.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,1
-199,Elements of Game Design,2016,Winter,"Angrave, Lawrence C",18,4,0.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-199,Elements of Game Design,2017,Winter,"Shaffer, Eric G",0,29,0.0,0.0,2,0.0,0.0,1,0.0,0.0,0,0.0,3
-199,Elements of Game Design,2018,Winter,"Shaffer, Eric G",20,4,2.0,0.0,1,0.0,0.0,1,0.0,0.0,1,0.0,1
-199,Python for Data,2019,Spring,"Davis, Neal E",18,3,4.0,1.0,1,0.0,0.0,0,0.0,0.0,0,0.0,1
-199,Real World Cases Scient Comput,2018,Fall,"Silva, Mariana T",14,33,1.0,2.0,1,1.0,0.0,0,0.0,0.0,0,0.0,1
-199,Undergraduate Open Seminar,2010,Fall,"Angrave, Lawrence C",0,20,0.0,0.0,1,0.0,0.0,1,0.0,0.0,1,0.0,0
-199,Undergraduate Open Seminar,2011,Fall,"Angrave, Lawrence C",0,19,0.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,1
-199,Undergraduate Open Seminar,2011,Spring,"Angrave, Lawrence C",0,21,0.0,0.0,0,0.0,0.0,0,0.0,0.0,3,0.0,0
-199,Undergraduate Open Seminar,2012,Fall,"Angrave, Lawrence C",0,22,0.0,0.0,3,0.0,0.0,1,0.0,0.0,0,0.0,1
-199,Undergraduate Open Seminar,2013,Fall,"Zilles, Craig",0,25,3.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-199,Undergraduate Open Seminar,2013,Spring,"Angrave, Lawrence C",0,36,0.0,0.0,1,0.0,0.0,2,0.0,0.0,0,0.0,4
-199,Undergraduate Open Seminar,2014,Spring,"Angrave, Lawrence C",0,26,0.0,0.0,2,0.0,0.0,2,0.0,0.0,0,0.0,1
-199,Undergraduate Open Seminar,2014,Spring,"Heeren, Cinda",0,9,0.0,0.0,7,0.0,0.0,6,0.0,0.0,1,0.0,1
-199,Undergraduate Open Seminar,2015,Fall,"Heeren, Cinda",0,24,0.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-199,Undergraduate Open Seminar,2015,Spring,"Yershova, Ganna",0,18,0.0,0.0,8,0.0,0.0,0,0.0,0.0,0,0.0,0
-199,Undergraduate Open Seminar,2016,Fall,"Heeren, Cinda",0,25,5.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-199,Undergraduate Open Seminar,2017,Spring,"Heeren, Cinda",3,20,8.0,1.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-210,Ethical & Professional Issues,2010,Fall,"Woodbury, Marsha C",25,59,2.0,3.0,2,1.0,0.0,2,0.0,0.0,0,0.0,1
-210,Ethical & Professional Issues,2010,Spring,"Loui, Michael C",0,25,17.0,6.0,1,0.0,3.0,3,0.0,0.0,0,0.0,0
-210,Ethical & Professional Issues,2011,Fall,"Woodbury, Marsha C",23,45,9.0,10.0,6,0.0,0.0,2,0.0,0.0,1,0.0,0
-210,Ethical & Professional Issues,2011,Spring,"Loui, Michael C",0,29,21.0,2.0,2,1.0,1.0,1,1.0,0.0,1,0.0,0
-210,Ethical & Professional Issues,2012,Fall,"Woodbury, Marsha C",28,29,20.0,5.0,6,4.0,0.0,1,0.0,0.0,2,0.0,1
-210,Ethical & Professional Issues,2013,Spring,"Miller, Keith W",0,46,1.0,0.0,31,1.0,0.0,8,0.0,0.0,2,0.0,0
-210,Ethical & Professional Issues,2014,Fall,"Kirlik, Alex",12,89,17.0,18.0,29,2.0,2.0,9,1.0,0.0,3,1.0,1
-210,Ethical & Professional Issues,2014,Spring,"Kirlik, Alex",5,56,21.0,54.0,23,2.0,3.0,5,1.0,2.0,3,6.0,0
-210,Ethical & Professional Issues,2015,Fall,"Cunningham, Ryan M",3,106,32.0,10.0,21,5.0,1.0,3,0.0,0.0,1,0.0,2
-210,Ethical & Professional Issues,2015,Spring,"Cunningham, Ryan M",6,111,29.0,33.0,42,8.0,6.0,17,2.0,1.0,1,0.0,2
-210,Ethical & Professional Issues,2016,Fall,"Cunningham, Ryan M",8,128,17.0,16.0,15,4.0,1.0,3,0.0,0.0,1,0.0,1
-210,Ethical & Professional Issues,2016,Spring,"Cunningham, Ryan M",3,81,25.0,18.0,35,8.0,8.0,6,1.0,0.0,1,0.0,3
-210,Ethical & Professional Issues,2017,Fall,"Cunningham, Ryan M",32,90,15.0,5.0,12,1.0,1.0,4,1.0,0.0,1,0.0,6
-210,Ethical & Professional Issues,2017,Spring,"Cunningham, Ryan M",10,108,20.0,3.0,12,2.0,2.0,0,1.0,0.0,0,0.0,2
-210,Ethical & Professional Issues,2018,Fall,"Cunningham, Ryan M",27,87,16.0,6.0,7,0.0,0.0,0,0.0,0.0,2,0.0,0
-210,Ethical & Professional Issues,2018,Spring,"Cunningham, Ryan M",49,71,5.0,5.0,10,1.0,0.0,2,0.0,0.0,1,0.0,1
-210,Ethical & Professional Issues,2019,Spring,"Cunningham, Ryan M",4,76,14.0,14.0,14,0.0,4.0,2,0.0,0.0,1,0.0,1
-225,Data Structures,2010,Fall,"Heeren, Cinda",4,69,13.0,17.0,65,5.0,5.0,38,14.0,0.0,22,0.0,12
-225,Data Structures,2010,Spring,"Earls, John C",1,12,3.0,4.0,16,2.0,2.0,9,0.0,0.0,5,0.0,0
-225,Data Structures,2010,Spring,"Karahan, Ibrahim",0,10,1.0,2.0,9,1.0,2.0,12,0.0,0.0,5,0.0,9
-225,Data Structures,2010,Spring,"Kassa, Debessay F",0,5,0.0,2.0,7,1.0,0.0,6,0.0,0.0,0,0.0,4
-225,Data Structures,2010,Spring,"Singh, Varun K",0,5,2.0,1.0,2,1.0,1.0,5,0.0,0.0,5,0.0,1
-225,Data Structures,2011,Fall,"Heeren, Cinda",3,101,20.0,19.0,72,16.0,21.0,34,17.0,0.0,10,0.0,12
-225,Data Structures,2011,Spring,"Heeren, Cinda",0,72,35.0,12.0,49,11.0,9.0,14,5.0,0.0,18,0.0,7
-225,Data Structures,2012,Fall,"Heeren, Cinda",3,109,58.0,23.0,70,14.0,13.0,39,0.0,0.0,21,0.0,21
-225,Data Structures,2012,Spring,"Toole, John D",1,12,6.0,4.0,8,2.0,3.0,4,5.0,0.0,3,0.0,7
-225,Data Structures,2013,Fall,"Heeren, Cinda",5,165,61.0,24.0,61,42.0,23.0,30,13.0,0.0,21,0.0,14
-225,Data Structures,2013,Spring,"Heeren, Cinda",15,77,75.0,22.0,49,25.0,17.0,56,0.0,0.0,33,0.0,22
-225,Data Structures,2014,Fall,"Heeren, Cinda",6,145,48.0,32.0,76,29.0,29.0,37,10.0,0.0,50,0.0,31
-225,Data Structures,2014,Spring,"Heeren, Cinda",5,160,44.0,56.0,74,39.0,32.0,40,12.0,0.0,42,0.0,24
-225,Data Structures,2015,Fall,"Heeren, Cinda",8,175,84.0,49.0,95,32.0,29.0,46,15.0,0.0,32,0.0,23
-225,Data Structures,2015,Spring,"Heeren, Cinda",52,145,109.0,64.0,47,26.0,28.0,23,10.0,14.0,10,0.0,17
-225,Data Structures,2016,Fall,"Heeren, Cinda",26,296,87.0,54.0,73,25.0,30.0,47,0.0,0.0,35,0.0,28
-225,Data Structures,2016,Spring,"Heeren, Cinda",16,210,83.0,40.0,76,24.0,20.0,42,0.0,0.0,30,0.0,23
-225,Data Structures,2016,Spring,"Yershova, Ganna",0,17,14.0,5.0,10,6.0,1.0,6,0.0,0.0,5,0.0,7
-225,Data Structures,2017,Fall,"Fagen-Ulmschnei, Wade A",235,87,54.0,46.0,57,33.0,28.0,42,17.0,24.0,23,28.0,30
-225,Data Structures,2017,Spring,"Heeren, Cinda",19,312,55.0,39.0,53,27.0,16.0,44,0.0,0.0,56,0.0,48
-225,Data Structures,2018,Fall,"Fagen-Ulmschnei, Wade A",25,408,41.0,45.0,44,22.0,28.0,22,15.0,6.0,9,11.0,21
-225,Data Structures,2018,Spring,"Fagen-Ulmschnei, Wade A",19,312,41.0,32.0,43,33.0,15.0,24,12.0,7.0,13,17.0,39
-225,Data Structures,2019,Spring,"Zilles, Craig",23,232,34.0,29.0,25,15.0,12.0,12,11.0,13.0,10,5.0,37
-231,Computer Architecture I,2010,Fall,"Garzaran, Maria J",8,20,11.0,7.0,31,6.0,1.0,32,4.0,0.0,16,0.0,5
-231,Computer Architecture I,2010,Spring,"Kale, Laxmikant V",4,27,5.0,5.0,39,8.0,5.0,19,7.0,5.0,6,1.0,6
-231,Computer Architecture I,2011,Fall,"Garzaran, Maria J",6,53,2.0,7.0,39,4.0,8.0,41,2.0,0.0,17,0.0,4
-231,Computer Architecture I,2011,Spring,"Kale, Laxmikant V",8,28,7.0,14.0,39,15.0,13.0,25,8.0,0.0,8,0.0,11
-232,Computer Architecture II,2010,Fall,"Kumar, Viraj",6,23,16.0,16.0,30,6.0,3.0,7,0.0,1.0,0,1.0,0
-232,Computer Architecture II,2010,Spring,"Aggarwal, Arushi",7,8,3.0,1.0,6,1.0,1.0,0,1.0,0.0,0,0.0,0
-232,Computer Architecture II,2010,Spring,"Cunningham, Ryan M",8,6,3.0,4.0,13,2.0,2.0,0,0.0,1.0,0,0.0,0
-232,Computer Architecture II,2010,Spring,"Guzman Rivera, Abner",4,7,3.0,3.0,13,4.0,2.0,1,2.0,0.0,0,0.0,1
-232,Computer Architecture II,2010,Spring,"Kumar, Viraj",6,7,3.0,2.0,14,0.0,4.0,2,0.0,0.0,0,0.0,0
-232,Computer Architecture II,2010,Spring,"Sukumar, Pritam P",8,7,2.0,3.0,12,0.0,3.0,3,0.0,0.0,1,0.0,0
-232,Computer Architecture II,2011,Fall,"Zilles, Craig",8,27,7.0,8.0,37,4.0,8.0,19,3.0,0.0,8,0.0,3
-232,Computer Architecture II,2011,Spring,"Kumar, Viraj",7,34,26.0,18.0,24,12.0,4.0,5,4.0,0.0,0,0.0,0
-233,Computer Architecture,2014,Fall,"Zilles, Craig",8,37,15.0,13.0,57,13.0,6.0,16,4.0,4.0,13,0.0,11
-233,Computer Architecture,2015,Fall,"Zilles, Craig",12,81,12.0,13.0,93,9.0,7.0,53,9.0,0.0,8,5.0,11
-233,Computer Architecture,2015,Spring,"Zilles, Craig",12,71,17.0,13.0,83,4.0,12.0,41,2.0,4.0,26,9.0,19
-233,Computer Architecture,2016,Fall,"Zilles, Craig",13,142,15.0,14.0,83,7.0,6.0,43,4.0,2.0,21,2.0,22
-233,Computer Architecture,2016,Spring,"Zilles, Craig",7,64,7.0,5.0,35,6.0,5.0,24,1.0,1.0,10,2.0,13
-233,Computer Architecture,2017,Fall,"Herman, Geoffrey L",2,144,8.0,8.0,63,7.0,5.0,38,2.0,0.0,14,0.0,18
-233,Computer Architecture,2017,Spring,"Herman, Geoffrey L",5,69,4.0,12.0,44,0.0,2.0,15,1.0,0.0,14,0.0,24
-233,Computer Architecture,2018,Fall,"Herman, Geoffrey L",13,166,11.0,12.0,57,8.0,4.0,43,3.0,1.0,18,0.0,13
-233,Computer Architecture,2018,Spring,"Herman, Geoffrey L",5,94,6.0,13.0,49,5.0,6.0,13,5.0,1.0,6,4.0,12
-233,Computer Architecture,2019,Spring,"Herman, Geoffrey L",14,131,12.0,3.0,43,3.0,2.0,23,1.0,0.0,19,0.0,12
-241,System Programming,2010,Fall,"Caccamo, Marco",10,11,12.0,13.0,13,7.0,5.0,19,6.0,0.0,18,0.0,13
-241,System Programming,2010,Spring,"Kravets, Robin H",4,45,3.0,3.0,18,7.0,6.0,19,9.0,2.0,7,5.0,8
-241,System Programming,2011,Fall,"Kravets, Robin H",3,18,8.0,7.0,21,3.0,3.0,20,7.0,5.0,3,3.0,17
-241,System Programming,2011,Spring,"Kravets, Robin H",3,13,10.0,8.0,27,11.0,4.0,13,5.0,8.0,14,7.0,12
-241,System Programming,2012,Fall,"Kravets, Robin H",3,29,6.0,6.0,25,6.0,4.0,17,5.0,4.0,24,3.0,21
-241,System Programming,2012,Spring,"Fagen, Wade A",2,3,2.0,1.0,4,2.0,2.0,4,0.0,0.0,3,0.0,3
-241,System Programming,2013,Fall,"Fagen, Wade A",3,24,19.0,14.0,29,16.0,17.0,9,10.0,0.0,15,0.0,16
-241,System Programming,2013,Spring,"Caccamo, Marco",6,18,16.0,25.0,30,14.0,8.0,17,23.0,0.0,8,0.0,21
-241,System Programming,2014,Fall,"Angrave, Lawrence C",21,31,38.0,56.0,31,33.0,21.0,22,28.0,11.0,11,11.0,12
-241,System Programming,2014,Spring,"Caccamo, Marco",7,29,11.0,14.0,25,10.0,9.0,11,8.0,6.0,8,5.0,7
-241,System Programming,2015,Fall,"Angrave, Lawrence C",14,17,13.0,33.0,16,18.0,7.0,14,8.0,13.0,7,9.0,4
-241,System Programming,2015,Spring,"Angrave, Lawrence C",18,19,31.0,23.0,23,19.0,9.0,9,11.0,14.0,5,3.0,9
-241,System Programming,2016,Fall,"Angrave, Lawrence C",51,48,29.0,39.0,26,19.0,15.0,8,7.0,13.0,14,8.0,17
-241,System Programming,2016,Spring,"Angrave, Lawrence C",33,30,33.0,32.0,43,43.0,35.0,14,8.0,21.0,11,4.0,21
-241,System Programming,2017,Fall,"Evans, Graham C",11,24,15.0,21.0,7,23.0,12.0,12,8.0,7.0,8,10.0,5
-241,System Programming,2017,Spring,"Evans, Graham C",32,31,37.0,26.0,20,34.0,31.0,28,19.0,23.0,17,13.0,15
-241,System Programming,2018,Fall,"Angrave, Lawrence C",45,39,26.0,21.0,18,10.0,25.0,17,10.0,10.0,6,0.0,40
-241,System Programming,2018,Spring,"Angrave, Lawrence C",33,46,15.0,27.0,28,16.0,17.0,15,11.0,7.0,7,6.0,19
-241,System Programming,2019,Spring,"Angrave, Lawrence C",56,34,28.0,17.0,38,12.0,17.0,11,13.0,5.0,9,17.0,9
-242,Programming Studio,2010,Fall,"Woodley, Michael J",6,39,35.0,27.0,18,7.0,0.0,0,0.0,0.0,0,0.0,0
-242,Programming Studio,2010,Spring,"Woodley, Michael J",33,37,16.0,8.0,6,1.0,0.0,0,0.0,0.0,0,0.0,0
-242,Programming Studio,2011,Fall,"Woodley, Michael J",11,53,16.0,18.0,10,3.0,2.0,1,1.0,0.0,1,0.0,2
-242,Programming Studio,2011,Spring,"Woodley, Michael J",3,25,26.0,14.0,18,5.0,1.0,3,0.0,0.0,3,0.0,0
-242,Programming Studio,2012,Fall,"Woodley, Michael J",22,75,17.0,7.0,6,1.0,2.0,4,0.0,0.0,0,0.0,1
-242,Programming Studio,2013,Fall,"Woodley, Michael J",9,33,34.0,27.0,21,6.0,7.0,7,2.0,1.0,2,0.0,1
-242,Programming Studio,2013,Spring,"Woodley, Michael J",18,98,16.0,12.0,8,4.0,2.0,0,1.0,0.0,0,0.0,2
-242,Programming Studio,2014,Fall,"Woodley, Michael J",2,19,51.0,51.0,14,19.0,9.0,7,0.0,1.0,2,0.0,1
-242,Programming Studio,2014,Spring,"Woodley, Michael J",33,75,19.0,18.0,8,3.0,3.0,8,0.0,4.0,4,0.0,1
-242,Programming Studio,2015,Fall,"Woodley, Michael J",4,52,60.0,24.0,8,3.0,9.0,5,1.0,3.0,1,1.0,4
-242,Programming Studio,2015,Spring,"Woodley, Michael J",10,38,42.0,24.0,14,10.0,4.0,8,3.0,4.0,1,0.0,4
-242,Programming Studio,2016,Fall,"Woodley, Michael J",4,40,53.0,32.0,17,6.0,11.0,6,0.0,1.0,0,0.0,1
-242,Programming Studio,2016,Spring,"Woodley, Michael J",2,39,48.0,26.0,20,10.0,10.0,8,0.0,2.0,0,0.0,0
-242,Programming Studio,2017,Fall,"Woodley, Michael J",13,54,77.0,33.0,9,11.0,10.0,8,4.0,1.0,4,0.0,8
-242,Programming Studio,2017,Spring,"Woodley, Michael J",16,54,34.0,29.0,12,13.0,8.0,2,3.0,6.0,0,3.0,2
-242,Programming Studio,2018,Fall,"Woodley, Michael J",27,49,51.0,31.0,15,10.0,7.0,6,3.0,3.0,0,2.0,9
-242,Programming Studio,2018,Spring,"Woodley, Michael J",19,47,39.0,18.0,13,9.0,12.0,6,3.0,4.0,3,3.0,6
-242,Programming Studio,2019,Spring,"Woodley, Michael J",24,60,20.0,24.0,15,7.0,6.0,4,3.0,1.0,3,0.0,1
-296,Honors Course,2012,Fall,"Heeren, Cinda",1,22,3.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2013,Fall,"Heeren, Cinda",0,22,7.0,0.0,2,0.0,0.0,1,0.0,0.0,0,0.0,0
-296,Honors Course,2013,Spring,"Heeren, Cinda",3,28,7.0,5.0,5,3.0,1.0,7,0.0,0.0,0,0.0,6
-296,Honors Course,2014,Fall,"Angrave, Lawrence C",6,12,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,4
-296,Honors Course,2014,Fall,"Heeren, Cinda",5,25,2.0,3.0,4,1.0,0.0,0,0.0,0.0,0,0.0,4
-296,Honors Course,2014,Fall,"Zilles, Craig",3,13,0.0,4.0,10,1.0,0.0,1,2.0,0.0,0,0.0,1
-296,Honors Course,2014,Spring,"Heeren, Cinda",3,57,5.0,2.0,5,3.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2014,Spring,"Zilles, Craig",0,18,0.0,1.0,3,3.0,0.0,3,0.0,0.0,2,0.0,0
-296,Honors Course,2015,Fall,"Zilles, Craig",7,9,6.0,1.0,2,1.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2015,Spring,"Heeren, Cinda",6,38,3.0,2.0,3,1.0,0.0,0,0.0,0.0,0,0.0,3
-296,Honors Course,2015,Spring,"Zilles, Craig",2,14,4.0,1.0,10,0.0,0.0,4,0.0,0.0,2,0.0,1
-296,Honors Course,2016,Fall,"Angrave, Lawrence C",5,22,7.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2016,Fall,"Heeren, Cinda",0,53,0.0,0.0,0,0.0,0.0,2,0.0,0.0,0,0.0,0
-296,Honors Course,2016,Fall,"Zilles, Craig",2,8,7.0,1.0,0,1.0,2.0,1,1.0,1.0,0,0.0,1
-296,Honors Course,2016,Spring,"Angrave, Lawrence C",3,22,3.0,2.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2016,Spring,"Heeren, Cinda",8,25,10.0,8.0,3,2.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2017,Fall,"Fagen-Ulmschnei, Wade A",0,92,0.0,0.0,0,0.0,0.0,8,0.0,0.0,0,0.0,0
-296,Honors Course,2017,Fall,"Zilles, Craig",4,12,0.0,2.0,6,0.0,0.0,1,0.0,0.0,0,0.0,3
-296,Honors Course,2017,Spring,"Angrave, Lawrence C",7,19,3.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-296,Honors Course,2017,Spring,"Heeren, Cinda",35,36,2.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-296,Honors Course,2018,Fall,"Fagen-Ulmschnei, Wade A",0,72,2.0,0.0,3,2.0,0.0,2,0.0,0.0,0,0.0,1
-296,Honors Course,2018,Spring,"Fagen-Ulmschnei, Wade A",13,13,5.0,2.0,1,0.0,0.0,1,0.0,0.0,0,0.0,4
-296,Honors Course,2019,Spring,"Fagen-Ulmschnei, Wade A",44,44,5.0,6.0,0,0.0,0.0,1,0.0,0.0,0,0.0,2
-357,Numerical Methods I,2010,Fall,"Hirani, Anil N",8,23,0.0,14.0,7,0.0,5.0,14,12.0,0.0,15,0.0,6
-357,Numerical Methods I,2010,Spring,"Gropp, William D",2,56,25.0,14.0,20,12.0,2.0,5,3.0,0.0,1,2.0,4
-357,Numerical Methods I,2011,Fall,"Yershova, Ganna",9,37,18.0,26.0,25,11.0,19.0,7,9.0,0.0,2,0.0,2
-357,Numerical Methods I,2011,Spring,"Gambill, Thomas N",14,28,25.0,31.0,28,5.0,15.0,10,4.0,2.0,5,0.0,1
-357,Numerical Methods I,2012,Fall,"Hirani, Anil N",2,30,13.0,28.0,18,12.0,3.0,12,4.0,1.0,6,0.0,3
-357,Numerical Methods I,2013,Fall,"Semeraro, Bart D",33,28,28.0,22.0,30,11.0,10.0,11,3.0,1.0,4,2.0,3
-357,Numerical Methods I,2013,Spring,"Shaffer, Eric G",2,91,42.0,7.0,22,11.0,4.0,6,3.0,0.0,4,0.0,3
-357,Numerical Methods I,2014,Fall,"Kloeckner, Andreas P",7,61,23.0,20.0,30,20.0,11.0,19,4.0,13.0,7,3.0,5
-357,Numerical Methods I,2014,Spring,"Semeraro, Bart D",5,19,23.0,26.0,35,27.0,19.0,16,9.0,8.0,3,6.0,2
-357,Numerical Methods I,2015,Fall,"Olson, Luke",0,51,24.0,32.0,33,14.0,17.0,8,7.0,6.0,3,3.0,0
-357,Numerical Methods I,2015,Spring,"Kloeckner, Andreas P",5,52,13.0,21.0,24,7.0,13.0,11,10.0,7.0,6,3.0,0
-357,Numerical Methods I,2015,Spring,"Shaffer, Eric G",2,41,10.0,14.0,25,11.0,16.0,24,3.0,5.0,3,0.0,4
-357,Numerical Methods I,2016,Fall,"Kloeckner, Andreas P",12,113,20.0,18.0,15,12.0,9.0,11,7.0,11.0,12,4.0,9
-357,Numerical Methods I,2016,Spring,"Heath, Michael T",9,16,21.0,14.0,33,18.0,18.0,24,10.0,4.0,8,3.0,6
-357,Numerical Methods I,2016,Spring,"Shaffer, Eric G",3,9,9.0,10.0,17,7.0,8.0,7,9.0,3.0,2,4.0,1
-357,Numerical Methods I,2017,Fall,"Olson, Luke",49,86,43.0,48.0,55,30.0,31.0,36,13.0,12.0,11,5.0,14
-357,Numerical Methods I,2017,Spring,"Kloeckner, Andreas P",59,47,52.0,35.0,31,34.0,32.0,25,15.0,8.0,8,5.0,12
-357,Numerical Methods I,2018,Fall,"Silva, Mariana T",39,100,44.0,35.0,50,30.0,19.0,27,20.0,7.0,8,4.0,9
-357,Numerical Methods I,2018,Spring,"Silva, Mariana T",29,65,70.0,50.0,48,22.0,32.0,19,12.0,9.0,8,9.0,7
-357,Numerical Methods I,2019,Spring,"Silva, Mariana T",41,100,45.0,45.0,34,17.0,20.0,17,7.0,7.0,3,5.0,8
-361,Prob & Stat for Computer Sci,2016,Fall,"Peng, Jian",12,16,7.0,14.0,6,1.0,4.0,2,2.0,0.0,1,0.0,1
-361,Prob & Stat for Computer Sci,2017,Fall,"Barber, Richard C",4,20,5.0,2.0,0,0.0,0.0,0,1.0,0.0,0,0.0,3
-361,Prob & Stat for Computer Sci,2017,Spring,"Sinha, Saurabh",8,21,14.0,3.0,6,6.0,1.0,1,0.0,0.0,2,1.0,1
-361,Prob & Stat for Computer Sci,2018,Fall,"Varodayan, David",9,20,10.0,4.0,7,5.0,3.0,2,3.0,4.0,4,1.0,5
-361,Prob & Stat for Computer Sci,2018,Spring,"Barber, Richard C",10,32,7.0,4.0,9,1.0,0.0,7,1.0,1.0,2,0.0,6
-361,Prob & Stat for Computer Sci,2019,Spring,"Varodayan, David",17,40,20.0,13.0,20,6.0,9.0,7,1.0,1.0,2,1.0,5
-373,Theory of Computation,2010,Fall,"Viswanathan, Mahesh",8,16,21.0,21.0,31,21.0,15.0,6,6.0,5.0,1,0.0,0
-373,Theory of Computation,2010,Spring,"Parthasarathy, Madhusudan",8,18,6.0,9.0,15,12.0,9.0,14,13.0,7.0,4,11.0,0
-373,Theory of Computation,2011,Fall,"Parthasarathy, Madhusudan",6,17,16.0,7.0,16,17.0,17.0,21,10.0,4.0,2,2.0,7
-373,Theory of Computation,2011,Spring,"Lavalle, Steven M",5,19,6.0,10.0,19,13.0,7.0,14,5.0,0.0,6,0.0,1
-373,Theory of Computation,2012,Fall,"Viswanathan, Mahesh",10,64,22.0,15.0,11,7.0,5.0,9,25.0,2.0,0,0.0,1
-373,Theory of Computation,2012,Spring,"Cunningham, Ryan M",11,9,1.0,3.0,4,1.0,1.0,4,2.0,0.0,3,0.0,0
-373,Theory of Computation,2013,Fall,"Viswanathan, Mahesh",7,51,28.0,29.0,23,17.0,14.0,11,9.0,6.0,0,0.0,0
-373,Theory of Computation,2013,Spring,"Viswanathan, Mahesh",12,60,19.0,16.0,16,18.0,9.0,19,10.0,1.0,0,0.0,1
-373,Theory of Computation,2014,Spring,"Meseguer, Jose",5,26,21.0,7.0,15,14.0,14.0,24,6.0,4.0,3,1.0,3
-374,Intro to Algs & Models of Comp,2016,Fall,"Erickson, Jeff G",14,45,27.0,31.0,38,42.0,53.0,40,33.0,38.0,17,5.0,14
-374,Intro to Algs & Models of Comp,2017,Fall,"Har-Peled, Sariel",7,41,33.0,38.0,35,50.0,65.0,51,33.0,33.0,8,6.0,8
-374,Intro to Algs & Models of Comp,2017,Spring,"Chekuri, Chandra S",20,51,28.0,46.0,67,45.0,46.0,32,38.0,17.0,7,5.0,6
-374,Intro to Algs & Models of Comp,2018,Fall,"Borisov, Nikita",5,16,9.0,8.0,4,11.0,5.0,10,8.0,2.0,0,2.0,6
-374,Intro to Algs & Models of Comp,2018,Fall,"Chekuri, Chandra S",16,49,38.0,37.0,34,39.0,42.0,28,29.0,26.0,14,5.0,8
-374,Intro to Algs & Models of Comp,2018,Spring,"Erickson, Jeff G",12,31,25.0,35.0,27,27.0,28.0,25,20.0,21.0,11,5.0,7
-374,Intro to Algs & Models of Comp,2018,Spring,"Viswanathan, Mahesh",5,55,21.0,27.0,10,34.0,6.0,32,20.0,38.0,12,4.0,0
-374,Intro to Algs & Models of Comp,2019,Spring,"Al-Hassanieh, Haitham",3,15,9.0,20.0,17,23.0,21.0,18,9.0,6.0,4,4.0,4
-374,Intro to Algs & Models of Comp,2019,Spring,"Har-Peled, Sariel",9,32,28.0,24.0,34,23.0,41.0,33,35.0,20.0,13,2.0,10
-398,Applied Cloud Computing,2018,Spring,"Brunner, Robert J",13,14,13.0,3.0,8,4.0,0.0,2,0.0,0.0,0,0.0,3
-398,Computer Architecture,2012,Fall,"Zilles, Craig",22,67,23.0,19.0,110,13.0,13.0,50,3.0,0.0,20,0.0,12
-398,Computer Architecture,2013,Fall,"Garzaran, Maria J",4,42,6.0,12.0,64,3.0,4.0,35,0.0,2.0,12,3.0,6
-398,Computer Architecture,2013,Spring,"Zilles, Craig",9,34,24.0,5.0,54,8.0,6.0,25,3.0,0.0,13,0.0,16
-398,Computer Architecture,2014,Spring,"Zilles, Craig",9,44,11.0,8.0,65,7.0,5.0,21,2.0,2.0,12,2.0,11
-398,Deep Learning,2019,Spring,"Sirignano, Justin A",8,30,2.0,1.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-398,Introduction to Data Science,2019,Spring,"Stodden, Victoria",10,7,2.0,5.0,2,1.0,1.0,0,0.0,0.0,0,0.0,1
-410,Text Information Systems,2010,Spring,"Zhai, Chengxiang",14,18,3.0,0.0,8,7.0,0.0,0,0.0,0.0,0,0.0,0
-410,Text Information Systems,2011,Spring,"Zhai, Chengxiang",10,17,8.0,0.0,8,7.0,0.0,1,0.0,0.0,0,0.0,1
-410,Text Information Systems,2013,Spring,"Zhai, Chengxiang",19,43,10.0,13.0,13,6.0,1.0,1,0.0,0.0,0,0.0,0
-410,Text Information Systems,2014,Spring,"Zhai, Chengxiang",9,57,7.0,13.0,2,2.0,0.0,1,0.0,0.0,0,0.0,2
-410,Text Information Systems,2015,Spring,"Zhai, Chengxiang",21,102,16.0,11.0,10,4.0,0.0,0,0.0,0.0,0,0.0,0
-410,Text Information Systems,2016,Fall,"Zhai, Chengxiang",36,24,4.0,2.0,0,0.0,0.0,2,0.0,0.0,0,0.0,1
-410,Text Information Systems,2016,Spring,"Zhai, Chengxiang",17,155,0.0,2.0,11,0.0,1.0,1,0.0,0.0,1,0.0,0
-410,Text Information Systems,2017,Fall,"Zhai, Chengxiang",95,27,6.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-410,Text Information Systems,2017,Spring,"Zhai, Chengxiang",76,54,32.0,7.0,5,1.0,0.0,2,1.0,0.0,1,1.0,0
-410,Text Information Systems,2018,Fall,"Zhai, Chengxiang",133,37,16.0,3.0,1,1.0,0.0,0,0.0,0.0,0,0.0,0
-410,Text Information Systems,2018,Spring,"Zhai, Chengxiang",94,55,23.0,6.0,5,4.0,0.0,1,0.0,0.0,0,0.0,0
-410,Text Information Systems,2019,Spring,"Zhai, Chengxiang",98,57,29.0,6.0,5,1.0,0.0,1,0.0,0.0,1,0.0,0
-411,Database Systems,2010,Fall,"Sinha, Saurabh",14,30,14.0,11.0,20,10.0,10.0,9,7.0,0.0,0,0.0,0
-411,Database Systems,2010,Spring,"Chang, Kevin C",5,16,10.0,26.0,16,6.0,15.0,9,2.0,1.0,1,1.0,0
-411,Database Systems,2011,Fall,"Zhao, Peixiang",4,34,27.0,25.0,23,19.0,16.0,7,4.0,4.0,1,3.0,1
-411,Database Systems,2011,Spring,"Chang, Kevin C",8,26,36.0,21.0,36,33.0,7.0,8,4.0,1.0,1,1.0,2
-411,Database Systems,2012,Fall,"Sinha, Saurabh",20,44,22.0,16.0,38,18.0,4.0,11,6.0,2.0,4,2.0,1
-411,Database Systems,2012,Spring,"Weninger, Timothy E",1,8,11.0,2.0,3,1.0,1.0,1,0.0,0.0,0,0.0,0
-411,Database Systems,2013,Fall,"Chang, Kevin C",9,26,18.0,12.0,32,31.0,14.0,20,18.0,2.0,1,6.0,5
-411,Database Systems,2013,Spring,"Cunningham, Ryan M",16,87,12.0,15.0,43,0.0,2.0,8,0.0,0.0,0,0.0,0
-411,Database Systems,2014,Fall,"Sinha, Saurabh",19,40,21.0,21.0,41,24.0,6.0,12,7.0,1.0,1,0.0,0
-411,Database Systems,2014,Spring,"Cunningham, Ryan M",15,82,27.0,11.0,46,8.0,3.0,2,0.0,0.0,1,0.0,0
-411,Database Systems,2015,Fall,"Sinha, Saurabh",31,65,31.0,12.0,30,17.0,2.0,3,1.0,0.0,0,0.0,2
-411,Database Systems,2015,Spring,"Chang, Kevin C",17,20,50.0,25.0,27,26.0,7.0,8,9.0,4.0,1,1.0,2
-411,Database Systems,2016,Fall,"Chang, Kevin C",16,23,48.0,17.0,30,26.0,6.0,6,13.0,5.0,4,5.0,7
-411,Database Systems,2016,Spring,"Parameswaran, Aditya G",6,28,62.0,56.0,25,13.0,0.0,0,0.0,0.0,0,0.0,0
-411,Database Systems,2017,Fall,"Chang, Kevin C",7,19,15.0,14.0,19,20.0,10.0,6,7.0,5.0,3,6.0,11
-411,Database Systems,2017,Spring,"Parameswaran, Aditya G",13,21,66.0,63.0,22,7.0,0.0,0,0.0,0.0,0,0.0,0
-411,Database Systems,2018,Fall,"Alawini, Abdussalam A",63,25,43.0,26.0,21,5.0,3.0,2,3.0,3.0,1,0.0,0
-411,Database Systems,2018,Spring,"Chang, Kevin C",2,6,8.0,4.0,7,6.0,2.0,2,1.0,1.0,0,0.0,5
-411,Database Systems,2018,Spring,"Parameswaran, Aditya G",8,31,85.0,57.0,31,9.0,0.0,1,0.0,0.0,0,0.0,0
-411,Database Systems,2019,Spring,"Alawini, Abdussalam A",66,94,42.0,29.0,13,6.0,2.0,0,1.0,1.0,1,1.0,0
-411,Database Systems,2019,Spring,"Chang, Kevin C",2,17,10.0,6.0,14,15.0,6.0,3,1.0,1.0,1,1.0,1
-412,Introduction to Data Mining,2010,Fall,"Han, Jiawei",10,20,20.0,12.0,15,8.0,1.0,2,1.0,0.0,0,0.0,5
-412,Introduction to Data Mining,2011,Fall,"Han, Jiawei",12,43,31.0,13.0,6,6.0,3.0,4,0.0,0.0,0,0.0,2
-412,Introduction to Data Mining,2012,Fall,"Han, Jiawei",12,45,41.0,21.0,14,7.0,10.0,2,1.0,0.0,1,0.0,4
-412,Introduction to Data Mining,2013,Fall,"Han, Jiawei",19,58,44.0,32.0,26,30.0,7.0,5,3.0,0.0,0,0.0,7
-412,Introduction to Data Mining,2014,Fall,"Chang, Kevin C",15,30,43.0,14.0,18,16.0,7.0,6,11.0,2.0,1,1.0,10
-412,Introduction to Data Mining,2015,Fall,"Chang, Kevin C",10,23,36.0,16.0,19,25.0,7.0,9,18.0,4.0,6,2.0,9
-412,Introduction to Data Mining,2016,Fall,"Han, Jiawei",23,34,31.0,24.0,30,19.0,12.0,10,4.0,0.0,2,0.0,4
-412,Introduction to Data Mining,2016,Spring,"Sundaram, Hari",5,26,17.0,4.0,8,9.0,1.0,2,5.0,0.0,2,0.0,2
-412,Introduction to Data Mining,2017,Fall,"Han, Jiawei",13,29,22.0,24.0,39,23.0,4.0,9,4.0,1.0,2,1.0,8
-412,Introduction to Data Mining,2017,Spring,"Han, Jiawei",3,16,21.0,5.0,6,0.0,0.0,2,0.0,0.0,0,0.0,1
-412,Introduction to Data Mining,2017,Spring,"Sundaram, Hari",29,55,26.0,9.0,6,5.0,6.0,2,0.0,0.0,0,0.0,1
-412,Introduction to Data Mining,2018,Fall,"Li, Qi",18,54,34.0,12.0,18,9.0,8.0,5,2.0,0.0,0,0.0,0
-412,Introduction to Data Mining,2018,Spring,"Han, Jiawei",9,32,18.0,10.0,9,5.0,2.0,1,0.0,0.0,3,0.0,5
-412,Introduction to Data Mining,2018,Spring,"Sundaram, Hari",16,37,23.0,11.0,23,16.0,16.0,9,0.0,0.0,1,0.0,1
-412,Introduction to Data Mining,2019,Spring,"Han, Jiawei",42,63,40.0,15.0,9,4.0,0.0,1,0.0,0.0,3,0.0,6
-412,Introduction to Data Mining,2019,Spring,"Li, Qi",12,17,11.0,18.0,9,12.0,16.0,5,0.0,0.0,4,0.0,2
-412,Introduction to Data Mining,2019,Spring,"Sinha, Saurabh",4,8,3.0,8.0,5,3.0,0.0,1,4.0,3.0,0,0.0,2
-414,Multimedia Systems,2010,Spring,"Nahrstedt, Klara",3,7,3.0,3.0,5,3.0,1.0,4,0.0,0.0,1,0.0,0
-414,Multimedia Systems,2011,Spring,"Nahrstedt, Klara",3,11,4.0,2.0,6,3.0,1.0,3,1.0,0.0,2,0.0,0
-414,Multimedia Systems,2014,Spring,"Nahrstedt, Klara",0,11,6.0,2.0,12,3.0,1.0,3,1.0,0.0,0,0.0,0
-418,Interactive Computer Graphics,2010,Fall,"Hart, John C",9,13,8.0,3.0,7,6.0,1.0,0,0.0,0.0,1,1.0,0
-418,Interactive Computer Graphics,2010,Spring,"Hart, John C",9,15,7.0,9.0,1,4.0,0.0,1,1.0,0.0,0,0.0,0
-418,Interactive Computer Graphics,2011,Fall,"Hart, John C",2,17,9.0,4.0,4,8.0,1.0,3,0.0,0.0,2,0.0,0
-418,Interactive Computer Graphics,2011,Spring,"Hart, John C",5,17,11.0,2.0,14,0.0,4.0,0,0.0,0.0,1,0.0,1
-418,Interactive Computer Graphics,2012,Fall,"Hart, John C",7,17,8.0,5.0,11,11.0,4.0,7,0.0,0.0,0,0.0,2
-418,Interactive Computer Graphics,2013,Fall,"Hart, John C",0,33,5.0,4.0,32,3.0,2.0,5,1.0,0.0,2,0.0,0
-418,Interactive Computer Graphics,2013,Spring,"Hart, John C",5,68,1.0,25.0,21,8.0,5.0,5,0.0,2.0,6,0.0,1
-418,Interactive Computer Graphics,2014,Fall,"Shaffer, Eric G",0,69,23.0,13.0,6,9.0,4.0,2,0.0,0.0,7,0.0,3
-418,Interactive Computer Graphics,2014,Spring,"Hart, John C",10,72,23.0,37.0,4,12.0,7.0,7,1.0,0.0,0,0.0,5
-418,Interactive Computer Graphics,2015,Fall,"Shaffer, Eric G",10,47,26.0,21.0,22,11.0,6.0,7,6.0,0.0,3,0.0,6
-418,Interactive Computer Graphics,2015,Spring,"Hart, John C",12,32,48.0,31.0,16,10.0,3.0,5,3.0,1.0,2,2.0,5
-418,Interactive Computer Graphics,2016,Fall,"Shaffer, Eric G",6,28,25.0,22.0,24,19.0,8.0,9,4.0,0.0,11,0.0,6
-418,Interactive Computer Graphics,2016,Spring,"Hart, John C",18,52,51.0,13.0,13,9.0,4.0,3,2.0,1.0,0,0.0,1
-418,Interactive Computer Graphics,2017,Fall,"Shaffer, Eric G",9,54,13.0,14.0,16,8.0,11.0,5,3.0,0.0,6,0.0,4
-418,Interactive Computer Graphics,2017,Spring,"Shaffer, Eric G",14,25,23.0,13.0,22,19.0,5.0,17,3.0,0.0,14,0.0,8
-418,Interactive Computer Graphics,2018,Fall,"Hart, John C",25,25,17.0,8.0,6,8.0,2.0,3,1.0,0.0,0,0.0,4
-418,Interactive Computer Graphics,2018,Spring,"Shaffer, Eric G",12,25,14.0,7.0,15,10.0,3.0,20,0.0,0.0,12,0.0,2
-418,Interactive Computer Graphics,2019,Spring,"Shaffer, Eric G",6,17,9.0,6.0,7,5.0,3.0,3,3.0,0.0,3,0.0,6
-419,Production Computer Graphics,2010,Fall,"Forsyth, David A",2,5,5.0,5.0,4,0.0,2.0,0,0.0,0.0,1,0.0,1
-419,Production Computer Graphics,2016,Spring,"Shaffer, Eric G",4,13,8.0,6.0,3,2.0,0.0,2,0.0,0.0,1,0.0,0
-419,Production Computer Graphics,2017,Spring,"Shaffer, Eric G",5,5,1.0,5.0,0,1.0,1.0,2,0.0,0.0,0,0.0,3
-419,Production Computer Graphics,2018,Fall,"Shaffer, Eric G",5,15,7.0,2.0,1,0.0,1.0,0,0.0,0.0,0,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2010,Fall,"Padua, David A",9,3,4.0,6.0,5,1.0,5.0,2,0.0,0.0,0,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2011,Fall,"Padua, David A",4,7,3.0,7.0,5,4.0,1.0,0,0.0,0.0,0,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2012,Fall,"Padua, David A",3,12,1.0,2.0,5,0.0,0.0,5,1.0,0.0,0,1.0,0
-420,Parallel Progrmg: Sci & Engrg,2013,Fall,"Kale, Laxmikant V",4,18,8.0,9.0,11,4.0,3.0,1,3.0,0.0,2,1.0,0
-420,Parallel Progrmg: Sci & Engrg,2014,Fall,"Kale, Laxmikant V",4,18,8.0,11.0,6,4.0,1.0,2,0.0,0.0,0,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2015,Fall,"Kale, Laxmikant V",4,16,11.0,6.0,7,7.0,2.0,1,0.0,0.0,0,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2016,Fall,"Snir, Marc",3,3,5.0,3.0,4,9.0,3.0,2,2.0,1.0,1,0.0,0
-420,Parallel Progrmg: Sci & Engrg,2017,Fall,"Snir, Marc",0,8,3.0,7.0,9,9.0,3.0,1,3.0,1.0,1,0.0,0
-421,Progrmg Languages & Compilers,2010,Fall,"Gunter, Elsa",9,19,7.0,13.0,12,12.0,2.0,8,4.0,1.0,1,1.0,2
-421,Progrmg Languages & Compilers,2010,Spring,"Kamin, Samuel N",19,19,2.0,6.0,7,6.0,9.0,3,3.0,0.0,2,0.0,4
-421,Progrmg Languages & Compilers,2011,Fall,"Gunter, Elsa",7,24,5.0,12.0,19,2.0,7.0,7,4.0,1.0,2,0.0,1
-421,Progrmg Languages & Compilers,2011,Spring,"Kamin, Samuel N",4,45,11.0,3.0,27,4.0,5.0,25,6.0,2.0,1,0.0,3
-421,Progrmg Languages & Compilers,2012,Fall,"Gunter, Elsa",10,14,14.0,12.0,15,4.0,5.0,8,2.0,2.0,2,3.0,1
-421,Progrmg Languages & Compilers,2012,Spring,"Griffith, Dennis E",1,4,2.0,2.0,1,4.0,1.0,2,1.0,0.0,0,1.0,2
-421,Progrmg Languages & Compilers,2013,Fall,"Gunter, Elsa",5,30,15.0,16.0,18,8.0,11.0,8,3.0,2.0,2,1.0,4
-421,Progrmg Languages & Compilers,2013,Spring,"Kamin, Samuel N",17,56,8.0,10.0,12,7.0,9.0,19,2.0,0.0,7,0.0,3
-421,Progrmg Languages & Compilers,2014,Fall,"Gunter, Elsa",6,34,9.0,8.0,12,12.0,4.0,9,3.0,1.0,3,2.0,0
-421,Progrmg Languages & Compilers,2014,Spring,"Rosu, Grigore",16,33,23.0,20.0,29,11.0,15.0,12,8.0,0.0,7,2.0,3
-421,Progrmg Languages & Compilers,2015,Spring,"Agha, Gul A",18,61,22.0,18.0,8,16.0,9.0,6,1.0,2.0,1,2.0,2
-421,Progrmg Languages & Compilers,2016,Fall,"Gunter, Elsa",35,37,15.0,12.0,28,3.0,8.0,16,5.0,3.0,3,1.0,3
-421,Progrmg Languages & Compilers,2016,Spring,"Beckman, A M",76,71,25.0,20.0,24,6.0,5.0,13,4.0,0.0,1,0.0,4
-421,Progrmg Languages & Compilers,2017,Fall,"Gunter, Elsa",12,97,7.0,5.0,13,7.0,4.0,4,2.0,2.0,2,2.0,0
-421,Progrmg Languages & Compilers,2017,Fall,"Misailovic, Sasa",7,45,3.0,8.0,10,2.0,3.0,5,2.0,0.0,1,3.0,1
-421,Progrmg Languages & Compilers,2017,Spring,"Beckman, A M",27,136,37.0,18.0,20,8.0,9.0,9,3.0,0.0,12,0.0,7
-421,Progrmg Languages & Compilers,2018,Fall,"Misailovic, Sasa",7,56,6.0,1.0,3,1.0,5.0,1,1.0,1.0,2,1.0,1
-421,Progrmg Languages & Compilers,2018,Fall,"Parthasarathy, Madhusudan",5,69,4.0,4.0,3,5.0,5.0,3,2.0,1.0,1,3.0,0
-421,Progrmg Languages & Compilers,2018,Spring,"Beckman, A M",33,125,28.0,24.0,28,12.0,9.0,7,3.0,0.0,8,0.0,1
-421,Progrmg Languages & Compilers,2019,Spring,"Beckman, A M",55,133,34.0,23.0,16,14.0,12.0,13,3.0,0.0,5,0.0,2
-422,Programming Language Design,2013,Fall,"Rosu, Grigore",8,9,2.0,0.0,0,3.0,0.0,0,0.0,0.0,0,0.0,0
-423,Operating Systems Design,2010,Fall,"Campbell, R H",3,7,11.0,5.0,6,0.0,0.0,0,0.0,0.0,0,0.0,0
-423,Operating Systems Design,2010,Spring,"Abdelzaher, Tarek",11,6,5.0,3.0,3,3.0,2.0,1,0.0,0.0,1,0.0,1
-423,Operating Systems Design,2011,Fall,"Nahrstedt, Klara",5,7,2.0,5.0,18,5.0,3.0,3,0.0,0.0,0,0.0,0
-423,Operating Systems Design,2011,Spring,"Gunter, Elsa",4,8,2.0,9.0,4,0.0,3.0,2,1.0,0.0,0,0.0,0
-423,Operating Systems Design,2012,Fall,"Abdelzaher, Tarek",20,30,10.0,10.0,11,4.0,2.0,0,0.0,0.0,0,0.0,0
-423,Operating Systems Design,2013,Spring,"Nahrstedt, Klara",9,14,2.0,4.0,6,0.0,0.0,2,0.0,0.0,0,0.0,0
-423,Operating Systems Design,2014,Spring,"Abdelzaher, Tarek",23,28,10.0,4.0,2,1.0,0.0,0,0.0,0.0,1,0.0,0
-423,Operating Systems Design,2015,Spring,"Abdelzaher, Tarek",21,50,22.0,15.0,8,2.0,1.0,0,0.0,0.0,1,0.0,0
-423,Operating Systems Design,2016,Spring,"Abdelzaher, Tarek",16,39,13.0,11.0,15,6.0,1.0,0,2.0,0.0,0,2.0,0
-423,Operating Systems Design,2017,Spring,"Bates, Adam M",4,13,12.0,17.0,28,17.0,8.0,12,5.0,0.0,5,0.0,0
-423,Operating Systems Design,2018,Spring,"Bates, Adam M",9,21,7.0,5.0,11,10.0,1.0,2,1.0,0.0,3,0.0,0
-423,Operating Systems Design,2019,Spring,"Bates, Adam M",5,6,6.0,2.0,5,7.0,5.0,0,2.0,0.0,0,1.0,3
-424,Real-Time Systems,2012,Fall,"Sha, Lui R",0,13,4.0,2.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-424,Real-Time Systems,2013,Fall,"Abdelzaher, Tarek",2,7,9.0,10.0,4,2.0,1.0,2,0.0,0.0,0,0.0,0
-424,Real-Time Systems,2014,Fall,"Abdelzaher, Tarek",7,6,11.0,7.0,10,4.0,2.0,0,0.0,0.0,0,0.0,0
-424,Real-Time Systems,2016,Fall,"Abdelzaher, Tarek",4,13,10.0,6.0,3,3.0,1.0,0,0.0,0.0,1,0.0,0
-424,Real-Time Systems,2017,Fall,"Abdelzaher, Tarek",2,14,8.0,6.0,6,0.0,2.0,3,1.0,0.0,1,0.0,0
-424,Real-Time Systems,2018,Fall,"Sha, Lui R",6,18,0.0,2.0,1,0.0,1.0,1,0.0,0.0,0,0.0,0
-425,Distributed Systems,2010,Fall,"Gupta, Indranil",2,2,13.0,8.0,3,11.0,0.0,1,0.0,0.0,0,0.0,0
-425,Distributed Systems,2010,Spring,"Nagaraja, Shishir",2,2,2.0,4.0,3,5.0,5.0,4,5.0,0.0,0,0.0,2
-425,Distributed Systems,2011,Fall,"Borisov, Nikita",6,4,5.0,3.0,3,5.0,1.0,3,4.0,2.0,1,4.0,2
-425,Distributed Systems,2011,Spring,"Vaidya, Nitin H",2,16,5.0,2.0,11,3.0,3.0,1,0.0,0.0,0,0.0,0
-425,Distributed Systems,2012,Fall,"Gupta, Indranil",7,18,22.0,18.0,8,3.0,0.0,0,0.0,0.0,0,0.0,0
-425,Distributed Systems,2012,Spring,"Montanari, Mirko",3,5,8.0,1.0,2,3.0,2.0,0,0.0,0.0,0,0.0,0
-425,Distributed Systems,2013,Fall,"Gupta, Indranil",11,22,44.0,18.0,5,1.0,0.0,0,0.0,0.0,0,0.0,0
-425,Distributed Systems,2013,Spring,"Borisov, Nikita",7,9,17.0,6.0,9,4.0,2.0,2,2.0,1.0,1,0.0,4
-425,Distributed Systems,2014,Fall,"Gupta, Indranil",11,28,41.0,26.0,27,30.0,4.0,0,0.0,0.0,0,0.0,1
-425,Distributed Systems,2014,Spring,"Vaidya, Nitin H",5,17,17.0,18.0,17,2.0,7.0,4,0.0,0.0,2,0.0,1
-425,Distributed Systems,2015,Fall,"Gupta, Indranil",20,24,58.0,61.0,27,3.0,2.0,0,0.0,0.0,0,0.0,1
-425,Distributed Systems,2015,Spring,"Vaidya, Nitin H",2,26,8.0,19.0,22,22.0,14.0,11,5.0,3.0,0,0.0,0
-425,Distributed Systems,2016,Fall,"Gupta, Indranil",17,21,51.0,45.0,43,25.0,2.0,0,0.0,0.0,0,0.0,2
-425,Distributed Systems,2016,Spring,"Vaidya, Nitin H",6,35,18.0,16.0,47,13.0,5.0,14,3.0,5.0,0,1.0,2
-425,Distributed Systems,2017,Fall,"Gupta, Indranil",20,32,58.0,52.0,46,26.0,3.0,5,1.0,0.0,0,0.0,9
-425,Distributed Systems,2017,Spring,"Borisov, Nikita",11,25,24.0,20.0,20,21.0,17.0,10,4.0,6.0,4,1.0,5
-425,Distributed Systems,2018,Fall,"Gupta, Indranil",21,31,107.0,75.0,31,7.0,0.0,2,1.0,0.0,2,0.0,8
-425,Distributed Systems,2018,Spring,"Vaidya, Nitin H",5,38,40.0,49.0,31,26.0,19.0,9,1.0,0.0,1,1.0,1
-425,Distributed Systems,2019,Spring,"Borisov, Nikita",15,33,23.0,25.0,26,17.0,13.0,6,2.0,2.0,2,0.0,4
-426,Compiler Construction,2012,Fall,"Adve, Vikram S",3,5,2.0,0.0,4,4.0,0.0,3,0.0,0.0,0,0.0,1
-426,Compiler Construction,2013,Fall,"Adve, Vikram S",3,6,6.0,3.0,4,0.0,0.0,0,0.0,0.0,1,0.0,2
-426,Compiler Construction,2015,Fall,"Adve, Vikram S",2,7,5.0,3.0,2,1.0,0.0,4,0.0,0.0,0,0.0,0
-426,Compiler Construction,2016,Fall,"Adve, Vikram S",0,11,4.0,7.0,3,5.0,2.0,0,0.0,0.0,0,0.0,0
-427,Software Engineering I,2010,Fall,"Johnson, Ralph E",15,27,28.0,12.0,7,6.0,2.0,1,0.0,0.0,2,0.0,0
-427,Software Engineering I,2011,Fall,"Dig, Daniel",4,45,26.0,37.0,15,7.0,3.0,3,2.0,0.0,0,0.0,2
-427,Software Engineering I,2013,Fall,"Marinov, Darko",22,35,36.0,43.0,32,8.0,3.0,4,2.0,2.0,0,0.0,1
-427,Software Engineering I,2014,Fall,"Xie, Tao",6,39,48.0,41.0,26,5.0,2.0,0,1.0,3.0,0,0.0,1
-427,Software Engineering I,2015,Fall,"Marinov, Darko",13,46,32.0,30.0,17,15.0,12.0,5,0.0,0.0,0,0.0,1
-427,Software Engineering I,2016,Fall,"Rosu, Grigore",9,16,21.0,16.0,25,15.0,17.0,5,2.0,1.0,0,0.0,1
-427,Software Engineering I,2017,Fall,"Rosu, Grigore",15,37,15.0,21.0,18,7.0,6.0,2,1.0,1.0,2,0.0,1
-427,Software Engineering I,2018,Fall,"Xie, Tao",85,43,10.0,4.0,1,0.0,0.0,1,0.0,0.0,0,0.0,2
-428,Software Engineering II,2010,Spring,"Marinov, Darko",5,17,12.0,5.0,5,4.0,1.0,0,0.0,0.0,0,0.0,1
-428,Software Engineering II,2011,Spring,"Johnson, Ralph E",2,8,7.0,5.0,1,1.0,0.0,0,0.0,0.0,0,0.0,0
-428,Software Engineering II,2013,Spring,"Dig, Daniel",0,4,10.0,1.0,7,6.0,0.0,0,0.0,0.0,0,0.0,0
-428,Software Engineering II,2014,Spring,"Marinov, Darko",0,3,6.0,2.0,8,6.0,2.0,0,1.0,0.0,0,0.0,0
-428,Software Engineering II,2015,Spring,"Xie, Tao",6,10,8.0,6.0,5,2.0,0.0,0,0.0,0.0,0,0.0,0
-428,Software Engineering II,2016,Spring,"Xie, Tao",9,11,4.0,4.0,3,1.0,0.0,0,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2010,Spring,"Marinov, Darko",5,17,15.0,3.0,13,6.0,2.0,2,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2011,Spring,"Johnson, Ralph E",4,20,16.0,15.0,10,6.0,1.0,0,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2013,Spring,"Dig, Daniel",8,15,27.0,10.0,23,17.0,0.0,5,2.0,0.0,0,0.0,1
-429,"Software Engineering II, ACP",2014,Spring,"Marinov, Darko",13,25,32.0,20.0,17,17.0,3.0,5,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2015,Spring,"Xie, Tao",16,18,12.0,20.0,25,6.0,4.0,2,0.0,0.0,1,0.0,0
-429,"Software Engineering II, ACP",2016,Spring,"Xie, Tao",10,8,20.0,18.0,7,1.0,1.0,1,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2017,Spring,"Xie, Tao",2,9,10.0,5.0,7,4.0,3.0,0,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2018,Spring,"Marinov, Darko",3,7,11.0,10.0,3,4.0,0.0,0,0.0,0.0,0,0.0,0
-429,"Software Engineering II, ACP",2019,Spring,"Marinov, Darko",3,8,8.0,2.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-431,Embedded Systems,2010,Fall,"Sha, Lui R",4,7,4.0,15.0,7,3.0,0.0,1,0.0,0.0,0,0.0,1
-431,Embedded Systems,2010,Spring,"Caccamo, Marco",4,3,4.0,6.0,7,7.0,0.0,10,0.0,0.0,2,0.0,3
-431,Embedded Systems,2011,Fall,"Caccamo, Marco",3,9,0.0,6.0,13,0.0,0.0,10,0.0,0.0,2,0.0,0
-431,Embedded Systems,2011,Spring,"Caccamo, Marco",3,3,4.0,8.0,4,6.0,0.0,11,0.0,0.0,2,0.0,1
-431,Embedded Systems,2012,Fall,"Caccamo, Marco",6,1,2.0,7.0,5,5.0,0.0,12,0.0,0.0,5,0.0,0
-431,Embedded Systems,2013,Fall,"Caccamo, Marco",3,5,4.0,5.0,10,1.0,0.0,19,0.0,0.0,5,0.0,2
-431,Embedded Systems,2013,Spring,"Sha, Lui R",8,13,3.0,10.0,13,8.0,2.0,0,0.0,0.0,0,0.0,0
-431,Embedded Systems,2014,Fall,"Sha, Lui R",8,13,6.0,7.0,4,5.0,6.0,4,1.0,0.0,2,0.0,1
-431,Embedded Systems,2014,Spring,"Sha, Lui R",10,19,12.0,8.0,4,4.0,0.0,1,0.0,0.0,0,0.0,0
-431,Embedded Systems,2015,Fall,"Sha, Lui R",8,20,0.0,12.0,19,7.0,0.0,9,0.0,3.0,2,0.0,1
-431,Embedded Systems,2015,Spring,"Caccamo, Marco",1,5,6.0,8.0,8,11.0,0.0,12,0.0,0.0,6,0.0,1
-431,Embedded Systems,2016,Fall,"Caccamo, Marco",3,9,2.0,11.0,16,7.0,8.0,7,3.0,0.0,5,0.0,3
-431,Embedded Systems,2016,Spring,"Sha, Lui R",3,2,0.0,10.0,16,3.0,4.0,3,3.0,0.0,0,0.0,0
-431,Embedded Systems,2017,Fall,"Caccamo, Marco",2,6,1.0,5.0,11,5.0,3.0,3,2.0,0.0,3,0.0,2
-431,Embedded Systems,2017,Spring,"Sha, Lui R",5,7,18.0,16.0,5,1.0,0.0,1,0.0,0.0,0,0.0,0
-431,Embedded Systems,2018,Spring,"Sha, Lui R",7,10,7.0,8.0,3,0.0,0.0,4,0.0,0.0,0,0.0,0
-431,Embedded Systems,2019,Spring,"Sha, Lui R",3,8,12.0,6.0,5,0.0,0.0,2,0.0,0.0,0,0.0,0
-433,Computer System Organization,2010,Fall,"Adve, Sarita V",1,14,4.0,5.0,2,0.0,0.0,1,1.0,0.0,0,1.0,0
-433,Computer System Organization,2010,Spring,"Adve, Sarita V",1,10,16.0,12.0,14,7.0,5.0,0,1.0,0.0,0,0.0,0
-433,Computer System Organization,2011,Fall,"Adve, Sarita V",3,7,4.0,2.0,4,2.0,1.0,1,0.0,0.0,1,0.0,1
-433,Computer System Organization,2011,Spring,"Adve, Sarita V",0,7,14.0,18.0,13,1.0,1.0,2,1.0,2.0,1,0.0,0
-433,Computer System Organization,2012,Fall,"Adve, Sarita V",5,6,7.0,8.0,5,2.0,0.0,2,1.0,0.0,0,0.0,0
-433,Computer System Organization,2013,Fall,"Torrellas, Josep",3,7,0.0,1.0,6,2.0,0.0,2,0.0,0.0,0,0.0,1
-433,Computer System Organization,2013,Spring,"Adve, Sarita V",3,14,7.0,6.0,6,4.0,0.0,1,0.0,0.0,0,0.0,1
-433,Computer System Organization,2014,Fall,"Torrellas, Josep",4,6,2.0,3.0,8,0.0,1.0,2,0.0,0.0,1,0.0,0
-433,Computer System Organization,2014,Spring,"Adve, Sarita V",2,8,3.0,3.0,15,2.0,3.0,1,0.0,0.0,0,0.0,2
-433,Computer System Organization,2015,Fall,"Torrellas, Josep",5,9,1.0,0.0,7,0.0,0.0,2,1.0,0.0,0,0.0,1
-433,Computer System Organization,2015,Spring,"Garzaran, Maria J",4,6,0.0,1.0,3,0.0,2.0,4,0.0,0.0,0,0.0,1
-433,Computer System Organization,2016,Fall,"Adve, Sarita V",5,9,3.0,2.0,3,5.0,0.0,0,0.0,0.0,1,0.0,0
-433,Computer System Organization,2016,Spring,"Adve, Sarita V",0,6,5.0,4.0,5,2.0,0.0,1,1.0,0.0,0,0.0,0
-433,Computer System Organization,2017,Fall,"Torrellas, Josep",4,6,0.0,4.0,4,3.0,0.0,2,1.0,0.0,0,0.0,0
-433,Computer System Organization,2017,Spring,"Adve, Sarita V",5,6,4.0,5.0,4,1.0,1.0,0,0.0,0.0,0,0.0,0
-433,Computer System Organization,2018,Fall,"Adve, Sarita V",2,10,8.0,7.0,2,2.0,0.0,0,0.0,0.0,1,0.0,0
-433,Computer System Organization,2018,Spring,"Fletcher, Christopher W",3,5,5.0,3.0,4,1.0,0.0,2,1.0,0.0,0,0.0,0
-433,Computer System Organization,2019,Spring,"Fletcher, Christopher W",2,4,7.0,3.0,2,3.0,1.0,1,0.0,0.0,1,0.0,0
-438,Communication Networks,2010,Fall,"Lumetta, Steven S",1,10,12.0,5.0,8,8.0,6.0,2,0.0,0.0,0,0.0,0
-438,Communication Networks,2010,Spring,"Caesar, Matthew C",5,2,5.0,2.0,5,2.0,2.0,4,3.0,0.0,2,1.0,4
-438,Communication Networks,2011,Spring,"Godfrey, Philip B",2,4,4.0,6.0,3,3.0,0.0,4,1.0,1.0,2,2.0,3
-438,Communication Networks,2012,Fall,"Vaidya, Nitin H",3,14,9.0,7.0,5,10.0,4.0,7,0.0,1.0,0,1.0,2
-438,Communication Networks,2013,Fall,"Vaidya, Nitin H",2,22,7.0,2.0,28,4.0,4.0,11,2.0,1.0,0,1.0,0
-438,Communication Networks,2013,Spring,"Kravets, Robin H",4,13,9.0,3.0,13,4.0,1.0,7,1.0,1.0,5,0.0,8
-438,Communication Networks,2014,Fall,"Roy Choudhury, Romit",8,20,23.0,11.0,7,4.0,3.0,0,0.0,0.0,0,0.0,0
-438,Communication Networks,2014,Spring,"Caesar, Matthew C",6,13,1.0,5.0,12,1.0,2.0,16,1.0,0.0,5,1.0,7
-438,Communication Networks,2015,Fall,"Roy Choudhury, Romit",9,27,21.0,15.0,13,0.0,0.0,1,1.0,0.0,0,0.0,0
-438,Communication Networks,2015,Spring,"Kravets, Robin H",2,27,5.0,3.0,13,4.0,4.0,7,4.0,3.0,2,5.0,15
-438,Communication Networks,2016,Fall,"Borisov, Nikita",2,11,9.0,8.0,7,12.0,9.0,8,4.0,2.0,1,0.0,8
-438,Communication Networks,2016,Spring,"Kravets, Robin H",3,30,3.0,5.0,8,6.0,2.0,3,1.0,2.0,4,4.0,12
-438,Communication Networks,2017,Fall,"Al-Hassanieh, Haitham",7,20,12.0,9.0,23,3.0,5.0,2,0.0,0.0,0,0.0,0
-438,Communication Networks,2017,Spring,"Kravets, Robin H",2,28,2.0,4.0,12,7.0,3.0,6,4.0,1.0,2,3.0,9
-438,Communication Networks,2018,Fall,"Roy Choudhury, Romit",7,17,35.0,24.0,13,11.0,3.0,1,0.0,0.0,0,0.0,0
-438,Communication Networks,2018,Spring,"Kravets, Robin H",0,18,4.0,2.0,7,3.0,2.0,9,1.0,1.0,2,3.0,12
-438,Communication Networks,2019,Spring,"Kravets, Robin H",1,21,8.0,1.0,8,1.0,3.0,5,5.0,0.0,3,1.0,6
-440,Artificial Intelligence,2010,Fall,"Dejong, Gerald F",11,13,2.0,1.0,15,4.0,1.0,7,0.0,0.0,9,0.0,2
-440,Artificial Intelligence,2010,Spring,"Amir, Eyal",6,9,11.0,3.0,11,8.0,0.0,3,4.0,0.0,2,0.0,3
-440,Artificial Intelligence,2011,Fall,"DeJong, Gerald F",7,14,4.0,6.0,14,3.0,2.0,10,0.0,0.0,3,1.0,1
-440,Artificial Intelligence,2011,Spring,"Hockenmaier, Julia C",2,11,12.0,16.0,13,12.0,10.0,7,1.0,4.0,3,0.0,1
-440,Artificial Intelligence,2012,Fall,"Lazebnik, Svetlana",17,29,13.0,4.0,17,5.0,1.0,10,3.0,5.0,5,1.0,0
-440,Artificial Intelligence,2013,Fall,"Lazebnik, Svetlana",21,57,5.0,9.0,25,6.0,0.0,20,0.0,1.0,5,4.0,2
-440,Artificial Intelligence,2013,Spring,"DeJong, Gerald F",3,19,7.0,4.0,17,7.0,7.0,7,8.0,1.0,6,2.0,0
-440,Artificial Intelligence,2014,Fall,"DeJong, Gerald F",0,53,0.0,0.0,48,0.0,0.0,16,0.0,0.0,2,0.0,0
-440,Artificial Intelligence,2014,Spring,"DeJong, Gerald F",9,19,10.0,8.0,35,8.0,11.0,19,6.0,0.0,2,1.0,0
-440,Artificial Intelligence,2015,Fall,"Lazebnik, Svetlana",30,52,7.0,5.0,44,5.0,2.0,19,1.0,3.0,5,1.0,4
-440,Artificial Intelligence,2015,Spring,"Lazebnik, Svetlana",18,59,7.0,7.0,41,0.0,0.0,19,2.0,0.0,5,1.0,9
-440,Artificial Intelligence,2016,Fall,"Hasegawa-Johnso, Mark A",8,21,0.0,2.0,24,1.0,4.0,9,0.0,2.0,2,1.0,4
-440,Artificial Intelligence,2016,Fall,"Lazebnik, Svetlana",27,52,8.0,6.0,55,3.0,3.0,22,1.0,1.0,4,2.0,1
-440,Artificial Intelligence,2016,Spring,"DeJong, Gerald F",11,32,5.0,0.0,56,14.0,0.0,13,0.0,0.0,6,0.0,3
-440,Artificial Intelligence,2017,Fall,"Hasegawa-Johnso, Mark A",31,66,13.0,12.0,76,15.0,8.0,19,3.0,1.0,15,2.0,1
-440,Artificial Intelligence,2017,Fall,"Lazebnik, Svetlana",43,56,6.0,4.0,46,1.0,3.0,15,0.0,0.0,6,1.0,4
-440,Artificial Intelligence,2017,Spring,"DeJong, Gerald F",3,52,3.0,0.0,54,2.0,0.0,49,0.0,0.0,3,0.0,1
-440,Artificial Intelligence,2018,Fall,"Fleck, Margaret M",40,53,55.0,42.0,29,29.0,10.0,7,2.0,1.0,2,3.0,4
-440,Artificial Intelligence,2018,Spring,"Hasegawa-Johnso, Mark A",57,107,8.0,14.0,68,22.0,8.0,11,2.0,3.0,8,1.0,1
-440,Artificial Intelligence,2019,Spring,"Hasegawa-Johnso, Mark A",5,90,24.0,25.0,63,8.0,6.0,8,2.0,0.0,0,0.0,0
-440,Artificial Intelligence,2019,Spring,"Hockenmaier, Julia C",0,30,5.0,14.0,24,2.0,1.0,5,1.0,0.0,0,1.0,1
-445,Computational Photography,2015,Fall,"Hoiem, Derek W",9,22,12.0,9.0,12,4.0,3.0,1,0.0,1.0,0,0.0,2
-445,Computational Photography,2017,Fall,"Hoiem, Derek W",12,53,9.0,3.0,3,4.0,4.0,3,0.0,0.0,1,0.0,0
-446,Machine Learning,2010,Fall,"Roth, Dan",7,11,7.0,3.0,3,3.0,3.0,0,0.0,0.0,0,0.0,2
-446,Machine Learning,2011,Fall,"Roth, Dan",8,13,6.0,6.0,1,1.0,0.0,0,0.0,0.0,0,0.0,1
-446,Machine Learning,2012,Fall,"Roth, Dan",5,28,10.0,17.0,11,2.0,1.0,0,0.0,0.0,0,0.0,3
-446,Machine Learning,2013,Fall,"Hockenmaier, Julia C",7,26,23.0,21.0,12,14.0,3.0,4,2.0,2.0,3,0.0,1
-446,Machine Learning,2015,Fall,"Roth, Dan",9,29,43.0,45.0,15,2.0,0.0,0,0.0,0.0,2,0.0,4
-446,Machine Learning,2015,Spring,"Hockenmaier, Julia C",7,29,9.0,19.0,12,16.0,6.0,6,0.0,2.0,0,1.0,2
-446,Machine Learning,2016,Fall,"Roth, Dan",9,41,25.0,63.0,13,11.0,0.0,5,0.0,0.0,2,0.0,4
-446,Machine Learning,2017,Fall,"Koyejo, Oluwasanmi O",9,30,24.0,16.0,19,1.0,4.0,1,3.0,2.0,0,2.0,6
-446,Machine Learning,2017,Spring,"Roth, Dan",14,22,30.0,31.0,34,7.0,0.0,2,0.0,0.0,2,0.0,4
-446,Machine Learning,2018,Fall,"Koyejo, Oluwasanmi O",19,24,23.0,24.0,13,10.0,6.0,2,4.0,1.0,0,1.0,5
-446,Machine Learning,2018,Spring,"Telgarsky, Matus J",13,67,76.0,46.0,41,23.0,2.0,0,0.0,0.0,3,0.0,0
-446,Machine Learning,2019,Spring,"Schwing, Alexander G",10,44,23.0,21.0,27,13.0,0.0,1,0.0,0.0,1,0.0,2
-446,Machine Learning,2019,Spring,"Telgarsky, Matus J",4,15,14.0,13.0,5,6.0,0.0,1,0.0,0.0,0,0.0,1
-447,Natural Language Processing,2014,Fall,"Hockenmaier, Julia C",9,5,6.0,4.0,4,1.0,3.0,2,1.0,0.0,0,0.0,0
-447,Natural Language Processing,2015,Fall,"Hockenmaier, Julia C",15,18,10.0,10.0,6,7.0,2.0,1,2.0,0.0,0,0.0,0
-447,Natural Language Processing,2017,Fall,"Hockenmaier, Julia C",18,30,15.0,7.0,4,6.0,1.0,1,0.0,0.0,0,0.0,1
-447,Natural Language Processing,2018,Fall,"Hockenmaier, Julia C",11,18,13.0,14.0,11,0.0,2.0,2,0.0,0.0,3,0.0,1
-450,Numerical Analysis,2010,Fall,"Heath, Michael T",7,15,8.0,15.0,12,10.0,5.0,0,0.0,0.0,2,0.0,0
-450,Numerical Analysis,2010,Spring,"Bond, Stephen",2,14,1.0,3.0,3,5.0,1.0,1,3.0,0.0,1,2.0,3
-450,Numerical Analysis,2011,Fall,"Hirani, Anil N",2,22,10.0,8.0,6,4.0,4.0,1,5.0,0.0,0,2.0,1
-450,Numerical Analysis,2011,Spring,"Olson, Luke",1,6,11.0,6.0,5,2.0,1.0,4,2.0,0.0,0,2.0,0
-450,Numerical Analysis,2012,Fall,"Heath, Michael T",11,20,18.0,15.0,18,9.0,2.0,3,0.0,1.0,0,0.0,0
-450,Numerical Analysis,2013,Fall,"Olson, Luke",0,39,13.0,16.0,18,5.0,6.0,6,10.0,5.0,1,5.0,6
-450,Numerical Analysis,2013,Spring,"Hirani, Anil N",1,16,4.0,7.0,11,1.0,5.0,20,3.0,0.0,4,0.0,8
-450,Numerical Analysis,2014,Fall,"Heath, Michael T",7,21,22.0,23.0,18,14.0,8.0,7,3.0,1.0,2,0.0,2
-450,Numerical Analysis,2014,Spring,"Kloeckner, Andreas P",0,33,11.0,5.0,12,7.0,5.0,1,2.0,1.0,1,1.0,2
-450,Numerical Analysis,2015,Fall,"Fischer, Paul",9,30,18.0,11.0,22,6.0,6.0,2,2.0,0.0,1,0.0,0
-450,Numerical Analysis,2015,Spring,"Fischer, Paul",7,16,19.0,20.0,29,14.0,7.0,6,6.0,0.0,2,0.0,1
-450,Numerical Analysis,2016,Fall,"Heath, Michael T",4,17,24.0,15.0,26,20.0,16.0,14,12.0,1.0,1,3.0,2
-450,Numerical Analysis,2016,Spring,"Kloeckner, Andreas P",7,54,10.0,13.0,23,5.0,5.0,7,1.0,2.0,2,0.0,2
-450,Numerical Analysis,2017,Fall,"Fischer, Paul",2,29,23.0,24.0,14,14.0,10.0,3,3.0,1.0,0,1.0,1
-450,Numerical Analysis,2017,Spring,"Fischer, Paul",3,10,26.0,28.0,22,17.0,14.0,7,3.0,0.0,4,1.0,1
-450,Numerical Analysis,2018,Fall,"Solomonik, Edgar V",20,35,13.0,8.0,6,3.0,2.0,5,2.0,0.0,0,0.0,3
-450,Numerical Analysis,2018,Spring,"Solomonik, Edgar V",7,23,14.0,14.0,9,11.0,9.0,7,4.0,4.0,5,2.0,8
-450,Numerical Analysis,2019,Spring,"Kloeckner, Andreas P",10,45,14.0,11.0,15,7.0,7.0,10,4.0,4.0,2,2.0,0
-457,Numerical Methods II,2011,Spring,"Gropp, William D",1,8,0.0,0.0,2,0.0,3.0,2,6.0,0.0,0,0.0,2
-460,Security Laboratory,2010,Spring,"Hinrichs, Susan",0,13,16.0,1.0,1,1.0,0.0,0,0.0,1.0,0,0.0,0
-460,Security Laboratory,2011,Spring,"Hinrichs, Susan",0,24,7.0,3.0,1,0.0,0.0,3,1.0,0.0,1,0.0,1
-460,Security Laboratory,2014,Spring,"Bambenek, John C",1,40,5.0,9.0,1,2.0,0.0,4,0.0,0.0,0,0.0,3
-460,Security Laboratory,2015,Spring,"Bambenek, John C",0,99,4.0,6.0,5,0.0,1.0,2,1.0,0.0,0,0.0,1
-460,Security Laboratory,2016,Spring,"Bambenek, John C",3,45,3.0,4.0,3,1.0,6.0,5,1.0,0.0,1,2.0,3
-460,Security Laboratory,2017,Spring,"Bambenek, John C",5,72,3.0,0.0,10,0.0,0.0,0,1.0,1.0,1,0.0,3
-460,Security Laboratory,2018,Spring,"Bambenek, John C",5,85,0.0,3.0,6,0.0,0.0,2,0.0,1.0,0,0.0,3
-460,Security Laboratory,2019,Spring,"Bambenek, John C",22,62,1.0,0.0,6,0.0,0.0,0,0.0,0.0,0,1.0,3
-461,Computer Security I,2010,Fall,"Hinrichs, Susan",3,30,0.0,4.0,32,0.0,4.0,13,0.0,0.0,0,0.0,0
-461,Computer Security I,2010,Spring,"Nicol, David M",0,11,13.0,9.0,8,10.0,11.0,9,0.0,0.0,1,0.0,0
-461,Computer Security I,2011,Fall,"Hinrichs, Susan",1,22,7.0,10.0,49,0.0,4.0,22,0.0,0.0,3,0.0,0
-461,Computer Security I,2012,Fall,"Hinrichs, Susan",2,35,1.0,9.0,59,0.0,6.0,35,0.0,0.0,1,0.0,1
-461,Computer Security I,2013,Fall,"Bobba, Rakesh",9,10,18.0,12.0,11,16.0,10.0,6,2.0,1.0,0,0.0,0
-461,Computer Security I,2013,Spring,"Nicol, David M",4,5,16.0,10.0,23,5.0,10.0,5,2.0,0.0,2,0.0,0
-461,Computer Security I,2014,Fall,"Cunningham, Ryan M",10,101,24.0,8.0,17,7.0,6.0,3,0.0,0.0,6,0.0,2
-461,Computer Security I,2014,Spring,"Bobba, Rakesh",8,10,8.0,9.0,22,11.0,7.0,6,9.0,0.0,1,0.0,1
-461,Computer Security I,2015,Fall,"Bailey, Michael D",4,31,10.0,17.0,41,7.0,5.0,12,8.0,0.0,11,0.0,4
-461,Computer Security I,2015,Spring,"Bailey, Michael D",16,24,9.0,11.0,22,5.0,11.0,13,2.0,0.0,10,0.0,2
-461,Computer Security I,2016,Spring,"Bailey, Michael D",6,28,8.0,6.0,43,14.0,7.0,20,4.0,2.0,2,2.0,5
-461,Computer Security I,2017,Fall,"Cunningham, Ryan M",23,39,43.0,44.0,34,14.0,12.0,0,0.0,0.0,2,0.0,3
-461,Computer Security I,2018,Fall,"Bailey, Michael D",2,2,1.0,2.0,10,2.0,2.0,3,1.0,0.0,0,0.0,0
-461,Computer Security I,2018,Fall,"Cunningham, Ryan M",11,44,26.0,18.0,22,10.0,8.0,2,2.0,0.0,0,0.0,2
-461,Computer Security I,2018,Spring,"Bailey, Michael D",5,15,8.0,15.0,19,15.0,6.0,17,5.0,0.0,4,0.0,2
-461,Computer Security I,2019,Spring,"Bailey, Michael D",5,19,8.0,7.0,25,11.0,4.0,8,8.0,2.0,4,3.0,1
-463,Computer Security II,2013,Spring,"Gunter, Carl",0,15,0.0,0.0,8,0.0,0.0,6,0.0,0.0,3,0.0,1
-463,Computer Security II,2014,Spring,"Gunter, Carl",0,18,0.0,0.0,16,0.0,0.0,3,0.0,0.0,0,0.0,0
-463,Computer Security II,2015,Spring,"Gunter, Carl",0,36,0.0,0.0,16,0.0,0.0,8,0.0,0.0,0,0.0,0
-463,Computer Security II,2016,Spring,"Gunter, Carl",0,14,0.0,0.0,19,0.0,0.0,3,0.0,0.0,0,0.0,0
-463,Computer Security II,2017,Spring,"Gunter, Carl",0,13,0.0,0.0,24,0.0,0.0,10,0.0,0.0,0,0.0,0
-463,Computer Security II,2018,Spring,"Gunter, Carl",0,14,0.0,0.0,15,0.0,0.0,6,0.0,0.0,1,0.0,0
-463,Computer Security II,2019,Spring,"Gunter, Carl",0,18,0.0,0.0,2,0.0,0.0,2,0.0,0.0,0,0.0,0
-465,User Interface Design,2010,Fall,"Bailey, Brian P",0,12,5.0,6.0,15,5.0,0.0,3,1.0,0.0,0,0.0,0
-465,User Interface Design,2011,Fall,"Bailey, Brian P",2,8,2.0,6.0,11,9.0,3.0,1,1.0,0.0,0,0.0,1
-465,User Interface Design,2012,Fall,"Bailey, Brian P",1,10,6.0,1.0,12,4.0,6.0,8,0.0,0.0,1,0.0,0
-465,User Interface Design,2013,Fall,"Fu, Wai-Tat",0,22,29.0,14.0,17,6.0,0.0,1,0.0,0.0,1,0.0,0
-465,User Interface Design,2013,Spring,"Fu, Wai-Tat",5,13,13.0,13.0,19,6.0,3.0,4,0.0,0.0,4,0.0,1
-465,User Interface Design,2014,Fall,"Bailey, Brian P",1,26,13.0,24.0,62,17.0,11.0,20,3.0,0.0,0,0.0,1
-465,User Interface Design,2015,Fall,"Fu, Wai-Tat",6,24,28.0,19.0,56,20.0,10.0,16,4.0,0.0,2,0.0,1
-465,User Interface Design,2015,Spring,"Fu, Wai-Tat",2,13,24.0,21.0,35,22.0,13.0,12,5.0,0.0,2,0.0,1
-465,User Interface Design,2016,Fall,"Bailey, Brian P",3,15,19.0,24.0,72,7.0,14.0,10,3.0,0.0,1,0.0,0
-465,User Interface Design,2016,Spring,"Kirlik, Alex",3,41,49.0,35.0,30,8.0,5.0,0,1.0,1.0,0,0.0,2
-465,User Interface Design,2017,Fall,"Bailey, Brian P",1,24,21.0,9.0,76,21.0,7.0,4,5.0,2.0,1,0.0,1
-465,User Interface Design,2017,Spring,"Fu, Wai-Tat",1,29,59.0,31.0,33,18.0,4.0,3,1.0,0.0,1,0.0,0
-465,User Interface Design,2018,Fall,"Bailey, Brian P",3,40,32.0,9.0,27,7.0,1.0,7,0.0,1.0,2,0.0,1
-465,User Interface Design,2018,Spring,"Fu, Wai-Tat",15,40,24.0,21.0,25,12.0,5.0,6,3.0,0.0,3,0.0,2
-465,User Interface Design,2019,Spring,"Kirlik, Alex",3,27,19.0,6.0,19,1.0,5.0,3,0.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2011,Spring,"Sinha, Saurabh",1,9,2.0,6.0,4,2.0,0.0,0,0.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2013,Spring,"Sinha, Saurabh",3,9,3.0,3.0,8,3.0,2.0,2,1.0,0.0,1,0.0,1
-466,Introduction to Bioinformatics,2014,Spring,"Sinha, Saurabh",3,13,9.0,5.0,5,6.0,0.0,0,0.0,0.0,0,0.0,1
-466,Introduction to Bioinformatics,2015,Spring,"Sinha, Saurabh",5,13,9.0,7.0,10,4.0,3.0,3,0.0,0.0,0,0.0,1
-466,Introduction to Bioinformatics,2016,Fall,"Sinha, Saurabh",9,18,14.0,9.0,15,4.0,3.0,5,1.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2016,Spring,"Peng, Jian",2,19,2.0,10.0,6,0.0,0.0,0,0.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2017,Spring,"Warnow, Tandy",2,6,4.0,2.0,1,1.0,0.0,1,2.0,0.0,1,0.0,1
-466,Introduction to Bioinformatics,2018,Fall,"El-Kebir, Mohammed",7,14,7.0,3.0,4,1.0,0.0,0,0.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2018,Spring,"Peng, Jian",4,33,8.0,9.0,3,0.0,0.0,0,0.0,0.0,0,0.0,0
-466,Introduction to Bioinformatics,2019,Spring,"Peng, Jian",10,36,8.0,7.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-467,Social Visualization,2013,Spring,"Karahalios, Kyratso G",13,27,15.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,2
-467,Social Visualization,2014,Fall,"Karahalios, Kyratso G",3,34,14.0,8.0,6,0.0,1.0,0,1.0,0.0,0,0.0,0
-467,Social Visualization,2014,Spring,"Karahalios, Kyratso G",11,26,31.0,10.0,8,1.0,0.0,3,0.0,0.0,0,0.0,1
-467,Social Visualization,2016,Spring,"Karahalios, Kyratso G",2,42,16.0,8.0,8,3.0,0.0,1,0.0,0.0,0,0.0,0
-467,Social Visualization,2019,Spring,"Karahalios, Kyratso G",10,31,4.0,4.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-473,Algorithms,2010,Spring,"Erickson, Jeff G",5,8,11.0,12.0,11,10.0,10.0,16,9.0,4.0,4,7.0,3
-473,Algorithms,2018,Fall,"Har-Peled, Sariel",2,8,9.0,3.0,1,6.0,3.0,2,3.0,0.0,2,0.0,0
-473,Algorithms,2018,Spring,"Mehta, Ruta",1,8,12.0,4.0,3,4.0,2.0,4,2.0,0.0,0,0.0,1
-473,Fundamental Algorithms,2010,Fall,"Chekuri, Chandra S",4,10,12.0,15.0,12,20.0,12.0,6,4.0,0.0,2,3.0,0
-473,Fundamental Algorithms,2011,Fall,"Har-Peled, Sariel",0,9,18.0,17.0,12,14.0,15.0,14,11.0,5.0,5,6.0,1
-473,Fundamental Algorithms,2011,Spring,"Har-Peled, Sariel",1,9,7.0,13.0,9,13.0,13.0,15,9.0,6.0,4,1.0,3
-473,Fundamental Algorithms,2012,Fall,"Erickson, Jeff G",5,19,12.0,21.0,15,17.0,12.0,21,10.0,15.0,6,9.0,4
-473,Fundamental Algorithms,2013,Fall,"Erickson, Jeff G",6,24,17.0,23.0,20,16.0,20.0,23,14.0,10.0,8,3.0,4
-473,Fundamental Algorithms,2013,Spring,"Har-Peled, Sariel",1,5,5.0,4.0,10,7.0,8.0,8,7.0,0.0,2,1.0,2
-473,Fundamental Algorithms,2013,Spring,"Kolla, Alexandra",2,3,3.0,6.0,5,7.0,9.0,11,6.0,3.0,1,0.0,0
-473,Fundamental Algorithms,2014,Fall,"Kolla, Alexandra",5,6,24.0,23.0,37,34.0,27.0,17,6.0,1.0,1,0.0,2
-473,Fundamental Algorithms,2014,Spring,"Chekuri, Chandra S",7,25,20.0,25.0,19,16.0,16.0,21,7.0,4.0,1,3.0,6
-473,Fundamental Algorithms,2015,Spring,"Har-Peled, Sariel",0,3,6.0,4.0,10,14.0,10.0,9,6.0,5.0,4,1.0,0
-477,Formal Software Devel Methods,2018,Spring,"Gunter, Elsa",10,9,0.0,2.0,1,3.0,2.0,2,1.0,0.0,1,1.0,0
-477,Formal Software Devel Methods,2019,Spring,"Parthasarathy, Madhusudan",6,5,6.0,3.0,1,0.0,0.0,0,0.0,0.0,0,1.0,1
-484,Parallel Programming,2014,Spring,"Padua, David A",0,4,1.0,0.0,7,0.0,0.0,7,0.0,0.0,3,0.0,0
-484,Parallel Programming,2015,Spring,"Kale, Laxmikant V",2,8,2.0,2.0,9,3.0,1.0,3,2.0,1.0,1,0.0,0
-484,Parallel Programming,2016,Spring,"Kale, Laxmikant V",5,4,6.0,1.0,4,3.0,3.0,2,1.0,1.0,0,0.0,0
-484,Parallel Programming,2017,Fall,"Kale, Laxmikant V",2,11,2.0,4.0,8,2.0,0.0,5,1.0,0.0,1,0.0,0
-484,Parallel Programming,2017,Spring,"Kale, Laxmikant V",4,14,5.0,4.0,10,3.0,1.0,4,2.0,0.0,1,0.0,0
-484,Parallel Programming,2018,Fall,"Kale, Laxmikant V",7,9,5.0,1.0,9,5.0,2.0,1,2.0,1.0,1,0.0,0
-484,Parallel Programming,2019,Spring,"Kale, Laxmikant V",5,12,1.0,6.0,12,2.0,3.0,0,0.0,0.0,1,2.0,0
-492,Senior Project I,2010,Fall,"Woodley, Michael J",0,16,0.0,4.0,25,0.0,0.0,0,0.0,0.0,0,0.0,1
-492,Senior Project I,2011,Fall,"Woodley, Michael J",0,20,13.0,5.0,6,0.0,5.0,0,0.0,0.0,0,0.0,0
-492,Senior Project I,2012,Fall,"Woodley, Michael J",0,11,16.0,4.0,7,0.0,0.0,0,0.0,0.0,0,0.0,0
-492,Senior Project I,2013,Fall,"Woodley, Michael J",0,25,30.0,4.0,0,0.0,5.0,0,0.0,0.0,0,0.0,0
-492,Senior Project I,2014,Fall,"Woodley, Michael J",24,24,40.0,6.0,4,0.0,0.0,0,0.0,0.0,0,0.0,0
-492,Senior Project I,2015,Fall,"Woodley, Michael J",0,8,56.0,25.0,22,24.0,2.0,0,1.0,1.0,0,0.0,0
-492,Senior Project I,2016,Fall,"Woodley, Michael J",1,6,11.0,15.0,4,4.0,2.0,0,1.0,0.0,0,0.0,0
-492,Senior Project I,2017,Spring,"Woodley, Michael J",1,12,6.0,6.0,3,0.0,0.0,0,0.0,0.0,0,0.0,0
-492,Senior Project I,2018,Spring,"Woodley, Michael J",6,7,4.0,0.0,3,1.0,0.0,0,0.0,0.0,0,0.0,0
-493,"Senior Project II, ACP",2010,Spring,"Woodley, Michael J",5,25,2.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-493,"Senior Project II, ACP",2011,Spring,"Woodley, Michael J",1,17,11.0,0.0,11,0.0,0.0,0,0.0,0.0,0,0.0,0
-493,"Senior Project II, ACP",2013,Spring,"Woodley, Michael J",0,17,5.0,5.0,1,0.0,0.0,0,0.0,0.0,0,0.0,1
-493,"Senior Project II, ACP",2014,Spring,"Woodley, Michael J",18,14,18.0,9.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-493,"Senior Project II, ACP",2015,Spring,"Woodley, Michael J",4,21,25.0,13.0,7,4.0,0.0,0,0.0,0.0,0,0.0,0
-493,"Senior Project II, ACP",2016,Spring,"Woodley, Michael J",21,38,17.0,12.0,5,4.0,2.0,0,0.0,0.0,0,0.0,4
-493,"Senior Project II, ACP",2017,Spring,"Woodley, Michael J",0,9,9.0,3.0,4,2.0,1.0,2,1.0,1.0,1,0.0,0
-494,Senior Project II,2015,Spring,"Woodley, Michael J",2,6,6.0,4.0,2,0.0,1.0,0,0.0,0.0,0,0.0,0
-494,Senior Project II,2016,Spring,"Woodley, Michael J",6,9,5.0,2.0,5,0.0,2.0,0,0.0,0.0,0,0.0,0
-498,Algorithms and Models of Comp,2014,Fall,"Erickson, Jeff G",1,12,3.0,8.0,8,6.0,8.0,5,9.0,7.0,3,2.0,2
-498,Algorithms and Models of Comp,2014,Spring,"Pitt, Leonard B",0,3,6.0,4.0,4,2.0,3.0,4,1.0,5.0,3,0.0,1
-498,Algorithms and Models of Comp,2015,Fall,"Chekuri, Chandra S",13,51,47.0,35.0,38,39.0,39.0,38,20.0,12.0,10,13.0,3
-498,Algorithms and Models of Comp,2015,Spring,"Pitt, Leonard B",21,33,24.0,43.0,39,30.0,35.0,27,32.0,24.0,20,8.0,5
-498,Algorithms and Models of Comp,2016,Spring,"Viswanathan, Mahesh",19,37,67.0,14.0,39,80.0,19.0,35,13.0,34.0,10,0.0,0
-498,Algorithms for Big Data,2019,Spring,"Chekuri, Chandra S",1,27,13.0,4.0,0,2.0,3.0,0,0.0,0.0,0,0.0,0
-498,Applied Machine Learning,2016,Spring,"Forsyth, David A",6,79,54.0,16.0,5,0.0,0.0,0,0.0,0.0,0,0.0,3
-498,Applied Machine Learning,2017,Spring,"Forsyth, David A",11,67,66.0,62.0,3,0.0,0.0,3,0.0,0.0,0,0.0,0
-498,Applied Machine Learning,2018,Fall,"Forsyth, David A",3,73,23.0,5.0,7,0.0,0.0,3,0.0,0.0,0,0.0,5
-498,Applied Machine Learning,2018,Fall,"Walker, Trevor A",1,53,31.0,4.0,4,0.0,0.0,0,0.0,0.0,0,0.0,3
-498,Applied Machine Learning,2018,Spring,"Forsyth, David A",0,363,14.0,21.0,6,0.0,0.0,2,0.0,0.0,2,0.0,6
-498,Applied Machine Learning,2019,Spring,"Walker, Trevor A",6,359,16.0,7.0,6,3.0,1.0,1,3.0,1.0,0,1.0,7
-498,Art and Science of Web Prog,2015,Spring,"Kumar, Ranjitha",7,18,8.0,18.0,13,6.0,11.0,2,1.0,0.0,1,0.0,0
-498,Art and Science of Web Prog,2016,Spring,"Kumar, Ranjitha",3,20,16.0,10.0,13,11.0,16.0,1,1.0,0.0,2,0.0,0
-498,Art and Science of Web Prog,2019,Spring,"Kumar, Ranjitha",7,37,33.0,41.0,17,11.0,10.0,5,6.0,4.0,0,0.0,3
-498,Art and Science of Web Progrm,2013,Spring,"King, Samuel T",0,22,6.0,1.0,3,1.0,0.0,0,3.0,0.0,0,0.0,0
-498,Audio Computing Lab,2018,Spring,"Smaragdis, Paris",9,24,4.0,1.0,0,3.0,0.0,0,0.0,0.0,0,0.0,1
-498,Audio Computing Lab,2019,Spring,"Smaragdis, Paris",19,21,10.0,6.0,2,1.0,0.0,0,0.0,0.0,0,0.0,0
-498,Cloud Computing,2013,Spring,"Campbell, R H",6,27,9.0,12.0,7,12.0,7.0,4,2.0,0.0,1,0.0,0
-498,Cloud Computing,2014,Spring,"Campbell, R H",19,30,20.0,10.0,10,2.0,0.0,0,0.0,0.0,0,0.0,0
-498,Cloud Computing Applications,2017,Spring,"Campbell, R H",18,19,10.0,3.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-498,Cloud Computing Applications,2018,Spring,"Farivar, Reza",24,83,28.0,4.0,1,1.0,1.0,0,0.0,0.0,0,0.0,0
-498,Cloud Computing Applications,2019,Spring,"Farivar, Reza",103,93,36.0,17.0,7,0.0,0.0,4,0.0,0.0,2,0.0,4
-498,Cloud Networking,2018,Fall,"Godfrey, Philip B",8,8,3.0,3.0,2,0.0,0.0,2,0.0,0.0,0,0.0,4
-498,Computational Advertising,2018,Fall,"Sundaram, Hari",7,17,24.0,7.0,4,1.0,0.0,0,0.0,0.0,1,0.0,0
-498,Computational Photography,2013,Fall,"Hoiem, Derek W",4,7,9.0,2.0,2,0.0,0.0,0,1.0,0.0,0,0.0,0
-498,Computational Photography,2014,Fall,"Hoiem, Derek W",12,6,3.0,2.0,1,3.0,0.0,0,0.0,0.0,0,1.0,0
-498,Cyber Dystopia,2018,Fall,"Gunter, Carl",6,22,1.0,0.0,1,0.0,0.0,1,0.0,0.0,0,0.0,0
-498,Data Science & Analytics,2019,Spring,"Campbell, R H",1,1,4.0,4.0,3,6.0,1.0,3,0.0,0.0,2,0.0,2
-498,Digital Forensics,2013,Fall,"Campbell, R H",0,21,0.0,0.0,1,0.0,0.0,0,0.0,0.0,0,0.0,1
-498,Digital Forensics,2014,Fall,"Campbell, R H",3,8,9.0,2.0,6,2.0,1.0,0,0.0,0.0,0,0.0,0
-498,Digital Forensics,2015,Fall,"Campbell, R H",2,5,12.0,12.0,2,1.0,0.0,0,0.0,0.0,0,0.0,0
-498,Digital Forensics,2016,Fall,"Campbell, R H",0,12,6.0,1.0,8,0.0,1.0,0,0.0,0.0,0,0.0,0
-498,Digital Forensics,2017,Fall,"Campbell, R H",0,29,1.0,1.0,4,0.0,0.0,0,0.0,0.0,0,0.0,1
-498,Digital Forensics,2018,Fall,"Campbell, R H",0,37,0.0,0.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-498,Experimental Methods for HCI,2018,Fall,"Kirlik, Alex",4,6,3.0,3.0,8,2.0,0.0,1,0.0,0.0,1,0.0,0
-498,Internet of Things,2019,Spring,"Caesar, Matthew C",11,28,3.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-498,Intro to Data Science,2016,Fall,"Stodden, Victoria",11,9,15.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-498,Intro to Parallel Programming,2013,Spring,"Padua, David A",0,6,0.0,4.0,7,0.0,2.0,7,1.0,0.0,1,2.0,0
-498,Introduction to Deep Learning,2018,Fall,"Lazebnik, Svetlana",49,10,2.0,1.0,12,0.0,0.0,10,2.0,0.0,3,1.0,0
-498,Learning and Computer Science,2018,Spring,"Herman, Geoffrey L",2,7,1.0,1.0,6,0.0,0.0,2,0.0,0.0,1,0.0,1
-498,Mobile Interaction Design,2016,Spring,"Bailey, Brian P",3,17,11.0,5.0,6,1.0,0.0,0,1.0,0.0,0,0.0,0
-498,Probability in CS,2015,Fall,"Forsyth, David A",1,26,7.0,17.0,17,7.0,1.0,1,2.0,0.0,1,0.0,3
-498,Probability in CS,2015,Spring,"Forsyth, David A",2,16,8.0,8.0,10,10.0,1.0,2,0.0,0.0,1,0.0,6
-498,Probability in CS,2016,Spring,"Smaragdis, Paris",14,15,13.0,7.0,1,1.0,2.0,2,2.0,2.0,0,0.0,0
-498,Probability in Computer Sci,2012,Fall,"Forsyth, David A",0,4,7.0,6.0,2,2.0,2.0,1,0.0,0.0,0,0.0,1
-498,Probability in Computer Sci,2013,Fall,"Forsyth, David A",3,9,4.0,6.0,6,8.0,4.0,1,2.0,0.0,2,0.0,4
-498,Probability in Computer Sci,2014,Fall,"Forsyth, David A",10,11,11.0,13.0,11,8.0,8.0,0,1.0,0.0,0,0.0,3
-498,Social & Information Networks,2016,Fall,"Sundaram, Hari",5,26,9.0,3.0,3,6.0,3.0,3,2.0,0.0,0,0.0,0
-498,Socio-Computer Interaction,2013,Fall,"Fu, Wai-Tat",0,8,6.0,5.0,7,9.0,1.0,0,0.0,0.0,1,0.0,0
-498,Software Testing,2015,Spring,"Marinov, Darko",6,4,3.0,3.0,4,5.0,1.0,0,0.0,0.0,0,0.0,0
-498,Software Testing,2016,Spring,"Marinov, Darko",9,3,3.0,4.0,5,3.0,0.0,0,0.0,0.0,0,0.0,0
-498,Special Topics,2011,Fall,"Fu, Wai-Tat",2,10,1.0,3.0,8,1.0,0.0,1,0.0,0.0,1,0.0,0
-498,Special Topics,2011,Fall,"Hoiem, Derek W",6,8,4.0,1.0,2,0.0,0.0,1,0.0,0.0,0,0.0,0
-498,Special Topics,2011,Spring,"Garnett, Guy E",2,11,13.0,5.0,3,1.0,0.0,0,0.0,0.0,0,0.0,0
-498,The Art of Web Programming,2016,Fall,"Kumar, Ranjitha",4,22,11.0,19.0,13,9.0,8.0,1,6.0,1.0,1,0.0,0
-498,The Art of Web Programming,2017,Fall,"Kumar, Ranjitha",5,37,29.0,27.0,28,19.0,5.0,7,7.0,0.0,1,0.0,0
-498,Theory II,2015,Fall,"Har-Peled, Sariel",0,5,5.0,4.0,4,2.0,2.0,3,0.0,0.0,0,0.0,0
-498,Theory II,2015,Spring,"Erickson, Jeff G",4,11,5.0,8.0,7,3.0,3.0,0,2.0,0.0,0,0.0,0
-498,Theory II,2016,Fall,"Chekuri, Chandra S",2,7,8.0,7.0,11,10.0,2.0,1,0.0,1.0,1,0.0,1
-498,Theory II,2016,Spring,"Erickson, Jeff G",5,18,15.0,14.0,15,11.0,12.0,5,3.0,2.0,0,1.0,1
-498,Theory II,2017,Fall,"Chan, Timothy M",5,5,7.0,6.0,7,6.0,4.0,3,4.0,0.0,0,0.0,0
-498,Theory II,2017,Spring,"Erickson, Jeff G",3,13,18.0,14.0,13,10.0,11.0,10,4.0,2.0,1,0.0,5
-498,Using Tech to Solve Adv Probs,2014,Spring,"Clifton, Rhiannon L",0,11,5.0,2.0,3,0.0,1.0,0,0.0,0.0,0,0.0,0
-498,Virtual Reality,2015,Fall,"Yershova, Ganna",5,46,19.0,16.0,7,3.0,0.0,0,0.0,0.0,0,0.0,0
-498,Virtual Reality,2015,Spring,"Lavalle, Steven M",11,41,28.0,7.0,5,1.0,0.0,0,1.0,0.0,0,0.0,0
-498,Virtual Reality,2016,Fall,"Yershova, Ganna",0,81,49.0,31.0,12,1.0,1.0,0,0.0,0.0,0,0.0,0
-498,Virtual Reality,2016,Spring,"Lavalle, Steven M",10,26,22.0,9.0,19,6.0,0.0,4,0.0,0.0,0,0.0,0
-498,Virtual Reality,2017,Fall,"Yershova, Ganna",28,114,12.0,2.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-498,Virtual Reality,2017,Spring,"Lavalle, Steven M",17,53,30.0,17.0,53,8.0,0.0,5,0.0,0.0,0,0.0,1
-498,Virtual Reality,2018,Fall,"Shaffer, Eric G",0,49,36.0,21.0,38,11.0,2.0,8,0.0,0.0,2,0.0,1
-498,Virtual Reality,2018,Spring,"Angrave, Lawrence C",49,31,17.0,27.0,18,7.0,6.0,1,1.0,0.0,0,0.0,0
-498,Virtual Reality,2019,Spring,"Shaffer, Eric G",1,30,41.0,27.0,20,10.0,6.0,1,1.0,0.0,1,0.0,0
-510,Advanced Information Retrieval,2017,Fall,"Zhai, Chengxiang",16,40,15.0,8.0,8,0.0,0.0,0,0.0,0.0,0,0.0,0
-510,Advanced Information Retrieval,2018,Fall,"Zhai, Chengxiang",17,44,11.0,5.0,2,3.0,0.0,0,0.0,0.0,0,0.0,0
-511,Advanced Data Management,2014,Spring,"Chang, Kevin C",7,13,18.0,2.0,3,2.0,1.0,0,1.0,0.0,0,0.0,0
-511,Advanced Data Management,2016,Spring,"Chang, Kevin C",4,15,10.0,3.0,5,2.0,1.0,0,0.0,0.0,0,0.0,0
-511,Advanced Data Management,2017,Spring,"Chang, Kevin C",1,8,17.0,4.0,1,2.0,0.0,0,0.0,0.0,0,0.0,1
-512,Data Mining Principles,2013,Spring,"Han, Jiawei",10,34,20.0,6.0,2,1.0,3.0,0,0.0,0.0,0,0.0,1
-512,Data Mining Principles,2014,Spring,"Han, Jiawei",10,34,11.0,5.0,5,1.0,1.0,3,1.0,0.0,0,0.0,0
-512,Data Mining Principles,2015,Spring,"Han, Jiawei",10,31,19.0,0.0,3,1.0,0.0,1,0.0,0.0,0,0.0,0
-512,Data Mining Principles,2016,Spring,"Han, Jiawei",10,39,6.0,5.0,2,0.0,0.0,0,0.0,0.0,1,0.0,0
-512,Data Mining Principles,2017,Spring,"Han, Jiawei",9,32,17.0,3.0,1,1.0,1.0,0,1.0,0.0,0,0.0,0
-512,Data Mining Principles,2018,Spring,"Han, Jiawei",9,24,16.0,8.0,8,5.0,3.0,1,1.0,0.0,0,0.0,1
-512,Data Mining Principles,2019,Spring,"Han, Jiawei",12,22,22.0,4.0,6,0.0,0.0,1,0.0,0.0,1,0.0,0
-519,Scientific Visualization,2015,Fall,"Shaffer, Eric G",2,21,4.0,2.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-519,Scientific Visualization,2015,Spring,"Shaffer, Eric G",0,15,5.0,3.0,1,0.0,0.0,0,0.0,0.0,0,0.0,1
-519,Scientific Visualization,2016,Fall,"Shaffer, Eric G",0,13,9.0,7.0,1,0.0,0.0,1,0.0,0.0,0,0.0,1
-519,Scientific Visualization,2017,Fall,"Shaffer, Eric G",7,17,6.0,4.0,6,0.0,0.0,0,0.0,0.0,0,0.0,0
-523,Advanced Operating Systems,2013,Fall,"Campbell, R H",0,8,17.0,6.0,0,0.0,0.0,0,0.0,0.0,0,0.0,1
-523,Advanced Operating Systems,2017,Fall,"Campbell, R H",11,10,5.0,5.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2011,Spring,"Gupta, Indranil",3,8,11.0,5.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2013,Spring,"Gupta, Indranil",5,7,12.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2014,Spring,"Gupta, Indranil",11,18,16.0,6.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2015,Spring,"Gupta, Indranil",3,17,40.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2016,Spring,"Gupta, Indranil",8,13,24.0,26.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2017,Spring,"Gupta, Indranil",7,13,13.0,14.0,3,0.0,0.0,0,0.0,0.0,0,0.0,0
-525,Advanced Distributed Systems,2018,Spring,"Gupta, Indranil",8,9,33.0,5.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-527,Adv Topics in Software Eng,2010,Fall,"Marinov, Darko",6,9,8.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-527,Topics in Software Engineering,2013,Fall,"Xie, Tao",15,17,3.0,2.0,2,2.0,0.0,0,0.0,0.0,0,0.0,0
-527,Topics in Software Engineering,2014,Fall,"Marinov, Darko",6,5,6.0,11.0,4,2.0,0.0,0,0.0,0.0,0,0.0,0
-527,Topics in Software Engineering,2015,Fall,"Xie, Tao",6,11,8.0,1.0,3,1.0,0.0,0,0.0,0.0,0,0.0,0
-527,Topics in Software Engineering,2016,Fall,"Marinov, Darko",4,8,3.0,2.0,2,1.0,0.0,0,0.0,0.0,0,0.0,1
-527,Topics in Software Engineering,2017,Fall,"Marinov, Darko",4,11,5.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-527,Topics in Software Engineering,2019,Spring,"Xie, Tao",12,5,2.0,3.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-528,Obj-Oriented Progrmg & Design,2013,Spring,"Johnson, Ralph E",0,29,0.0,0.0,12,0.0,0.0,0,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2010,Spring,"Torrellas, Josep",3,19,0.0,3.0,5,0.0,0.0,0,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2011,Spring,"Torrellas, Josep",6,12,6.0,4.0,5,0.0,0.0,2,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2013,Spring,"Torrellas, Josep",6,9,3.0,0.0,8,0.0,0.0,0,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2014,Spring,"Torrellas, Josep",6,10,0.0,3.0,4,0.0,0.0,0,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2015,Spring,"Torrellas, Josep",4,6,1.0,2.0,6,1.0,0.0,1,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2016,Spring,"Torrellas, Josep",3,11,3.0,4.0,9,0.0,0.0,0,0.0,0.0,0,0.0,0
-533,Parallel Computer Architecture,2019,Spring,"Torrellas, Josep",2,14,0.0,2.0,4,0.0,0.0,0,0.0,0.0,0,0.0,1
-538,Advanced Computer Networks,2013,Fall,"Godfrey, Philip B",3,36,3.0,1.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-538,Advanced Computer Networks,2016,Spring,"Nahrstedt, Klara",0,15,2.0,4.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-538,Advanced Computer Networks,2017,Spring,"Godfrey, Philip B",2,16,0.0,2.0,1,1.0,1.0,0,0.0,0.0,0,0.0,0
-538,Advanced Computer Networks,2018,Spring,"Godfrey, Philip B",2,19,0.0,0.0,1,1.0,1.0,0,0.0,0.0,0,0.0,0
-538,Advanced Computer Networks,2019,Spring,"Godfrey, Philip B",1,26,4.0,3.0,1,1.0,1.0,0,1.0,0.0,0,0.0,0
-544,Optimiz in Computer Vision,2014,Spring,"Forsyth, David A",0,29,0.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-546,Machine Learning in NLP,2011,Spring,"Roth, Dan",0,20,0.0,0.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-546,Machine Learning in NLP,2014,Spring,"Hockenmaier, Julia C",0,13,7.0,2.0,2,1.0,1.0,0,0.0,0.0,0,0.0,0
-546,Machine Learning in NLP,2016,Spring,"Roth, Dan",2,18,5.0,7.0,5,2.0,0.0,0,0.0,0.0,0,0.0,0
-546,Machine Learning in NLP,2018,Spring,"Hockenmaier, Julia C",0,80,2.0,1.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-548,Models of Cognitive Processes,2016,Fall,"Fu, Wai-Tat",1,18,3.0,2.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-548,Models of Cognitive Processes,2017,Fall,"Fu, Wai-Tat",0,7,2.0,13.0,17,2.0,3.0,0,0.0,0.0,1,0.0,0
-548,Models of Cognitive Processes,2018,Fall,"Fu, Wai-Tat",0,10,0.0,0.0,12,1.0,0.0,2,0.0,0.0,0,0.0,0
-554,Parallel Numerical Algorithms,2010,Spring,"Heath, Michael T",4,2,6.0,7.0,1,2.0,0.0,0,0.0,0.0,0,0.0,0
-554,Parallel Numerical Algorithms,2011,Fall,"Heath, Michael T",4,8,7.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-554,Parallel Numerical Algorithms,2013,Fall,"Heath, Michael T",3,6,12.0,5.0,2,3.0,0.0,0,0.0,0.0,0,0.0,0
-554,Parallel Numerical Algorithms,2015,Fall,"Heath, Michael T",3,6,4.0,8.0,1,4.0,0.0,0,0.0,0.0,0,0.0,0
-554,Parallel Numerical Algorithms,2017,Fall,"Solomonik, Edgar V",1,9,9.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2010,Spring,"Hirani, Anil N",2,8,9.0,6.0,1,2.0,0.0,0,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2013,Spring,"Olson, Luke",0,21,3.0,6.0,1,5.0,0.0,1,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2014,Spring,"Olson, Luke",1,22,4.0,3.0,0,0.0,0.0,0,1.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2015,Spring,"Olson, Luke",0,21,3.0,0.0,1,3.0,0.0,0,0.0,0.0,0,0.0,1
-555,Numerical Methods for PDEs,2016,Spring,"Olson, Luke",0,21,3.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2017,Spring,"Olson, Luke",0,28,2.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2018,Spring,"Fischer, Paul",2,16,6.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-555,Numerical Methods for PDEs,2019,Spring,"Fischer, Paul",8,11,4.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-556,Iterative & Multigrid Methods,2014,Fall,"Olson, Luke",0,15,5.0,2.0,1,2.0,0.0,0,1.0,0.0,1,0.0,0
-563,Advanced Computer Security,2016,Fall,"Gunter, Carl",0,24,0.0,0.0,1,0.0,0.0,1,0.0,0.0,0,0.0,0
-563,Advanced Computer Security,2018,Fall,"Bates, Adam M",1,12,11.0,3.0,0,1.0,0.0,0,1.0,0.0,0,0.0,0
-565,Human-Computer Interaction,2013,Spring,"Bailey, Brian P",1,7,10.0,4.0,7,0.0,0.0,3,0.0,0.0,0,0.0,1
-565,Human-Computer Interaction,2014,Spring,"Bailey, Brian P",0,21,3.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-565,Human-Computer Interaction,2015,Fall,"Bailey, Brian P",3,9,9.0,3.0,0,1.0,0.0,0,0.0,0.0,0,0.0,0
-565,Human-Computer Interaction,2017,Spring,"Bailey, Brian P",0,20,3.0,4.0,2,1.0,0.0,0,0.0,0.0,0,0.0,0
-573,Algorithms,2010,Fall,"Erickson, Jeff G",4,15,9.0,12.0,8,4.0,1.0,0,0.0,0.0,0,0.0,0
-573,Algorithms,2011,Fall,"Chekuri, Chandra S",2,10,10.0,8.0,4,3.0,0.0,0,0.0,0.0,0,0.0,0
-573,Algorithms,2012,Fall,"Har-Peled, Sariel",0,6,8.0,8.0,4,2.0,0.0,0,0.0,0.0,0,0.0,0
-573,Algorithms,2013,Fall,"Har-Peled, Sariel",0,8,8.0,7.0,5,3.0,0.0,0,0.0,0.0,0,0.0,0
-574,Randomized Algorithms,2014,Spring,"Har-Peled, Sariel",0,3,10.0,3.0,5,2.0,0.0,0,0.0,0.0,0,0.0,0
-579,Computational Complexity,2019,Spring,"Forbes, Michael A",2,11,6.0,3.0,1,3.0,0.0,0,0.0,0.0,0,0.0,0
-583,Approximation Algorithms,2018,Spring,"Chekuri, Chandra S",0,23,4.0,0.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Adv Social&Information Network,2017,Fall,"Sundaram, Hari",12,7,2.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Advanced Bayesian Modeling,2017,Fall,"Park, Trevor H",8,20,5.0,9.0,5,2.0,0.0,1,0.0,0.0,0,0.0,0
-598,Advanced Bayesian Modeling,2018,Fall,"Park, Trevor H",14,30,6.0,16.0,9,3.0,1.0,1,3.0,0.0,0,0.0,2
-598,Advanced Data Structures,2015,Fall,"Erickson, Jeff G",0,14,9.0,6.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Advanced Information Retrieval,2012,Fall,"Zhai, Chengxiang",8,22,8.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Advanced Information Retrieval,2013,Fall,"Zhai, Chengxiang",5,37,4.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Advanced Information Retrieval,2014,Fall,"Zhai, Chengxiang",6,23,3.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Advanced Information Retrieval,2016,Fall,"Zhai, Chengxiang",6,17,9.0,4.0,3,1.0,0.0,0,0.0,0.0,0,0.0,0
-598,Adversarial Machine Learning,2018,Fall,"Li, Bo",1,20,7.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Autonomous Vehicles for AI,2017,Spring,"Forsyth, David A",0,26,0.0,0.0,0,0.0,0.0,1,0.0,0.0,0,0.0,0
-598,Cutting-Edge Trends In DLR,2017,Spring,"Lazebnik, Svetlana",12,27,11.0,6.0,3,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Data-Driven Design,2014,Fall,"Kumar, Ranjitha",2,10,2.0,6.0,1,1.0,0.0,0,0.0,0.0,0,0.0,0
-598,Data-Driven Design,2015,Fall,"Kumar, Ranjitha",2,8,5.0,4.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Deep Learning,2018,Fall,"Sirignano, Justin A",12,17,7.0,1.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Foundations of Data Curation,2018,Fall,"Renear, Allen H",75,28,5.0,2.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Graphical Models,2016,Fall,"Koyejo, Oluwasanmi O",3,19,1.0,0.0,0,0.0,0.0,0,0.0,0.0,1,0.0,0
-598,HCI for ML,2018,Fall,"Kumar, Ranjitha",0,24,11.0,2.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Improving Your Research Skills,2015,Spring,"Sha, Lui R",9,12,4.0,3.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Lang/Abst f High-Perf Sci Comp,2018,Fall,"Kloeckner, Andreas P",0,19,1.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Mach Lrng for Signal Processng,2012,Fall,"Smaragdis, Paris",7,20,4.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Mach Lrng for Signal Processng,2013,Fall,"Smaragdis, Paris",4,47,3.0,5.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Mach Lrng for Signal Processng,2014,Fall,"Smaragdis, Paris",12,23,16.0,0.0,2,5.0,1.0,0,0.0,0.0,0,0.0,1
-598,Mach Lrng for Signal Processng,2017,Fall,"Smaragdis, Paris",17,32,19.0,2.0,0,1.0,0.0,1,0.0,0.0,0,0.0,2
-598,Mach Lrng for Signal Processng,2018,Fall,"Smaragdis, Paris",14,43,11.0,0.0,13,2.0,0.0,0,1.0,0.0,0,0.0,0
-598,Machine Learning Theory,2017,Fall,"Telgarsky, Matus J",2,13,5.0,0.0,2,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Machine Lrning Computation Bio,2015,Fall,"Peng, Jian",5,13,2.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Machine Lrning Computation Bio,2018,Fall,"Peng, Jian",1,15,6.0,0.0,3,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Parallel Programming,2014,Fall,"Kale, Laxmikant V",1,11,4.0,2.0,3,2.0,0.0,0,0.0,0.0,0,0.0,0
-598,Practical Statistical Learning,2018,Fall,"Liang, Feng",1,90,13.0,7.0,3,0.0,0.0,2,0.0,0.0,0,0.0,2
-598,Realiablity of Cloud-Scale Sys,2018,Fall,"Xu, Tianyin",3,13,9.0,5.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Secure Processor Design,2017,Fall,"Fletcher, Christopher W",3,19,2.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Social Sensing,2017,Spring,"Abdelzaher, Tarek",7,11,4.0,2.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Social Spaces on the Internet,2018,Fall,"Karahalios, Kyratso G",12,11,4.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Special Topics,2010,Spring,"Hockenmaier, Julia C",0,17,4.0,1.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Special Topics,2011,Fall,"Rutenbar, Robin A",3,8,5.0,2.0,6,5.0,0.0,0,0.0,0.0,0,0.0,0
-598,Special Topics,2014,Spring,"Adve, Sarita V",14,3,1.0,0.0,2,1.0,0.0,0,0.0,0.0,0,0.0,0
-598,Stat Reinforcement lrng,2019,Spring,"Jiang, Nan",8,10,3.0,1.0,1,0.0,0.0,0,0.0,0.0,0,0.0,0
-598,Statistical Reinforcement,2018,Fall,"Jiang, Nan",4,8,5.0,1.0,0,0.0,1.0,2,0.0,0.0,0,0.0,0
-598,Topic in Algorithms,2015,Spring,"Blum, Avrim L",3,8,7.0,1.0,5,0.0,0.0,0,0.0,0.0,0,0.0,0
+courseNo,courseName,year,term,primaryInstructor,aPlus,a,aMinus,bPlus,b,bMinus,cPlus,c,cMinus,dPlus,d,dMinus,f
+100,Freshman Orientation,2010,Fall,"Pitt, Leonard B",0,154,0,0,30,0,0,22,0,0,9,0,9
+100,Freshman Orientation,2011,Fall,"Pitt, Leonard B",0,182,0,0,11,0,0,12,0,0,5,0,7
+100,Freshman Orientation,2012,Fall,"Pitt, Leonard B",0,188,0,0,21,0,0,6,0,0,1,0,9
+100,Freshman Orientation,2013,Fall,"Pitt, Leonard B",0,222,0,5,16,0,5,4,0,2,1,0,9
+100,Freshman Orientation,2014,Fall,"Pitt, Leonard B",0,232,11,3,11,3,2,6,1,0,2,1,9
+100,Freshman Orientation,2015,Fall,"Pitt, Leonard B",0,234,0,9,11,4,0,10,0,0,2,2,4
+100,Freshman Orientation,2016,Fall,"Pitt, Leonard B",0,279,0,5,11,0,1,6,0,0,3,0,6
+100,Freshman Orientation,2017,Fall,"Pitt, Leonard B",0,258,5,12,12,4,3,3,2,0,0,1,4
+100,Freshman Orientation,2018,Fall,"Gunter, Elsa",0,290,10,9,4,2,1,2,2,0,1,0,1
+101,Intro Computing: Engrg & Sci,2010,Fall,"Gambill, Thomas N",49,74,68,67,56,46,39,25,16,9,6,8,2
+101,Intro Computing: Engrg & Sci,2010,Spring,"Bhasin, Rajesh",9,13,11,18,6,9,2,6,1,3,0,0,0
+101,Intro Computing: Engrg & Sci,2010,Spring,"Fister, Andrew E",8,16,20,12,6,4,3,3,0,1,1,0,3
+101,Intro Computing: Engrg & Sci,2010,Spring,"Gupta, Piyush",15,11,23,9,6,6,1,1,4,1,0,0,2
+101,Intro Computing: Engrg & Sci,2010,Spring,"Huang, Zu C",13,15,11,6,4,9,8,2,2,2,2,1,1
+101,Intro Computing: Engrg & Sci,2010,Spring,"Shifteh Far, Saeidreza",13,12,9,6,11,7,0,5,4,3,2,0,3
+101,Intro Computing: Engrg & Sci,2010,Spring,"Su, Lu",8,11,9,14,7,9,3,3,2,2,0,0,2
+101,Intro Computing: Engrg & Sci,2011,Fall,"Gambill, Thomas N",115,80,49,47,41,45,26,20,14,8,7,6,4
+101,Intro Computing: Engrg & Sci,2011,Spring,"Gambill, Thomas N",106,103,78,52,42,33,19,12,9,4,4,8,4
+101,Intro Computing: Engrg & Sci,2012,Fall,"Gambill, Thomas N",86,61,56,40,52,41,36,30,14,10,4,4,15
+101,Intro Computing: Engrg & Sci,2013,Fall,"Gambill, Thomas N",82,64,56,51,53,53,34,33,28,23,13,11,17
+101,Intro Computing: Engrg & Sci,2013,Spring,"Gambill, Thomas N",104,85,71,67,44,45,38,24,22,14,5,4,8
+101,Intro Computing: Engrg & Sci,2014,Fall,"Gambill, Thomas N",79,51,64,66,78,66,57,48,39,35,20,13,50
+101,Intro Computing: Engrg & Sci,2014,Spring,"Gambill, Thomas N",113,74,59,56,42,37,33,29,21,18,8,8,23
+101,Intro Computing: Engrg & Sci,2015,Fall,"Cunningham, Ryan M",7,213,76,83,142,35,23,53,12,0,26,0,24
+101,Intro Computing: Engrg & Sci,2015,Spring,"Gambill, Thomas N",116,83,83,68,73,66,48,43,16,20,19,7,35
+101,Intro Computing: Engrg & Sci,2016,Fall,"Davis, Neal E",93,154,124,67,72,36,39,26,11,10,15,14,21
+101,Intro Computing: Engrg & Sci,2016,Spring,"Cunningham, Ryan M",6,341,78,65,96,14,13,33,11,0,15,0,16
+101,Intro Computing: Engrg & Sci,2017,Fall,"Davis, Neal E",439,90,43,30,19,16,5,9,6,1,9,0,14
+101,Intro Computing: Engrg & Sci,2017,Spring,"Davis, Neal E",239,159,72,61,44,24,9,12,9,7,2,4,15
+101,Intro Computing: Engrg & Sci,2018,Fall,"Davis, Neal E",263,162,72,59,40,16,12,11,5,8,7,6,11
+101,Intro Computing: Engrg & Sci,2018,Spring,"Davis, Neal E",360,128,67,37,25,14,16,12,12,2,5,3,8
+101,Intro Computing: Engrg & Sci,2019,Spring,"Davis, Neal E",320,158,75,42,22,20,12,7,11,2,8,7,10
+105,Intro Computing: Non-Tech,2010,Fall,"Gambill, Thomas N",45,169,102,71,119,81,70,110,19,5,11,7,8
+105,Intro Computing: Non-Tech,2010,Spring,"Bhagath, Aditya",1,11,1,1,5,3,1,1,0,1,1,1,0
+105,Intro Computing: Non-Tech,2010,Spring,"Charalambides, Minas",9,11,11,7,13,6,7,3,6,2,2,0,0
+105,Intro Computing: Non-Tech,2010,Spring,"Chen, Yi-Shuan",8,20,15,9,6,3,5,5,4,1,3,1,1
+105,Intro Computing: Non-Tech,2010,Spring,"Date, Chaitanya P",5,11,12,10,11,4,6,0,3,1,0,1,0
+105,Intro Computing: Non-Tech,2010,Spring,"Hsiao, Christopher R",3,20,11,10,6,4,5,6,6,4,0,0,1
+105,Intro Computing: Non-Tech,2010,Spring,"Mitchell, Damion R",4,16,9,8,6,0,7,1,6,2,1,1,1
+105,Intro Computing: Non-Tech,2010,Spring,"Saharan, Ankit",8,15,11,10,10,3,1,3,2,2,0,1,1
+105,Intro Computing: Non-Tech,2010,Spring,"Ved, Ankeeth S",6,15,8,13,10,6,6,5,4,2,1,1,0
+105,Intro Computing: Non-Tech,2010,Spring,"Yuttanan, Boonrod",1,2,5,3,5,1,7,4,4,1,0,0,1
+105,Intro Computing: Non-Tech,2010,Spring,"Zutshi, Aditya",2,9,11,15,11,6,8,3,7,2,3,1,3
+105,Intro Computing: Non-Tech,2011,Fall,"Gambill, Thomas N",129,147,106,96,124,70,40,48,18,15,22,7,10
+105,Intro Computing: Non-Tech,2011,Spring,"Lauterburg, Steven T",30,86,66,53,88,45,40,47,17,5,18,3,14
+105,Intro Computing: Non-Tech,2012,Fall,"Zhao, Kai",52,193,170,144,122,62,45,34,15,9,4,1,2
+105,Intro Computing: Non-Tech,2013,Fall,"Zhao, Kai",67,145,136,103,138,62,33,0,49,11,9,4,11
+105,Intro Computing: Non-Tech,2013,Spring,"Zhao, Kai",59,181,86,84,80,34,27,21,5,7,4,0,5
+105,Intro Computing: Non-Tech,2014,Fall,"Fagen, Wade A",77,169,135,106,133,67,36,45,22,13,17,2,14
+105,Intro Computing: Non-Tech,2014,Spring,"Fagen, Wade A",35,82,62,70,59,35,32,23,8,7,5,5,6
+105,Intro Computing: Non-Tech,2015,Fall,"Fagen, Wade A",268,237,111,87,81,36,22,12,9,8,4,1,9
+105,Intro Computing: Non-Tech,2015,Spring,"Fagen, Wade A",60,101,61,40,52,41,25,24,10,6,2,1,8
+105,Intro Computing: Non-Tech,2016,Fall,"Hellwig, Martin",125,191,109,87,76,25,15,8,6,4,2,1,11
+105,Intro Computing: Non-Tech,2016,Spring,"Hellwig, Martin",161,135,86,49,34,15,11,3,4,1,1,0,8
+105,Intro Computing: Non-Tech,2017,Fall,"Harris, Albert F",40,157,204,0,100,0,0,15,0,0,4,0,8
+105,Intro Computing: Non-Tech,2017,Spring,"Haberman, Michael",184,130,64,42,41,21,11,14,1,5,9,1,21
+105,Intro Computing: Non-Tech,2018,Fall,"Harris, Albert F",124,95,66,56,46,31,25,24,12,0,14,0,7
+105,Intro Computing: Non-Tech,2018,Spring,"Harris, Albert F",43,134,115,60,45,50,19,16,20,0,18,0,13
+105,Intro Computing: Non-Tech,2019,Spring,"Harris, Albert F",216,189,39,35,48,13,7,16,2,1,12,4,2
+125,Intro to Computer Science,2010,Fall,"Angrave, Lawrence C",73,66,59,33,4,10,11,9,14,1,1,8,9
+125,Intro to Computer Science,2010,Spring,"Fogla, Navin",1,6,5,0,0,2,1,2,3,0,0,2,2
+125,Intro to Computer Science,2010,Spring,"Nagaraja, Sharat",6,16,9,11,2,7,8,4,2,1,0,0,0
+125,Intro to Computer Science,2010,Spring,"Somnath, Nisha",5,5,4,1,2,2,1,1,3,2,0,1,1
+125,Intro to Computer Science,2011,Fall,"Angrave, Lawrence C",70,79,73,33,16,13,11,13,12,0,7,0,22
+125,Intro to Computer Science,2011,Spring,"Angrave, Lawrence C",27,41,31,26,4,16,8,9,10,0,8,0,9
+125,Intro to Computer Science,2012,Fall,"Angrave, Lawrence C",36,63,81,41,37,20,19,25,22,0,11,0,20
+125,Intro to Computer Science,2013,Fall,"Zilles, Craig",28,131,35,35,68,20,14,27,11,0,13,11,13
+125,Intro to Computer Science,2013,Spring,"Angrave, Lawrence C",47,88,50,36,23,16,14,28,10,0,10,1,16
+125,Intro to Computer Science,2014,Fall,"Chapman, William L",137,129,29,21,33,10,6,17,2,0,0,1,8
+125,Intro to Computer Science,2014,Spring,"Angrave, Lawrence C",60,109,38,53,28,19,15,15,16,0,10,0,13
+125,Intro to Computer Science,2015,Fall,"Chapman, William L",152,170,42,44,49,15,34,41,4,6,1,1,12
+125,Intro to Computer Science,2015,Spring,"Chapman, William L",122,152,65,47,63,17,29,39,12,8,3,5,7
+125,Intro to Computer Science,2016,Fall,"Chapman, William L",103,178,78,34,63,49,36,27,9,3,1,3,3
+125,Intro to Computer Science,2016,Spring,"Chapman, William L",108,184,59,42,70,13,37,26,7,3,4,1,9
+125,Intro to Computer Science,2017,Fall,"Angrave, Lawrence C",19,264,77,68,45,43,68,35,24,0,24,0,17
+125,Intro to Computer Science,2017,Spring,"Chapman, William L",77,141,61,30,68,40,36,36,29,6,4,1,3
+125,Intro to Computer Science,2018,Fall,"Challen, Geoffrey W",143,389,53,34,32,19,8,7,8,0,14,0,20
+125,Intro to Computer Science,2018,Spring,"Challen, Geoffrey W",56,169,40,43,33,19,16,10,8,0,9,0,10
+125,Intro to Computer Science,2019,Spring,"Challen, Geoffrey W",55,223,39,20,32,13,4,9,2,0,18,0,21
+126,Software Design Studio,2016,Fall,"Zilles, Craig",4,23,0,3,1,1,1,0,1,0,0,0,0
+126,Software Design Studio,2017,Fall,"Zilles, Craig",22,23,18,10,18,3,6,5,2,0,1,0,3
+126,Software Design Studio,2017,Spring,"Angrave, Lawrence C",36,47,58,47,20,20,10,6,6,3,0,1,7
+126,Software Design Studio,2018,Fall,"Evans, Graham C",6,51,23,9,8,4,2,0,0,0,0,0,7
+126,Software Design Studio,2018,Spring,"Evans, Graham C",54,92,42,34,13,8,4,1,0,0,0,0,14
+126,Software Design Studio,2019,Spring,"Evans, Graham C",17,116,81,44,23,9,2,4,4,0,0,0,13
+173,Discrete Structures,2010,Fall,"Fleck, Margaret M",5,9,23,16,13,18,17,8,19,11,7,12,7
+173,Discrete Structures,2010,Spring,"Cook, Lucas T",7,5,4,7,2,3,2,5,6,4,3,0,1
+173,Discrete Structures,2010,Spring,"Fanek, Samer R",4,3,1,6,4,7,8,7,7,1,0,1,3
+173,Discrete Structures,2010,Spring,"Li, Chen",0,8,5,3,5,4,6,8,5,3,3,2,0
+173,Discrete Structures,2010,Spring,"Pittman, Lance C",3,0,3,2,4,4,4,4,0,2,2,0,0
+173,Discrete Structures,2011,Fall,"Fleck, Margaret M",14,25,16,29,22,17,14,17,15,8,9,7,4
+173,Discrete Structures,2011,Spring,"Fleck, Margaret M",12,30,21,37,28,18,30,26,20,15,16,4,30
+173,Discrete Structures,2012,Fall,"Fleck, Margaret M",20,46,34,42,51,32,33,31,21,18,13,7,8
+173,Discrete Structures,2012,Spring,"Pittman, Lance C",1,0,8,5,2,8,4,0,1,0,0,1,0
+173,Discrete Structures,2013,Fall,"Fleck, Margaret M",18,40,29,43,40,32,26,29,25,8,8,6,13
+173,Discrete Structures,2013,Fall,"Parthasarathy, Madhusudan",1,6,1,3,6,1,4,1,5,1,1,0,0
+173,Discrete Structures,2013,Spring,"Fleck, Margaret M",19,57,51,48,58,37,31,30,14,11,10,8,9
+173,Discrete Structures,2014,Fall,"Fleck, Margaret M",19,73,61,58,71,34,28,24,11,21,13,10,12
+173,Discrete Structures,2014,Fall,"Parthasarathy, Madhusudan",0,7,4,4,7,2,1,1,0,2,1,0,0
+173,Discrete Structures,2014,Spring,"Fleck, Margaret M",36,42,54,48,75,40,30,34,15,12,9,8,14
+173,Discrete Structures,2015,Fall,"Fleck, Margaret M",41,86,88,63,73,53,36,26,16,11,11,5,3
+173,Discrete Structures,2015,Spring,"Fleck, Margaret M",17,103,103,89,80,34,31,22,15,14,10,4,6
+173,Discrete Structures,2016,Fall,"Fleck, Margaret M",21,79,81,66,71,59,33,38,12,14,9,7,5
+173,Discrete Structures,2016,Spring,"Fleck, Margaret M",37,112,59,83,74,35,27,19,8,5,25,3,14
+173,Discrete Structures,2017,Fall,"Fleck, Margaret M",23,91,81,80,73,57,32,37,13,4,12,9,10
+173,Discrete Structures,2017,Spring,"Fleck, Margaret M",39,135,82,74,76,38,33,45,15,9,9,5,6
+173,Discrete Structures,2018,Fall,"Evans, Graham C",11,42,29,17,24,20,12,6,6,3,5,1,5
+173,Discrete Structures,2018,Fall,"Warnow, Tandy",45,38,13,20,22,13,11,7,4,4,4,4,4
+173,Discrete Structures,2018,Spring,"Fleck, Margaret M",26,83,57,50,51,35,28,18,7,9,9,3,3
+173,Discrete Structures,2018,Spring,"Meseguer, Jose",21,18,17,7,11,10,8,11,12,5,3,4,3
+173,Discrete Structures,2019,Spring,"Fleck, Margaret M",13,73,59,78,45,45,25,26,7,9,9,5,7
+173,Discrete Structures,2019,Spring,"Varodayan, David",11,30,33,18,25,14,21,17,6,3,4,5,5
+196,Freshman Honors,2010,Fall,"Angrave, Lawrence C",31,10,4,0,0,0,0,0,0,0,0,0,5
+196,Freshman Honors,2010,Fall,"Kumar, Viraj",6,2,1,5,0,2,3,2,1,0,4,0,1
+196,Freshman Honors,2010,Spring,"Gambill, Thomas N",0,47,0,0,0,0,0,0,0,0,0,0,1
+196,Freshman Honors,2011,Fall,"Angrave, Lawrence C",8,38,10,4,0,0,0,0,0,0,0,0,2
+196,Freshman Honors,2011,Spring,"Fleck, Margaret M",2,19,9,2,3,0,0,1,0,0,1,0,0
+196,Freshman Honors,2012,Fall,"Angrave, Lawrence C",9,27,10,3,0,0,0,0,1,0,0,0,2
+196,Freshman Honors,2013,Fall,"Angrave, Lawrence C",11,58,0,0,2,0,0,0,0,0,0,0,0
+196,Freshman Honors,2013,Spring,"Angrave, Lawrence C",2,11,18,2,0,0,0,0,0,0,0,0,2
+196,Freshman Honors,2013,Spring,"Fleck, Margaret M",4,6,5,7,0,1,2,0,0,0,1,0,1
+196,Freshman Honors,2014,Fall,"Chapman, William L",32,97,14,7,4,4,1,0,0,0,0,0,0
+196,Freshman Honors,2014,Spring,"Angrave, Lawrence C",13,45,1,1,0,0,0,1,0,0,0,0,1
+196,Freshman Honors,2014,Spring,"Fleck, Margaret M",16,19,3,1,2,1,1,0,3,0,0,0,0
+196,Freshman Honors,2015,Fall,"Chapman, William L",62,55,9,1,5,2,1,4,0,0,0,0,1
+196,Freshman Honors,2015,Fall,"Fleck, Margaret M",8,12,5,0,1,0,0,1,0,0,1,0,1
+196,Freshman Honors,2015,Spring,"Chapman, William L",26,68,23,6,5,2,0,0,0,0,0,0,0
+196,Freshman Honors,2015,Spring,"Fleck, Margaret M",3,12,6,6,3,2,1,0,1,0,0,0,0
+196,Freshman Honors,2016,Fall,"Chapman, William L",25,89,0,2,1,0,0,4,0,0,0,0,0
+196,Freshman Honors,2016,Fall,"Fleck, Margaret M",2,15,0,0,2,1,0,0,0,0,0,0,1
+196,Freshman Honors,2016,Spring,"Chapman, William L",23,39,11,9,6,0,0,1,0,0,0,0,3
+196,Freshman Honors,2016,Spring,"Fleck, Margaret M",7,6,6,2,3,0,0,0,1,0,0,0,0
+196,Freshman Honors,2017,Fall,"Challen, Geoffrey W",7,97,29,14,7,1,3,1,2,0,0,0,2
+196,Freshman Honors,2017,Fall,"Fleck, Margaret M",0,22,7,1,2,0,0,0,0,0,0,0,0
+196,Freshman Honors,2017,Spring,"Chapman, William L",4,25,11,8,2,2,3,0,0,0,0,0,0
+196,Freshman Honors,2018,Fall,"Challen, Geoffrey W",6,61,27,11,3,2,1,5,0,0,0,0,0
+196,Freshman Honors,2018,Spring,"Challen, Geoffrey W",4,19,10,4,1,2,0,0,0,0,0,0,0
+196,Freshman Honors,2018,Spring,"Fleck, Margaret M",1,12,6,2,1,1,0,1,0,0,0,0,0
+196,Freshman Honors,2019,Spring,"Challen, Geoffrey W",2,10,4,0,3,0,0,0,0,0,0,1,1
+196,Freshman Honors,2019,Spring,"Fleck, Margaret M",2,23,9,2,1,0,0,0,1,0,0,0,1
+199,De-Bug your Brain,2017,Fall,"Angrave, Lawrence C",0,22,1,0,0,0,0,0,0,0,0,0,1
+199,Elements of Game Design,2016,Winter,"Angrave, Lawrence C",18,4,0,1,0,0,0,0,0,0,0,0,0
+199,Elements of Game Design,2017,Winter,"Shaffer, Eric G",0,29,0,0,2,0,0,1,0,0,0,0,3
+199,Elements of Game Design,2018,Winter,"Shaffer, Eric G",20,4,2,0,1,0,0,1,0,0,1,0,1
+199,Python for Data,2019,Spring,"Davis, Neal E",18,3,4,1,1,0,0,0,0,0,0,0,1
+199,Real World Cases Scient Comput,2018,Fall,"Silva, Mariana T",14,33,1,2,1,1,0,0,0,0,0,0,1
+199,Undergraduate Open Seminar,2010,Fall,"Angrave, Lawrence C",0,20,0,0,1,0,0,1,0,0,1,0,0
+199,Undergraduate Open Seminar,2011,Fall,"Angrave, Lawrence C",0,19,0,0,0,0,0,1,0,0,0,0,1
+199,Undergraduate Open Seminar,2011,Spring,"Angrave, Lawrence C",0,21,0,0,0,0,0,0,0,0,3,0,0
+199,Undergraduate Open Seminar,2012,Fall,"Angrave, Lawrence C",0,22,0,0,3,0,0,1,0,0,0,0,1
+199,Undergraduate Open Seminar,2013,Fall,"Zilles, Craig",0,25,3,0,0,0,0,1,0,0,0,0,0
+199,Undergraduate Open Seminar,2013,Spring,"Angrave, Lawrence C",0,36,0,0,1,0,0,2,0,0,0,0,4
+199,Undergraduate Open Seminar,2014,Spring,"Angrave, Lawrence C",0,26,0,0,2,0,0,2,0,0,0,0,1
+199,Undergraduate Open Seminar,2014,Spring,"Heeren, Cinda",0,9,0,0,7,0,0,6,0,0,1,0,1
+199,Undergraduate Open Seminar,2015,Fall,"Heeren, Cinda",0,24,0,0,0,0,0,1,0,0,0,0,0
+199,Undergraduate Open Seminar,2015,Spring,"Yershova, Ganna",0,18,0,0,8,0,0,0,0,0,0,0,0
+199,Undergraduate Open Seminar,2016,Fall,"Heeren, Cinda",0,25,5,2,0,0,0,0,0,0,0,0,0
+199,Undergraduate Open Seminar,2017,Spring,"Heeren, Cinda",3,20,8,1,0,1,0,0,0,0,0,0,0
+210,Ethical & Professional Issues,2010,Fall,"Woodbury, Marsha C",25,59,2,3,2,1,0,2,0,0,0,0,1
+210,Ethical & Professional Issues,2010,Spring,"Loui, Michael C",0,25,17,6,1,0,3,3,0,0,0,0,0
+210,Ethical & Professional Issues,2011,Fall,"Woodbury, Marsha C",23,45,9,10,6,0,0,2,0,0,1,0,0
+210,Ethical & Professional Issues,2011,Spring,"Loui, Michael C",0,29,21,2,2,1,1,1,1,0,1,0,0
+210,Ethical & Professional Issues,2012,Fall,"Woodbury, Marsha C",28,29,20,5,6,4,0,1,0,0,2,0,1
+210,Ethical & Professional Issues,2013,Spring,"Miller, Keith W",0,46,1,0,31,1,0,8,0,0,2,0,0
+210,Ethical & Professional Issues,2014,Fall,"Kirlik, Alex",12,89,17,18,29,2,2,9,1,0,3,1,1
+210,Ethical & Professional Issues,2014,Spring,"Kirlik, Alex",5,56,21,54,23,2,3,5,1,2,3,6,0
+210,Ethical & Professional Issues,2015,Fall,"Cunningham, Ryan M",3,106,32,10,21,5,1,3,0,0,1,0,2
+210,Ethical & Professional Issues,2015,Spring,"Cunningham, Ryan M",6,111,29,33,42,8,6,17,2,1,1,0,2
+210,Ethical & Professional Issues,2016,Fall,"Cunningham, Ryan M",8,128,17,16,15,4,1,3,0,0,1,0,1
+210,Ethical & Professional Issues,2016,Spring,"Cunningham, Ryan M",3,81,25,18,35,8,8,6,1,0,1,0,3
+210,Ethical & Professional Issues,2017,Fall,"Cunningham, Ryan M",32,90,15,5,12,1,1,4,1,0,1,0,6
+210,Ethical & Professional Issues,2017,Spring,"Cunningham, Ryan M",10,108,20,3,12,2,2,0,1,0,0,0,2
+210,Ethical & Professional Issues,2018,Fall,"Cunningham, Ryan M",27,87,16,6,7,0,0,0,0,0,2,0,0
+210,Ethical & Professional Issues,2018,Spring,"Cunningham, Ryan M",49,71,5,5,10,1,0,2,0,0,1,0,1
+210,Ethical & Professional Issues,2019,Spring,"Cunningham, Ryan M",4,76,14,14,14,0,4,2,0,0,1,0,1
+225,Data Structures,2010,Fall,"Heeren, Cinda",4,69,13,17,65,5,5,38,14,0,22,0,12
+225,Data Structures,2010,Spring,"Earls, John C",1,12,3,4,16,2,2,9,0,0,5,0,0
+225,Data Structures,2010,Spring,"Karahan, Ibrahim",0,10,1,2,9,1,2,12,0,0,5,0,9
+225,Data Structures,2010,Spring,"Kassa, Debessay F",0,5,0,2,7,1,0,6,0,0,0,0,4
+225,Data Structures,2010,Spring,"Singh, Varun K",0,5,2,1,2,1,1,5,0,0,5,0,1
+225,Data Structures,2011,Fall,"Heeren, Cinda",3,101,20,19,72,16,21,34,17,0,10,0,12
+225,Data Structures,2011,Spring,"Heeren, Cinda",0,72,35,12,49,11,9,14,5,0,18,0,7
+225,Data Structures,2012,Fall,"Heeren, Cinda",3,109,58,23,70,14,13,39,0,0,21,0,21
+225,Data Structures,2012,Spring,"Toole, John D",1,12,6,4,8,2,3,4,5,0,3,0,7
+225,Data Structures,2013,Fall,"Heeren, Cinda",5,165,61,24,61,42,23,30,13,0,21,0,14
+225,Data Structures,2013,Spring,"Heeren, Cinda",15,77,75,22,49,25,17,56,0,0,33,0,22
+225,Data Structures,2014,Fall,"Heeren, Cinda",6,145,48,32,76,29,29,37,10,0,50,0,31
+225,Data Structures,2014,Spring,"Heeren, Cinda",5,160,44,56,74,39,32,40,12,0,42,0,24
+225,Data Structures,2015,Fall,"Heeren, Cinda",8,175,84,49,95,32,29,46,15,0,32,0,23
+225,Data Structures,2015,Spring,"Heeren, Cinda",52,145,109,64,47,26,28,23,10,14,10,0,17
+225,Data Structures,2016,Fall,"Heeren, Cinda",26,296,87,54,73,25,30,47,0,0,35,0,28
+225,Data Structures,2016,Spring,"Heeren, Cinda",16,210,83,40,76,24,20,42,0,0,30,0,23
+225,Data Structures,2016,Spring,"Yershova, Ganna",0,17,14,5,10,6,1,6,0,0,5,0,7
+225,Data Structures,2017,Fall,"Fagen-Ulmschnei, Wade A",235,87,54,46,57,33,28,42,17,24,23,28,30
+225,Data Structures,2017,Spring,"Heeren, Cinda",19,312,55,39,53,27,16,44,0,0,56,0,48
+225,Data Structures,2018,Fall,"Fagen-Ulmschnei, Wade A",25,408,41,45,44,22,28,22,15,6,9,11,21
+225,Data Structures,2018,Spring,"Fagen-Ulmschnei, Wade A",19,312,41,32,43,33,15,24,12,7,13,17,39
+225,Data Structures,2019,Spring,"Zilles, Craig",23,232,34,29,25,15,12,12,11,13,10,5,37
+231,Computer Architecture I,2010,Fall,"Garzaran, Maria J",8,20,11,7,31,6,1,32,4,0,16,0,5
+231,Computer Architecture I,2010,Spring,"Kale, Laxmikant V",4,27,5,5,39,8,5,19,7,5,6,1,6
+231,Computer Architecture I,2011,Fall,"Garzaran, Maria J",6,53,2,7,39,4,8,41,2,0,17,0,4
+231,Computer Architecture I,2011,Spring,"Kale, Laxmikant V",8,28,7,14,39,15,13,25,8,0,8,0,11
+232,Computer Architecture II,2010,Fall,"Kumar, Viraj",6,23,16,16,30,6,3,7,0,1,0,1,0
+232,Computer Architecture II,2010,Spring,"Aggarwal, Arushi",7,8,3,1,6,1,1,0,1,0,0,0,0
+232,Computer Architecture II,2010,Spring,"Cunningham, Ryan M",8,6,3,4,13,2,2,0,0,1,0,0,0
+232,Computer Architecture II,2010,Spring,"Guzman Rivera, Abner",4,7,3,3,13,4,2,1,2,0,0,0,1
+232,Computer Architecture II,2010,Spring,"Kumar, Viraj",6,7,3,2,14,0,4,2,0,0,0,0,0
+232,Computer Architecture II,2010,Spring,"Sukumar, Pritam P",8,7,2,3,12,0,3,3,0,0,1,0,0
+232,Computer Architecture II,2011,Fall,"Zilles, Craig",8,27,7,8,37,4,8,19,3,0,8,0,3
+232,Computer Architecture II,2011,Spring,"Kumar, Viraj",7,34,26,18,24,12,4,5,4,0,0,0,0
+233,Computer Architecture,2014,Fall,"Zilles, Craig",8,37,15,13,57,13,6,16,4,4,13,0,11
+233,Computer Architecture,2015,Fall,"Zilles, Craig",12,81,12,13,93,9,7,53,9,0,8,5,11
+233,Computer Architecture,2015,Spring,"Zilles, Craig",12,71,17,13,83,4,12,41,2,4,26,9,19
+233,Computer Architecture,2016,Fall,"Zilles, Craig",13,142,15,14,83,7,6,43,4,2,21,2,22
+233,Computer Architecture,2016,Spring,"Zilles, Craig",7,64,7,5,35,6,5,24,1,1,10,2,13
+233,Computer Architecture,2017,Fall,"Herman, Geoffrey L",2,144,8,8,63,7,5,38,2,0,14,0,18
+233,Computer Architecture,2017,Spring,"Herman, Geoffrey L",5,69,4,12,44,0,2,15,1,0,14,0,24
+233,Computer Architecture,2018,Fall,"Herman, Geoffrey L",13,166,11,12,57,8,4,43,3,1,18,0,13
+233,Computer Architecture,2018,Spring,"Herman, Geoffrey L",5,94,6,13,49,5,6,13,5,1,6,4,12
+233,Computer Architecture,2019,Spring,"Herman, Geoffrey L",14,131,12,3,43,3,2,23,1,0,19,0,12
+241,System Programming,2010,Fall,"Caccamo, Marco",10,11,12,13,13,7,5,19,6,0,18,0,13
+241,System Programming,2010,Spring,"Kravets, Robin H",4,45,3,3,18,7,6,19,9,2,7,5,8
+241,System Programming,2011,Fall,"Kravets, Robin H",3,18,8,7,21,3,3,20,7,5,3,3,17
+241,System Programming,2011,Spring,"Kravets, Robin H",3,13,10,8,27,11,4,13,5,8,14,7,12
+241,System Programming,2012,Fall,"Kravets, Robin H",3,29,6,6,25,6,4,17,5,4,24,3,21
+241,System Programming,2012,Spring,"Fagen, Wade A",2,3,2,1,4,2,2,4,0,0,3,0,3
+241,System Programming,2013,Fall,"Fagen, Wade A",3,24,19,14,29,16,17,9,10,0,15,0,16
+241,System Programming,2013,Spring,"Caccamo, Marco",6,18,16,25,30,14,8,17,23,0,8,0,21
+241,System Programming,2014,Fall,"Angrave, Lawrence C",21,31,38,56,31,33,21,22,28,11,11,11,12
+241,System Programming,2014,Spring,"Caccamo, Marco",7,29,11,14,25,10,9,11,8,6,8,5,7
+241,System Programming,2015,Fall,"Angrave, Lawrence C",14,17,13,33,16,18,7,14,8,13,7,9,4
+241,System Programming,2015,Spring,"Angrave, Lawrence C",18,19,31,23,23,19,9,9,11,14,5,3,9
+241,System Programming,2016,Fall,"Angrave, Lawrence C",51,48,29,39,26,19,15,8,7,13,14,8,17
+241,System Programming,2016,Spring,"Angrave, Lawrence C",33,30,33,32,43,43,35,14,8,21,11,4,21
+241,System Programming,2017,Fall,"Evans, Graham C",11,24,15,21,7,23,12,12,8,7,8,10,5
+241,System Programming,2017,Spring,"Evans, Graham C",32,31,37,26,20,34,31,28,19,23,17,13,15
+241,System Programming,2018,Fall,"Angrave, Lawrence C",45,39,26,21,18,10,25,17,10,10,6,0,40
+241,System Programming,2018,Spring,"Angrave, Lawrence C",33,46,15,27,28,16,17,15,11,7,7,6,19
+241,System Programming,2019,Spring,"Angrave, Lawrence C",56,34,28,17,38,12,17,11,13,5,9,17,9
+242,Programming Studio,2010,Fall,"Woodley, Michael J",6,39,35,27,18,7,0,0,0,0,0,0,0
+242,Programming Studio,2010,Spring,"Woodley, Michael J",33,37,16,8,6,1,0,0,0,0,0,0,0
+242,Programming Studio,2011,Fall,"Woodley, Michael J",11,53,16,18,10,3,2,1,1,0,1,0,2
+242,Programming Studio,2011,Spring,"Woodley, Michael J",3,25,26,14,18,5,1,3,0,0,3,0,0
+242,Programming Studio,2012,Fall,"Woodley, Michael J",22,75,17,7,6,1,2,4,0,0,0,0,1
+242,Programming Studio,2013,Fall,"Woodley, Michael J",9,33,34,27,21,6,7,7,2,1,2,0,1
+242,Programming Studio,2013,Spring,"Woodley, Michael J",18,98,16,12,8,4,2,0,1,0,0,0,2
+242,Programming Studio,2014,Fall,"Woodley, Michael J",2,19,51,51,14,19,9,7,0,1,2,0,1
+242,Programming Studio,2014,Spring,"Woodley, Michael J",33,75,19,18,8,3,3,8,0,4,4,0,1
+242,Programming Studio,2015,Fall,"Woodley, Michael J",4,52,60,24,8,3,9,5,1,3,1,1,4
+242,Programming Studio,2015,Spring,"Woodley, Michael J",10,38,42,24,14,10,4,8,3,4,1,0,4
+242,Programming Studio,2016,Fall,"Woodley, Michael J",4,40,53,32,17,6,11,6,0,1,0,0,1
+242,Programming Studio,2016,Spring,"Woodley, Michael J",2,39,48,26,20,10,10,8,0,2,0,0,0
+242,Programming Studio,2017,Fall,"Woodley, Michael J",13,54,77,33,9,11,10,8,4,1,4,0,8
+242,Programming Studio,2017,Spring,"Woodley, Michael J",16,54,34,29,12,13,8,2,3,6,0,3,2
+242,Programming Studio,2018,Fall,"Woodley, Michael J",27,49,51,31,15,10,7,6,3,3,0,2,9
+242,Programming Studio,2018,Spring,"Woodley, Michael J",19,47,39,18,13,9,12,6,3,4,3,3,6
+242,Programming Studio,2019,Spring,"Woodley, Michael J",24,60,20,24,15,7,6,4,3,1,3,0,1
+296,Honors Course,2012,Fall,"Heeren, Cinda",1,22,3,4,0,0,0,0,0,0,0,0,0
+296,Honors Course,2013,Fall,"Heeren, Cinda",0,22,7,0,2,0,0,1,0,0,0,0,0
+296,Honors Course,2013,Spring,"Heeren, Cinda",3,28,7,5,5,3,1,7,0,0,0,0,6
+296,Honors Course,2014,Fall,"Angrave, Lawrence C",6,12,0,0,0,0,0,0,0,0,0,0,4
+296,Honors Course,2014,Fall,"Heeren, Cinda",5,25,2,3,4,1,0,0,0,0,0,0,4
+296,Honors Course,2014,Fall,"Zilles, Craig",3,13,0,4,10,1,0,1,2,0,0,0,1
+296,Honors Course,2014,Spring,"Heeren, Cinda",3,57,5,2,5,3,0,0,0,0,0,0,0
+296,Honors Course,2014,Spring,"Zilles, Craig",0,18,0,1,3,3,0,3,0,0,2,0,0
+296,Honors Course,2015,Fall,"Zilles, Craig",7,9,6,1,2,1,0,0,0,0,0,0,0
+296,Honors Course,2015,Spring,"Heeren, Cinda",6,38,3,2,3,1,0,0,0,0,0,0,3
+296,Honors Course,2015,Spring,"Zilles, Craig",2,14,4,1,10,0,0,4,0,0,2,0,1
+296,Honors Course,2016,Fall,"Angrave, Lawrence C",5,22,7,3,0,0,0,0,0,0,0,0,0
+296,Honors Course,2016,Fall,"Heeren, Cinda",0,53,0,0,0,0,0,2,0,0,0,0,0
+296,Honors Course,2016,Fall,"Zilles, Craig",2,8,7,1,0,1,2,1,1,1,0,0,1
+296,Honors Course,2016,Spring,"Angrave, Lawrence C",3,22,3,2,1,0,0,0,0,0,0,0,0
+296,Honors Course,2016,Spring,"Heeren, Cinda",8,25,10,8,3,2,0,0,0,0,0,0,0
+296,Honors Course,2017,Fall,"Fagen-Ulmschnei, Wade A",0,92,0,0,0,0,0,8,0,0,0,0,0
+296,Honors Course,2017,Fall,"Zilles, Craig",4,12,0,2,6,0,0,1,0,0,0,0,3
+296,Honors Course,2017,Spring,"Angrave, Lawrence C",7,19,3,4,0,0,0,0,0,0,0,0,0
+296,Honors Course,2017,Spring,"Heeren, Cinda",35,36,2,0,0,0,0,1,0,0,0,0,0
+296,Honors Course,2018,Fall,"Fagen-Ulmschnei, Wade A",0,72,2,0,3,2,0,2,0,0,0,0,1
+296,Honors Course,2018,Spring,"Fagen-Ulmschnei, Wade A",13,13,5,2,1,0,0,1,0,0,0,0,4
+296,Honors Course,2019,Spring,"Fagen-Ulmschnei, Wade A",44,44,5,6,0,0,0,1,0,0,0,0,2
+357,Numerical Methods I,2010,Fall,"Hirani, Anil N",8,23,0,14,7,0,5,14,12,0,15,0,6
+357,Numerical Methods I,2010,Spring,"Gropp, William D",2,56,25,14,20,12,2,5,3,0,1,2,4
+357,Numerical Methods I,2011,Fall,"Yershova, Ganna",9,37,18,26,25,11,19,7,9,0,2,0,2
+357,Numerical Methods I,2011,Spring,"Gambill, Thomas N",14,28,25,31,28,5,15,10,4,2,5,0,1
+357,Numerical Methods I,2012,Fall,"Hirani, Anil N",2,30,13,28,18,12,3,12,4,1,6,0,3
+357,Numerical Methods I,2013,Fall,"Semeraro, Bart D",33,28,28,22,30,11,10,11,3,1,4,2,3
+357,Numerical Methods I,2013,Spring,"Shaffer, Eric G",2,91,42,7,22,11,4,6,3,0,4,0,3
+357,Numerical Methods I,2014,Fall,"Kloeckner, Andreas P",7,61,23,20,30,20,11,19,4,13,7,3,5
+357,Numerical Methods I,2014,Spring,"Semeraro, Bart D",5,19,23,26,35,27,19,16,9,8,3,6,2
+357,Numerical Methods I,2015,Fall,"Olson, Luke",0,51,24,32,33,14,17,8,7,6,3,3,0
+357,Numerical Methods I,2015,Spring,"Kloeckner, Andreas P",5,52,13,21,24,7,13,11,10,7,6,3,0
+357,Numerical Methods I,2015,Spring,"Shaffer, Eric G",2,41,10,14,25,11,16,24,3,5,3,0,4
+357,Numerical Methods I,2016,Fall,"Kloeckner, Andreas P",12,113,20,18,15,12,9,11,7,11,12,4,9
+357,Numerical Methods I,2016,Spring,"Heath, Michael T",9,16,21,14,33,18,18,24,10,4,8,3,6
+357,Numerical Methods I,2016,Spring,"Shaffer, Eric G",3,9,9,10,17,7,8,7,9,3,2,4,1
+357,Numerical Methods I,2017,Fall,"Olson, Luke",49,86,43,48,55,30,31,36,13,12,11,5,14
+357,Numerical Methods I,2017,Spring,"Kloeckner, Andreas P",59,47,52,35,31,34,32,25,15,8,8,5,12
+357,Numerical Methods I,2018,Fall,"Silva, Mariana T",39,100,44,35,50,30,19,27,20,7,8,4,9
+357,Numerical Methods I,2018,Spring,"Silva, Mariana T",29,65,70,50,48,22,32,19,12,9,8,9,7
+357,Numerical Methods I,2019,Spring,"Silva, Mariana T",41,100,45,45,34,17,20,17,7,7,3,5,8
+361,Prob & Stat for Computer Sci,2016,Fall,"Peng, Jian",12,16,7,14,6,1,4,2,2,0,1,0,1
+361,Prob & Stat for Computer Sci,2017,Fall,"Barber, Richard C",4,20,5,2,0,0,0,0,1,0,0,0,3
+361,Prob & Stat for Computer Sci,2017,Spring,"Sinha, Saurabh",8,21,14,3,6,6,1,1,0,0,2,1,1
+361,Prob & Stat for Computer Sci,2018,Fall,"Varodayan, David",9,20,10,4,7,5,3,2,3,4,4,1,5
+361,Prob & Stat for Computer Sci,2018,Spring,"Barber, Richard C",10,32,7,4,9,1,0,7,1,1,2,0,6
+361,Prob & Stat for Computer Sci,2019,Spring,"Varodayan, David",17,40,20,13,20,6,9,7,1,1,2,1,5
+373,Theory of Computation,2010,Fall,"Viswanathan, Mahesh",8,16,21,21,31,21,15,6,6,5,1,0,0
+373,Theory of Computation,2010,Spring,"Parthasarathy, Madhusudan",8,18,6,9,15,12,9,14,13,7,4,11,0
+373,Theory of Computation,2011,Fall,"Parthasarathy, Madhusudan",6,17,16,7,16,17,17,21,10,4,2,2,7
+373,Theory of Computation,2011,Spring,"Lavalle, Steven M",5,19,6,10,19,13,7,14,5,0,6,0,1
+373,Theory of Computation,2012,Fall,"Viswanathan, Mahesh",10,64,22,15,11,7,5,9,25,2,0,0,1
+373,Theory of Computation,2012,Spring,"Cunningham, Ryan M",11,9,1,3,4,1,1,4,2,0,3,0,0
+373,Theory of Computation,2013,Fall,"Viswanathan, Mahesh",7,51,28,29,23,17,14,11,9,6,0,0,0
+373,Theory of Computation,2013,Spring,"Viswanathan, Mahesh",12,60,19,16,16,18,9,19,10,1,0,0,1
+373,Theory of Computation,2014,Spring,"Meseguer, Jose",5,26,21,7,15,14,14,24,6,4,3,1,3
+374,Intro to Algs & Models of Comp,2016,Fall,"Erickson, Jeff G",14,45,27,31,38,42,53,40,33,38,17,5,14
+374,Intro to Algs & Models of Comp,2017,Fall,"Har-Peled, Sariel",7,41,33,38,35,50,65,51,33,33,8,6,8
+374,Intro to Algs & Models of Comp,2017,Spring,"Chekuri, Chandra S",20,51,28,46,67,45,46,32,38,17,7,5,6
+374,Intro to Algs & Models of Comp,2018,Fall,"Borisov, Nikita",5,16,9,8,4,11,5,10,8,2,0,2,6
+374,Intro to Algs & Models of Comp,2018,Fall,"Chekuri, Chandra S",16,49,38,37,34,39,42,28,29,26,14,5,8
+374,Intro to Algs & Models of Comp,2018,Spring,"Erickson, Jeff G",12,31,25,35,27,27,28,25,20,21,11,5,7
+374,Intro to Algs & Models of Comp,2018,Spring,"Viswanathan, Mahesh",5,55,21,27,10,34,6,32,20,38,12,4,0
+374,Intro to Algs & Models of Comp,2019,Spring,"Al-Hassanieh, Haitham",3,15,9,20,17,23,21,18,9,6,4,4,4
+374,Intro to Algs & Models of Comp,2019,Spring,"Har-Peled, Sariel",9,32,28,24,34,23,41,33,35,20,13,2,10
+398,Applied Cloud Computing,2018,Spring,"Brunner, Robert J",13,14,13,3,8,4,0,2,0,0,0,0,3
+398,Computer Architecture,2012,Fall,"Zilles, Craig",22,67,23,19,110,13,13,50,3,0,20,0,12
+398,Computer Architecture,2013,Fall,"Garzaran, Maria J",4,42,6,12,64,3,4,35,0,2,12,3,6
+398,Computer Architecture,2013,Spring,"Zilles, Craig",9,34,24,5,54,8,6,25,3,0,13,0,16
+398,Computer Architecture,2014,Spring,"Zilles, Craig",9,44,11,8,65,7,5,21,2,2,12,2,11
+398,Deep Learning,2019,Spring,"Sirignano, Justin A",8,30,2,1,0,0,0,1,0,0,0,0,0
+398,Introduction to Data Science,2019,Spring,"Stodden, Victoria",10,7,2,5,2,1,1,0,0,0,0,0,1
+410,Text Information Systems,2010,Spring,"Zhai, Chengxiang",14,18,3,0,8,7,0,0,0,0,0,0,0
+410,Text Information Systems,2011,Spring,"Zhai, Chengxiang",10,17,8,0,8,7,0,1,0,0,0,0,1
+410,Text Information Systems,2013,Spring,"Zhai, Chengxiang",19,43,10,13,13,6,1,1,0,0,0,0,0
+410,Text Information Systems,2014,Spring,"Zhai, Chengxiang",9,57,7,13,2,2,0,1,0,0,0,0,2
+410,Text Information Systems,2015,Spring,"Zhai, Chengxiang",21,102,16,11,10,4,0,0,0,0,0,0,0
+410,Text Information Systems,2016,Fall,"Zhai, Chengxiang",36,24,4,2,0,0,0,2,0,0,0,0,1
+410,Text Information Systems,2016,Spring,"Zhai, Chengxiang",17,155,0,2,11,0,1,1,0,0,1,0,0
+410,Text Information Systems,2017,Fall,"Zhai, Chengxiang",95,27,6,4,0,0,0,0,0,0,0,0,0
+410,Text Information Systems,2017,Spring,"Zhai, Chengxiang",76,54,32,7,5,1,0,2,1,0,1,1,0
+410,Text Information Systems,2018,Fall,"Zhai, Chengxiang",133,37,16,3,1,1,0,0,0,0,0,0,0
+410,Text Information Systems,2018,Spring,"Zhai, Chengxiang",94,55,23,6,5,4,0,1,0,0,0,0,0
+410,Text Information Systems,2019,Spring,"Zhai, Chengxiang",98,57,29,6,5,1,0,1,0,0,1,0,0
+411,Database Systems,2010,Fall,"Sinha, Saurabh",14,30,14,11,20,10,10,9,7,0,0,0,0
+411,Database Systems,2010,Spring,"Chang, Kevin C",5,16,10,26,16,6,15,9,2,1,1,1,0
+411,Database Systems,2011,Fall,"Zhao, Peixiang",4,34,27,25,23,19,16,7,4,4,1,3,1
+411,Database Systems,2011,Spring,"Chang, Kevin C",8,26,36,21,36,33,7,8,4,1,1,1,2
+411,Database Systems,2012,Fall,"Sinha, Saurabh",20,44,22,16,38,18,4,11,6,2,4,2,1
+411,Database Systems,2012,Spring,"Weninger, Timothy E",1,8,11,2,3,1,1,1,0,0,0,0,0
+411,Database Systems,2013,Fall,"Chang, Kevin C",9,26,18,12,32,31,14,20,18,2,1,6,5
+411,Database Systems,2013,Spring,"Cunningham, Ryan M",16,87,12,15,43,0,2,8,0,0,0,0,0
+411,Database Systems,2014,Fall,"Sinha, Saurabh",19,40,21,21,41,24,6,12,7,1,1,0,0
+411,Database Systems,2014,Spring,"Cunningham, Ryan M",15,82,27,11,46,8,3,2,0,0,1,0,0
+411,Database Systems,2015,Fall,"Sinha, Saurabh",31,65,31,12,30,17,2,3,1,0,0,0,2
+411,Database Systems,2015,Spring,"Chang, Kevin C",17,20,50,25,27,26,7,8,9,4,1,1,2
+411,Database Systems,2016,Fall,"Chang, Kevin C",16,23,48,17,30,26,6,6,13,5,4,5,7
+411,Database Systems,2016,Spring,"Parameswaran, Aditya G",6,28,62,56,25,13,0,0,0,0,0,0,0
+411,Database Systems,2017,Fall,"Chang, Kevin C",7,19,15,14,19,20,10,6,7,5,3,6,11
+411,Database Systems,2017,Spring,"Parameswaran, Aditya G",13,21,66,63,22,7,0,0,0,0,0,0,0
+411,Database Systems,2018,Fall,"Alawini, Abdussalam A",63,25,43,26,21,5,3,2,3,3,1,0,0
+411,Database Systems,2018,Spring,"Chang, Kevin C",2,6,8,4,7,6,2,2,1,1,0,0,5
+411,Database Systems,2018,Spring,"Parameswaran, Aditya G",8,31,85,57,31,9,0,1,0,0,0,0,0
+411,Database Systems,2019,Spring,"Alawini, Abdussalam A",66,94,42,29,13,6,2,0,1,1,1,1,0
+411,Database Systems,2019,Spring,"Chang, Kevin C",2,17,10,6,14,15,6,3,1,1,1,1,1
+412,Introduction to Data Mining,2010,Fall,"Han, Jiawei",10,20,20,12,15,8,1,2,1,0,0,0,5
+412,Introduction to Data Mining,2011,Fall,"Han, Jiawei",12,43,31,13,6,6,3,4,0,0,0,0,2
+412,Introduction to Data Mining,2012,Fall,"Han, Jiawei",12,45,41,21,14,7,10,2,1,0,1,0,4
+412,Introduction to Data Mining,2013,Fall,"Han, Jiawei",19,58,44,32,26,30,7,5,3,0,0,0,7
+412,Introduction to Data Mining,2014,Fall,"Chang, Kevin C",15,30,43,14,18,16,7,6,11,2,1,1,10
+412,Introduction to Data Mining,2015,Fall,"Chang, Kevin C",10,23,36,16,19,25,7,9,18,4,6,2,9
+412,Introduction to Data Mining,2016,Fall,"Han, Jiawei",23,34,31,24,30,19,12,10,4,0,2,0,4
+412,Introduction to Data Mining,2016,Spring,"Sundaram, Hari",5,26,17,4,8,9,1,2,5,0,2,0,2
+412,Introduction to Data Mining,2017,Fall,"Han, Jiawei",13,29,22,24,39,23,4,9,4,1,2,1,8
+412,Introduction to Data Mining,2017,Spring,"Han, Jiawei",3,16,21,5,6,0,0,2,0,0,0,0,1
+412,Introduction to Data Mining,2017,Spring,"Sundaram, Hari",29,55,26,9,6,5,6,2,0,0,0,0,1
+412,Introduction to Data Mining,2018,Fall,"Li, Qi",18,54,34,12,18,9,8,5,2,0,0,0,0
+412,Introduction to Data Mining,2018,Spring,"Han, Jiawei",9,32,18,10,9,5,2,1,0,0,3,0,5
+412,Introduction to Data Mining,2018,Spring,"Sundaram, Hari",16,37,23,11,23,16,16,9,0,0,1,0,1
+412,Introduction to Data Mining,2019,Spring,"Han, Jiawei",42,63,40,15,9,4,0,1,0,0,3,0,6
+412,Introduction to Data Mining,2019,Spring,"Li, Qi",12,17,11,18,9,12,16,5,0,0,4,0,2
+412,Introduction to Data Mining,2019,Spring,"Sinha, Saurabh",4,8,3,8,5,3,0,1,4,3,0,0,2
+414,Multimedia Systems,2010,Spring,"Nahrstedt, Klara",3,7,3,3,5,3,1,4,0,0,1,0,0
+414,Multimedia Systems,2011,Spring,"Nahrstedt, Klara",3,11,4,2,6,3,1,3,1,0,2,0,0
+414,Multimedia Systems,2014,Spring,"Nahrstedt, Klara",0,11,6,2,12,3,1,3,1,0,0,0,0
+418,Interactive Computer Graphics,2010,Fall,"Hart, John C",9,13,8,3,7,6,1,0,0,0,1,1,0
+418,Interactive Computer Graphics,2010,Spring,"Hart, John C",9,15,7,9,1,4,0,1,1,0,0,0,0
+418,Interactive Computer Graphics,2011,Fall,"Hart, John C",2,17,9,4,4,8,1,3,0,0,2,0,0
+418,Interactive Computer Graphics,2011,Spring,"Hart, John C",5,17,11,2,14,0,4,0,0,0,1,0,1
+418,Interactive Computer Graphics,2012,Fall,"Hart, John C",7,17,8,5,11,11,4,7,0,0,0,0,2
+418,Interactive Computer Graphics,2013,Fall,"Hart, John C",0,33,5,4,32,3,2,5,1,0,2,0,0
+418,Interactive Computer Graphics,2013,Spring,"Hart, John C",5,68,1,25,21,8,5,5,0,2,6,0,1
+418,Interactive Computer Graphics,2014,Fall,"Shaffer, Eric G",0,69,23,13,6,9,4,2,0,0,7,0,3
+418,Interactive Computer Graphics,2014,Spring,"Hart, John C",10,72,23,37,4,12,7,7,1,0,0,0,5
+418,Interactive Computer Graphics,2015,Fall,"Shaffer, Eric G",10,47,26,21,22,11,6,7,6,0,3,0,6
+418,Interactive Computer Graphics,2015,Spring,"Hart, John C",12,32,48,31,16,10,3,5,3,1,2,2,5
+418,Interactive Computer Graphics,2016,Fall,"Shaffer, Eric G",6,28,25,22,24,19,8,9,4,0,11,0,6
+418,Interactive Computer Graphics,2016,Spring,"Hart, John C",18,52,51,13,13,9,4,3,2,1,0,0,1
+418,Interactive Computer Graphics,2017,Fall,"Shaffer, Eric G",9,54,13,14,16,8,11,5,3,0,6,0,4
+418,Interactive Computer Graphics,2017,Spring,"Shaffer, Eric G",14,25,23,13,22,19,5,17,3,0,14,0,8
+418,Interactive Computer Graphics,2018,Fall,"Hart, John C",25,25,17,8,6,8,2,3,1,0,0,0,4
+418,Interactive Computer Graphics,2018,Spring,"Shaffer, Eric G",12,25,14,7,15,10,3,20,0,0,12,0,2
+418,Interactive Computer Graphics,2019,Spring,"Shaffer, Eric G",6,17,9,6,7,5,3,3,3,0,3,0,6
+419,Production Computer Graphics,2010,Fall,"Forsyth, David A",2,5,5,5,4,0,2,0,0,0,1,0,1
+419,Production Computer Graphics,2016,Spring,"Shaffer, Eric G",4,13,8,6,3,2,0,2,0,0,1,0,0
+419,Production Computer Graphics,2017,Spring,"Shaffer, Eric G",5,5,1,5,0,1,1,2,0,0,0,0,3
+419,Production Computer Graphics,2018,Fall,"Shaffer, Eric G",5,15,7,2,1,0,1,0,0,0,0,0,0
+420,Parallel Progrmg: Sci & Engrg,2010,Fall,"Padua, David A",9,3,4,6,5,1,5,2,0,0,0,0,0
+420,Parallel Progrmg: Sci & Engrg,2011,Fall,"Padua, David A",4,7,3,7,5,4,1,0,0,0,0,0,0
+420,Parallel Progrmg: Sci & Engrg,2012,Fall,"Padua, David A",3,12,1,2,5,0,0,5,1,0,0,1,0
+420,Parallel Progrmg: Sci & Engrg,2013,Fall,"Kale, Laxmikant V",4,18,8,9,11,4,3,1,3,0,2,1,0
+420,Parallel Progrmg: Sci & Engrg,2014,Fall,"Kale, Laxmikant V",4,18,8,11,6,4,1,2,0,0,0,0,0
+420,Parallel Progrmg: Sci & Engrg,2015,Fall,"Kale, Laxmikant V",4,16,11,6,7,7,2,1,0,0,0,0,0
+420,Parallel Progrmg: Sci & Engrg,2016,Fall,"Snir, Marc",3,3,5,3,4,9,3,2,2,1,1,0,0
+420,Parallel Progrmg: Sci & Engrg,2017,Fall,"Snir, Marc",0,8,3,7,9,9,3,1,3,1,1,0,0
+421,Progrmg Languages & Compilers,2010,Fall,"Gunter, Elsa",9,19,7,13,12,12,2,8,4,1,1,1,2
+421,Progrmg Languages & Compilers,2010,Spring,"Kamin, Samuel N",19,19,2,6,7,6,9,3,3,0,2,0,4
+421,Progrmg Languages & Compilers,2011,Fall,"Gunter, Elsa",7,24,5,12,19,2,7,7,4,1,2,0,1
+421,Progrmg Languages & Compilers,2011,Spring,"Kamin, Samuel N",4,45,11,3,27,4,5,25,6,2,1,0,3
+421,Progrmg Languages & Compilers,2012,Fall,"Gunter, Elsa",10,14,14,12,15,4,5,8,2,2,2,3,1
+421,Progrmg Languages & Compilers,2012,Spring,"Griffith, Dennis E",1,4,2,2,1,4,1,2,1,0,0,1,2
+421,Progrmg Languages & Compilers,2013,Fall,"Gunter, Elsa",5,30,15,16,18,8,11,8,3,2,2,1,4
+421,Progrmg Languages & Compilers,2013,Spring,"Kamin, Samuel N",17,56,8,10,12,7,9,19,2,0,7,0,3
+421,Progrmg Languages & Compilers,2014,Fall,"Gunter, Elsa",6,34,9,8,12,12,4,9,3,1,3,2,0
+421,Progrmg Languages & Compilers,2014,Spring,"Rosu, Grigore",16,33,23,20,29,11,15,12,8,0,7,2,3
+421,Progrmg Languages & Compilers,2015,Spring,"Agha, Gul A",18,61,22,18,8,16,9,6,1,2,1,2,2
+421,Progrmg Languages & Compilers,2016,Fall,"Gunter, Elsa",35,37,15,12,28,3,8,16,5,3,3,1,3
+421,Progrmg Languages & Compilers,2016,Spring,"Beckman, A M",76,71,25,20,24,6,5,13,4,0,1,0,4
+421,Progrmg Languages & Compilers,2017,Fall,"Gunter, Elsa",12,97,7,5,13,7,4,4,2,2,2,2,0
+421,Progrmg Languages & Compilers,2017,Fall,"Misailovic, Sasa",7,45,3,8,10,2,3,5,2,0,1,3,1
+421,Progrmg Languages & Compilers,2017,Spring,"Beckman, A M",27,136,37,18,20,8,9,9,3,0,12,0,7
+421,Progrmg Languages & Compilers,2018,Fall,"Misailovic, Sasa",7,56,6,1,3,1,5,1,1,1,2,1,1
+421,Progrmg Languages & Compilers,2018,Fall,"Parthasarathy, Madhusudan",5,69,4,4,3,5,5,3,2,1,1,3,0
+421,Progrmg Languages & Compilers,2018,Spring,"Beckman, A M",33,125,28,24,28,12,9,7,3,0,8,0,1
+421,Progrmg Languages & Compilers,2019,Spring,"Beckman, A M",55,133,34,23,16,14,12,13,3,0,5,0,2
+422,Programming Language Design,2013,Fall,"Rosu, Grigore",8,9,2,0,0,3,0,0,0,0,0,0,0
+423,Operating Systems Design,2010,Fall,"Campbell, R H",3,7,11,5,6,0,0,0,0,0,0,0,0
+423,Operating Systems Design,2010,Spring,"Abdelzaher, Tarek",11,6,5,3,3,3,2,1,0,0,1,0,1
+423,Operating Systems Design,2011,Fall,"Nahrstedt, Klara",5,7,2,5,18,5,3,3,0,0,0,0,0
+423,Operating Systems Design,2011,Spring,"Gunter, Elsa",4,8,2,9,4,0,3,2,1,0,0,0,0
+423,Operating Systems Design,2012,Fall,"Abdelzaher, Tarek",20,30,10,10,11,4,2,0,0,0,0,0,0
+423,Operating Systems Design,2013,Spring,"Nahrstedt, Klara",9,14,2,4,6,0,0,2,0,0,0,0,0
+423,Operating Systems Design,2014,Spring,"Abdelzaher, Tarek",23,28,10,4,2,1,0,0,0,0,1,0,0
+423,Operating Systems Design,2015,Spring,"Abdelzaher, Tarek",21,50,22,15,8,2,1,0,0,0,1,0,0
+423,Operating Systems Design,2016,Spring,"Abdelzaher, Tarek",16,39,13,11,15,6,1,0,2,0,0,2,0
+423,Operating Systems Design,2017,Spring,"Bates, Adam M",4,13,12,17,28,17,8,12,5,0,5,0,0
+423,Operating Systems Design,2018,Spring,"Bates, Adam M",9,21,7,5,11,10,1,2,1,0,3,0,0
+423,Operating Systems Design,2019,Spring,"Bates, Adam M",5,6,6,2,5,7,5,0,2,0,0,1,3
+424,Real-Time Systems,2012,Fall,"Sha, Lui R",0,13,4,2,2,0,0,0,0,0,0,0,0
+424,Real-Time Systems,2013,Fall,"Abdelzaher, Tarek",2,7,9,10,4,2,1,2,0,0,0,0,0
+424,Real-Time Systems,2014,Fall,"Abdelzaher, Tarek",7,6,11,7,10,4,2,0,0,0,0,0,0
+424,Real-Time Systems,2016,Fall,"Abdelzaher, Tarek",4,13,10,6,3,3,1,0,0,0,1,0,0
+424,Real-Time Systems,2017,Fall,"Abdelzaher, Tarek",2,14,8,6,6,0,2,3,1,0,1,0,0
+424,Real-Time Systems,2018,Fall,"Sha, Lui R",6,18,0,2,1,0,1,1,0,0,0,0,0
+425,Distributed Systems,2010,Fall,"Gupta, Indranil",2,2,13,8,3,11,0,1,0,0,0,0,0
+425,Distributed Systems,2010,Spring,"Nagaraja, Shishir",2,2,2,4,3,5,5,4,5,0,0,0,2
+425,Distributed Systems,2011,Fall,"Borisov, Nikita",6,4,5,3,3,5,1,3,4,2,1,4,2
+425,Distributed Systems,2011,Spring,"Vaidya, Nitin H",2,16,5,2,11,3,3,1,0,0,0,0,0
+425,Distributed Systems,2012,Fall,"Gupta, Indranil",7,18,22,18,8,3,0,0,0,0,0,0,0
+425,Distributed Systems,2012,Spring,"Montanari, Mirko",3,5,8,1,2,3,2,0,0,0,0,0,0
+425,Distributed Systems,2013,Fall,"Gupta, Indranil",11,22,44,18,5,1,0,0,0,0,0,0,0
+425,Distributed Systems,2013,Spring,"Borisov, Nikita",7,9,17,6,9,4,2,2,2,1,1,0,4
+425,Distributed Systems,2014,Fall,"Gupta, Indranil",11,28,41,26,27,30,4,0,0,0,0,0,1
+425,Distributed Systems,2014,Spring,"Vaidya, Nitin H",5,17,17,18,17,2,7,4,0,0,2,0,1
+425,Distributed Systems,2015,Fall,"Gupta, Indranil",20,24,58,61,27,3,2,0,0,0,0,0,1
+425,Distributed Systems,2015,Spring,"Vaidya, Nitin H",2,26,8,19,22,22,14,11,5,3,0,0,0
+425,Distributed Systems,2016,Fall,"Gupta, Indranil",17,21,51,45,43,25,2,0,0,0,0,0,2
+425,Distributed Systems,2016,Spring,"Vaidya, Nitin H",6,35,18,16,47,13,5,14,3,5,0,1,2
+425,Distributed Systems,2017,Fall,"Gupta, Indranil",20,32,58,52,46,26,3,5,1,0,0,0,9
+425,Distributed Systems,2017,Spring,"Borisov, Nikita",11,25,24,20,20,21,17,10,4,6,4,1,5
+425,Distributed Systems,2018,Fall,"Gupta, Indranil",21,31,107,75,31,7,0,2,1,0,2,0,8
+425,Distributed Systems,2018,Spring,"Vaidya, Nitin H",5,38,40,49,31,26,19,9,1,0,1,1,1
+425,Distributed Systems,2019,Spring,"Borisov, Nikita",15,33,23,25,26,17,13,6,2,2,2,0,4
+426,Compiler Construction,2012,Fall,"Adve, Vikram S",3,5,2,0,4,4,0,3,0,0,0,0,1
+426,Compiler Construction,2013,Fall,"Adve, Vikram S",3,6,6,3,4,0,0,0,0,0,1,0,2
+426,Compiler Construction,2015,Fall,"Adve, Vikram S",2,7,5,3,2,1,0,4,0,0,0,0,0
+426,Compiler Construction,2016,Fall,"Adve, Vikram S",0,11,4,7,3,5,2,0,0,0,0,0,0
+427,Software Engineering I,2010,Fall,"Johnson, Ralph E",15,27,28,12,7,6,2,1,0,0,2,0,0
+427,Software Engineering I,2011,Fall,"Dig, Daniel",4,45,26,37,15,7,3,3,2,0,0,0,2
+427,Software Engineering I,2013,Fall,"Marinov, Darko",22,35,36,43,32,8,3,4,2,2,0,0,1
+427,Software Engineering I,2014,Fall,"Xie, Tao",6,39,48,41,26,5,2,0,1,3,0,0,1
+427,Software Engineering I,2015,Fall,"Marinov, Darko",13,46,32,30,17,15,12,5,0,0,0,0,1
+427,Software Engineering I,2016,Fall,"Rosu, Grigore",9,16,21,16,25,15,17,5,2,1,0,0,1
+427,Software Engineering I,2017,Fall,"Rosu, Grigore",15,37,15,21,18,7,6,2,1,1,2,0,1
+427,Software Engineering I,2018,Fall,"Xie, Tao",85,43,10,4,1,0,0,1,0,0,0,0,2
+428,Software Engineering II,2010,Spring,"Marinov, Darko",5,17,12,5,5,4,1,0,0,0,0,0,1
+428,Software Engineering II,2011,Spring,"Johnson, Ralph E",2,8,7,5,1,1,0,0,0,0,0,0,0
+428,Software Engineering II,2013,Spring,"Dig, Daniel",0,4,10,1,7,6,0,0,0,0,0,0,0
+428,Software Engineering II,2014,Spring,"Marinov, Darko",0,3,6,2,8,6,2,0,1,0,0,0,0
+428,Software Engineering II,2015,Spring,"Xie, Tao",6,10,8,6,5,2,0,0,0,0,0,0,0
+428,Software Engineering II,2016,Spring,"Xie, Tao",9,11,4,4,3,1,0,0,0,0,0,0,0
+429,"Software Engineering II, ACP",2010,Spring,"Marinov, Darko",5,17,15,3,13,6,2,2,0,0,0,0,0
+429,"Software Engineering II, ACP",2011,Spring,"Johnson, Ralph E",4,20,16,15,10,6,1,0,0,0,0,0,0
+429,"Software Engineering II, ACP",2013,Spring,"Dig, Daniel",8,15,27,10,23,17,0,5,2,0,0,0,1
+429,"Software Engineering II, ACP",2014,Spring,"Marinov, Darko",13,25,32,20,17,17,3,5,0,0,0,0,0
+429,"Software Engineering II, ACP",2015,Spring,"Xie, Tao",16,18,12,20,25,6,4,2,0,0,1,0,0
+429,"Software Engineering II, ACP",2016,Spring,"Xie, Tao",10,8,20,18,7,1,1,1,0,0,0,0,0
+429,"Software Engineering II, ACP",2017,Spring,"Xie, Tao",2,9,10,5,7,4,3,0,0,0,0,0,0
+429,"Software Engineering II, ACP",2018,Spring,"Marinov, Darko",3,7,11,10,3,4,0,0,0,0,0,0,0
+429,"Software Engineering II, ACP",2019,Spring,"Marinov, Darko",3,8,8,2,0,1,0,0,0,0,0,0,0
+431,Embedded Systems,2010,Fall,"Sha, Lui R",4,7,4,15,7,3,0,1,0,0,0,0,1
+431,Embedded Systems,2010,Spring,"Caccamo, Marco",4,3,4,6,7,7,0,10,0,0,2,0,3
+431,Embedded Systems,2011,Fall,"Caccamo, Marco",3,9,0,6,13,0,0,10,0,0,2,0,0
+431,Embedded Systems,2011,Spring,"Caccamo, Marco",3,3,4,8,4,6,0,11,0,0,2,0,1
+431,Embedded Systems,2012,Fall,"Caccamo, Marco",6,1,2,7,5,5,0,12,0,0,5,0,0
+431,Embedded Systems,2013,Fall,"Caccamo, Marco",3,5,4,5,10,1,0,19,0,0,5,0,2
+431,Embedded Systems,2013,Spring,"Sha, Lui R",8,13,3,10,13,8,2,0,0,0,0,0,0
+431,Embedded Systems,2014,Fall,"Sha, Lui R",8,13,6,7,4,5,6,4,1,0,2,0,1
+431,Embedded Systems,2014,Spring,"Sha, Lui R",10,19,12,8,4,4,0,1,0,0,0,0,0
+431,Embedded Systems,2015,Fall,"Sha, Lui R",8,20,0,12,19,7,0,9,0,3,2,0,1
+431,Embedded Systems,2015,Spring,"Caccamo, Marco",1,5,6,8,8,11,0,12,0,0,6,0,1
+431,Embedded Systems,2016,Fall,"Caccamo, Marco",3,9,2,11,16,7,8,7,3,0,5,0,3
+431,Embedded Systems,2016,Spring,"Sha, Lui R",3,2,0,10,16,3,4,3,3,0,0,0,0
+431,Embedded Systems,2017,Fall,"Caccamo, Marco",2,6,1,5,11,5,3,3,2,0,3,0,2
+431,Embedded Systems,2017,Spring,"Sha, Lui R",5,7,18,16,5,1,0,1,0,0,0,0,0
+431,Embedded Systems,2018,Spring,"Sha, Lui R",7,10,7,8,3,0,0,4,0,0,0,0,0
+431,Embedded Systems,2019,Spring,"Sha, Lui R",3,8,12,6,5,0,0,2,0,0,0,0,0
+433,Computer System Organization,2010,Fall,"Adve, Sarita V",1,14,4,5,2,0,0,1,1,0,0,1,0
+433,Computer System Organization,2010,Spring,"Adve, Sarita V",1,10,16,12,14,7,5,0,1,0,0,0,0
+433,Computer System Organization,2011,Fall,"Adve, Sarita V",3,7,4,2,4,2,1,1,0,0,1,0,1
+433,Computer System Organization,2011,Spring,"Adve, Sarita V",0,7,14,18,13,1,1,2,1,2,1,0,0
+433,Computer System Organization,2012,Fall,"Adve, Sarita V",5,6,7,8,5,2,0,2,1,0,0,0,0
+433,Computer System Organization,2013,Fall,"Torrellas, Josep",3,7,0,1,6,2,0,2,0,0,0,0,1
+433,Computer System Organization,2013,Spring,"Adve, Sarita V",3,14,7,6,6,4,0,1,0,0,0,0,1
+433,Computer System Organization,2014,Fall,"Torrellas, Josep",4,6,2,3,8,0,1,2,0,0,1,0,0
+433,Computer System Organization,2014,Spring,"Adve, Sarita V",2,8,3,3,15,2,3,1,0,0,0,0,2
+433,Computer System Organization,2015,Fall,"Torrellas, Josep",5,9,1,0,7,0,0,2,1,0,0,0,1
+433,Computer System Organization,2015,Spring,"Garzaran, Maria J",4,6,0,1,3,0,2,4,0,0,0,0,1
+433,Computer System Organization,2016,Fall,"Adve, Sarita V",5,9,3,2,3,5,0,0,0,0,1,0,0
+433,Computer System Organization,2016,Spring,"Adve, Sarita V",0,6,5,4,5,2,0,1,1,0,0,0,0
+433,Computer System Organization,2017,Fall,"Torrellas, Josep",4,6,0,4,4,3,0,2,1,0,0,0,0
+433,Computer System Organization,2017,Spring,"Adve, Sarita V",5,6,4,5,4,1,1,0,0,0,0,0,0
+433,Computer System Organization,2018,Fall,"Adve, Sarita V",2,10,8,7,2,2,0,0,0,0,1,0,0
+433,Computer System Organization,2018,Spring,"Fletcher, Christopher W",3,5,5,3,4,1,0,2,1,0,0,0,0
+433,Computer System Organization,2019,Spring,"Fletcher, Christopher W",2,4,7,3,2,3,1,1,0,0,1,0,0
+438,Communication Networks,2010,Fall,"Lumetta, Steven S",1,10,12,5,8,8,6,2,0,0,0,0,0
+438,Communication Networks,2010,Spring,"Caesar, Matthew C",5,2,5,2,5,2,2,4,3,0,2,1,4
+438,Communication Networks,2011,Spring,"Godfrey, Philip B",2,4,4,6,3,3,0,4,1,1,2,2,3
+438,Communication Networks,2012,Fall,"Vaidya, Nitin H",3,14,9,7,5,10,4,7,0,1,0,1,2
+438,Communication Networks,2013,Fall,"Vaidya, Nitin H",2,22,7,2,28,4,4,11,2,1,0,1,0
+438,Communication Networks,2013,Spring,"Kravets, Robin H",4,13,9,3,13,4,1,7,1,1,5,0,8
+438,Communication Networks,2014,Fall,"Roy Choudhury, Romit",8,20,23,11,7,4,3,0,0,0,0,0,0
+438,Communication Networks,2014,Spring,"Caesar, Matthew C",6,13,1,5,12,1,2,16,1,0,5,1,7
+438,Communication Networks,2015,Fall,"Roy Choudhury, Romit",9,27,21,15,13,0,0,1,1,0,0,0,0
+438,Communication Networks,2015,Spring,"Kravets, Robin H",2,27,5,3,13,4,4,7,4,3,2,5,15
+438,Communication Networks,2016,Fall,"Borisov, Nikita",2,11,9,8,7,12,9,8,4,2,1,0,8
+438,Communication Networks,2016,Spring,"Kravets, Robin H",3,30,3,5,8,6,2,3,1,2,4,4,12
+438,Communication Networks,2017,Fall,"Al-Hassanieh, Haitham",7,20,12,9,23,3,5,2,0,0,0,0,0
+438,Communication Networks,2017,Spring,"Kravets, Robin H",2,28,2,4,12,7,3,6,4,1,2,3,9
+438,Communication Networks,2018,Fall,"Roy Choudhury, Romit",7,17,35,24,13,11,3,1,0,0,0,0,0
+438,Communication Networks,2018,Spring,"Kravets, Robin H",0,18,4,2,7,3,2,9,1,1,2,3,12
+438,Communication Networks,2019,Spring,"Kravets, Robin H",1,21,8,1,8,1,3,5,5,0,3,1,6
+440,Artificial Intelligence,2010,Fall,"Dejong, Gerald F",11,13,2,1,15,4,1,7,0,0,9,0,2
+440,Artificial Intelligence,2010,Spring,"Amir, Eyal",6,9,11,3,11,8,0,3,4,0,2,0,3
+440,Artificial Intelligence,2011,Fall,"DeJong, Gerald F",7,14,4,6,14,3,2,10,0,0,3,1,1
+440,Artificial Intelligence,2011,Spring,"Hockenmaier, Julia C",2,11,12,16,13,12,10,7,1,4,3,0,1
+440,Artificial Intelligence,2012,Fall,"Lazebnik, Svetlana",17,29,13,4,17,5,1,10,3,5,5,1,0
+440,Artificial Intelligence,2013,Fall,"Lazebnik, Svetlana",21,57,5,9,25,6,0,20,0,1,5,4,2
+440,Artificial Intelligence,2013,Spring,"DeJong, Gerald F",3,19,7,4,17,7,7,7,8,1,6,2,0
+440,Artificial Intelligence,2014,Fall,"DeJong, Gerald F",0,53,0,0,48,0,0,16,0,0,2,0,0
+440,Artificial Intelligence,2014,Spring,"DeJong, Gerald F",9,19,10,8,35,8,11,19,6,0,2,1,0
+440,Artificial Intelligence,2015,Fall,"Lazebnik, Svetlana",30,52,7,5,44,5,2,19,1,3,5,1,4
+440,Artificial Intelligence,2015,Spring,"Lazebnik, Svetlana",18,59,7,7,41,0,0,19,2,0,5,1,9
+440,Artificial Intelligence,2016,Fall,"Hasegawa-Johnso, Mark A",8,21,0,2,24,1,4,9,0,2,2,1,4
+440,Artificial Intelligence,2016,Fall,"Lazebnik, Svetlana",27,52,8,6,55,3,3,22,1,1,4,2,1
+440,Artificial Intelligence,2016,Spring,"DeJong, Gerald F",11,32,5,0,56,14,0,13,0,0,6,0,3
+440,Artificial Intelligence,2017,Fall,"Hasegawa-Johnso, Mark A",31,66,13,12,76,15,8,19,3,1,15,2,1
+440,Artificial Intelligence,2017,Fall,"Lazebnik, Svetlana",43,56,6,4,46,1,3,15,0,0,6,1,4
+440,Artificial Intelligence,2017,Spring,"DeJong, Gerald F",3,52,3,0,54,2,0,49,0,0,3,0,1
+440,Artificial Intelligence,2018,Fall,"Fleck, Margaret M",40,53,55,42,29,29,10,7,2,1,2,3,4
+440,Artificial Intelligence,2018,Spring,"Hasegawa-Johnso, Mark A",57,107,8,14,68,22,8,11,2,3,8,1,1
+440,Artificial Intelligence,2019,Spring,"Hasegawa-Johnso, Mark A",5,90,24,25,63,8,6,8,2,0,0,0,0
+440,Artificial Intelligence,2019,Spring,"Hockenmaier, Julia C",0,30,5,14,24,2,1,5,1,0,0,1,1
+445,Computational Photography,2015,Fall,"Hoiem, Derek W",9,22,12,9,12,4,3,1,0,1,0,0,2
+445,Computational Photography,2017,Fall,"Hoiem, Derek W",12,53,9,3,3,4,4,3,0,0,1,0,0
+446,Machine Learning,2010,Fall,"Roth, Dan",7,11,7,3,3,3,3,0,0,0,0,0,2
+446,Machine Learning,2011,Fall,"Roth, Dan",8,13,6,6,1,1,0,0,0,0,0,0,1
+446,Machine Learning,2012,Fall,"Roth, Dan",5,28,10,17,11,2,1,0,0,0,0,0,3
+446,Machine Learning,2013,Fall,"Hockenmaier, Julia C",7,26,23,21,12,14,3,4,2,2,3,0,1
+446,Machine Learning,2015,Fall,"Roth, Dan",9,29,43,45,15,2,0,0,0,0,2,0,4
+446,Machine Learning,2015,Spring,"Hockenmaier, Julia C",7,29,9,19,12,16,6,6,0,2,0,1,2
+446,Machine Learning,2016,Fall,"Roth, Dan",9,41,25,63,13,11,0,5,0,0,2,0,4
+446,Machine Learning,2017,Fall,"Koyejo, Oluwasanmi O",9,30,24,16,19,1,4,1,3,2,0,2,6
+446,Machine Learning,2017,Spring,"Roth, Dan",14,22,30,31,34,7,0,2,0,0,2,0,4
+446,Machine Learning,2018,Fall,"Koyejo, Oluwasanmi O",19,24,23,24,13,10,6,2,4,1,0,1,5
+446,Machine Learning,2018,Spring,"Telgarsky, Matus J",13,67,76,46,41,23,2,0,0,0,3,0,0
+446,Machine Learning,2019,Spring,"Schwing, Alexander G",10,44,23,21,27,13,0,1,0,0,1,0,2
+446,Machine Learning,2019,Spring,"Telgarsky, Matus J",4,15,14,13,5,6,0,1,0,0,0,0,1
+447,Natural Language Processing,2014,Fall,"Hockenmaier, Julia C",9,5,6,4,4,1,3,2,1,0,0,0,0
+447,Natural Language Processing,2015,Fall,"Hockenmaier, Julia C",15,18,10,10,6,7,2,1,2,0,0,0,0
+447,Natural Language Processing,2017,Fall,"Hockenmaier, Julia C",18,30,15,7,4,6,1,1,0,0,0,0,1
+447,Natural Language Processing,2018,Fall,"Hockenmaier, Julia C",11,18,13,14,11,0,2,2,0,0,3,0,1
+450,Numerical Analysis,2010,Fall,"Heath, Michael T",7,15,8,15,12,10,5,0,0,0,2,0,0
+450,Numerical Analysis,2010,Spring,"Bond, Stephen",2,14,1,3,3,5,1,1,3,0,1,2,3
+450,Numerical Analysis,2011,Fall,"Hirani, Anil N",2,22,10,8,6,4,4,1,5,0,0,2,1
+450,Numerical Analysis,2011,Spring,"Olson, Luke",1,6,11,6,5,2,1,4,2,0,0,2,0
+450,Numerical Analysis,2012,Fall,"Heath, Michael T",11,20,18,15,18,9,2,3,0,1,0,0,0
+450,Numerical Analysis,2013,Fall,"Olson, Luke",0,39,13,16,18,5,6,6,10,5,1,5,6
+450,Numerical Analysis,2013,Spring,"Hirani, Anil N",1,16,4,7,11,1,5,20,3,0,4,0,8
+450,Numerical Analysis,2014,Fall,"Heath, Michael T",7,21,22,23,18,14,8,7,3,1,2,0,2
+450,Numerical Analysis,2014,Spring,"Kloeckner, Andreas P",0,33,11,5,12,7,5,1,2,1,1,1,2
+450,Numerical Analysis,2015,Fall,"Fischer, Paul",9,30,18,11,22,6,6,2,2,0,1,0,0
+450,Numerical Analysis,2015,Spring,"Fischer, Paul",7,16,19,20,29,14,7,6,6,0,2,0,1
+450,Numerical Analysis,2016,Fall,"Heath, Michael T",4,17,24,15,26,20,16,14,12,1,1,3,2
+450,Numerical Analysis,2016,Spring,"Kloeckner, Andreas P",7,54,10,13,23,5,5,7,1,2,2,0,2
+450,Numerical Analysis,2017,Fall,"Fischer, Paul",2,29,23,24,14,14,10,3,3,1,0,1,1
+450,Numerical Analysis,2017,Spring,"Fischer, Paul",3,10,26,28,22,17,14,7,3,0,4,1,1
+450,Numerical Analysis,2018,Fall,"Solomonik, Edgar V",20,35,13,8,6,3,2,5,2,0,0,0,3
+450,Numerical Analysis,2018,Spring,"Solomonik, Edgar V",7,23,14,14,9,11,9,7,4,4,5,2,8
+450,Numerical Analysis,2019,Spring,"Kloeckner, Andreas P",10,45,14,11,15,7,7,10,4,4,2,2,0
+457,Numerical Methods II,2011,Spring,"Gropp, William D",1,8,0,0,2,0,3,2,6,0,0,0,2
+460,Security Laboratory,2010,Spring,"Hinrichs, Susan",0,13,16,1,1,1,0,0,0,1,0,0,0
+460,Security Laboratory,2011,Spring,"Hinrichs, Susan",0,24,7,3,1,0,0,3,1,0,1,0,1
+460,Security Laboratory,2014,Spring,"Bambenek, John C",1,40,5,9,1,2,0,4,0,0,0,0,3
+460,Security Laboratory,2015,Spring,"Bambenek, John C",0,99,4,6,5,0,1,2,1,0,0,0,1
+460,Security Laboratory,2016,Spring,"Bambenek, John C",3,45,3,4,3,1,6,5,1,0,1,2,3
+460,Security Laboratory,2017,Spring,"Bambenek, John C",5,72,3,0,10,0,0,0,1,1,1,0,3
+460,Security Laboratory,2018,Spring,"Bambenek, John C",5,85,0,3,6,0,0,2,0,1,0,0,3
+460,Security Laboratory,2019,Spring,"Bambenek, John C",22,62,1,0,6,0,0,0,0,0,0,1,3
+461,Computer Security I,2010,Fall,"Hinrichs, Susan",3,30,0,4,32,0,4,13,0,0,0,0,0
+461,Computer Security I,2010,Spring,"Nicol, David M",0,11,13,9,8,10,11,9,0,0,1,0,0
+461,Computer Security I,2011,Fall,"Hinrichs, Susan",1,22,7,10,49,0,4,22,0,0,3,0,0
+461,Computer Security I,2012,Fall,"Hinrichs, Susan",2,35,1,9,59,0,6,35,0,0,1,0,1
+461,Computer Security I,2013,Fall,"Bobba, Rakesh",9,10,18,12,11,16,10,6,2,1,0,0,0
+461,Computer Security I,2013,Spring,"Nicol, David M",4,5,16,10,23,5,10,5,2,0,2,0,0
+461,Computer Security I,2014,Fall,"Cunningham, Ryan M",10,101,24,8,17,7,6,3,0,0,6,0,2
+461,Computer Security I,2014,Spring,"Bobba, Rakesh",8,10,8,9,22,11,7,6,9,0,1,0,1
+461,Computer Security I,2015,Fall,"Bailey, Michael D",4,31,10,17,41,7,5,12,8,0,11,0,4
+461,Computer Security I,2015,Spring,"Bailey, Michael D",16,24,9,11,22,5,11,13,2,0,10,0,2
+461,Computer Security I,2016,Spring,"Bailey, Michael D",6,28,8,6,43,14,7,20,4,2,2,2,5
+461,Computer Security I,2017,Fall,"Cunningham, Ryan M",23,39,43,44,34,14,12,0,0,0,2,0,3
+461,Computer Security I,2018,Fall,"Bailey, Michael D",2,2,1,2,10,2,2,3,1,0,0,0,0
+461,Computer Security I,2018,Fall,"Cunningham, Ryan M",11,44,26,18,22,10,8,2,2,0,0,0,2
+461,Computer Security I,2018,Spring,"Bailey, Michael D",5,15,8,15,19,15,6,17,5,0,4,0,2
+461,Computer Security I,2019,Spring,"Bailey, Michael D",5,19,8,7,25,11,4,8,8,2,4,3,1
+463,Computer Security II,2013,Spring,"Gunter, Carl",0,15,0,0,8,0,0,6,0,0,3,0,1
+463,Computer Security II,2014,Spring,"Gunter, Carl",0,18,0,0,16,0,0,3,0,0,0,0,0
+463,Computer Security II,2015,Spring,"Gunter, Carl",0,36,0,0,16,0,0,8,0,0,0,0,0
+463,Computer Security II,2016,Spring,"Gunter, Carl",0,14,0,0,19,0,0,3,0,0,0,0,0
+463,Computer Security II,2017,Spring,"Gunter, Carl",0,13,0,0,24,0,0,10,0,0,0,0,0
+463,Computer Security II,2018,Spring,"Gunter, Carl",0,14,0,0,15,0,0,6,0,0,1,0,0
+463,Computer Security II,2019,Spring,"Gunter, Carl",0,18,0,0,2,0,0,2,0,0,0,0,0
+465,User Interface Design,2010,Fall,"Bailey, Brian P",0,12,5,6,15,5,0,3,1,0,0,0,0
+465,User Interface Design,2011,Fall,"Bailey, Brian P",2,8,2,6,11,9,3,1,1,0,0,0,1
+465,User Interface Design,2012,Fall,"Bailey, Brian P",1,10,6,1,12,4,6,8,0,0,1,0,0
+465,User Interface Design,2013,Fall,"Fu, Wai-Tat",0,22,29,14,17,6,0,1,0,0,1,0,0
+465,User Interface Design,2013,Spring,"Fu, Wai-Tat",5,13,13,13,19,6,3,4,0,0,4,0,1
+465,User Interface Design,2014,Fall,"Bailey, Brian P",1,26,13,24,62,17,11,20,3,0,0,0,1
+465,User Interface Design,2015,Fall,"Fu, Wai-Tat",6,24,28,19,56,20,10,16,4,0,2,0,1
+465,User Interface Design,2015,Spring,"Fu, Wai-Tat",2,13,24,21,35,22,13,12,5,0,2,0,1
+465,User Interface Design,2016,Fall,"Bailey, Brian P",3,15,19,24,72,7,14,10,3,0,1,0,0
+465,User Interface Design,2016,Spring,"Kirlik, Alex",3,41,49,35,30,8,5,0,1,1,0,0,2
+465,User Interface Design,2017,Fall,"Bailey, Brian P",1,24,21,9,76,21,7,4,5,2,1,0,1
+465,User Interface Design,2017,Spring,"Fu, Wai-Tat",1,29,59,31,33,18,4,3,1,0,1,0,0
+465,User Interface Design,2018,Fall,"Bailey, Brian P",3,40,32,9,27,7,1,7,0,1,2,0,1
+465,User Interface Design,2018,Spring,"Fu, Wai-Tat",15,40,24,21,25,12,5,6,3,0,3,0,2
+465,User Interface Design,2019,Spring,"Kirlik, Alex",3,27,19,6,19,1,5,3,0,0,0,0,0
+466,Introduction to Bioinformatics,2011,Spring,"Sinha, Saurabh",1,9,2,6,4,2,0,0,0,0,0,0,0
+466,Introduction to Bioinformatics,2013,Spring,"Sinha, Saurabh",3,9,3,3,8,3,2,2,1,0,1,0,1
+466,Introduction to Bioinformatics,2014,Spring,"Sinha, Saurabh",3,13,9,5,5,6,0,0,0,0,0,0,1
+466,Introduction to Bioinformatics,2015,Spring,"Sinha, Saurabh",5,13,9,7,10,4,3,3,0,0,0,0,1
+466,Introduction to Bioinformatics,2016,Fall,"Sinha, Saurabh",9,18,14,9,15,4,3,5,1,0,0,0,0
+466,Introduction to Bioinformatics,2016,Spring,"Peng, Jian",2,19,2,10,6,0,0,0,0,0,0,0,0
+466,Introduction to Bioinformatics,2017,Spring,"Warnow, Tandy",2,6,4,2,1,1,0,1,2,0,1,0,1
+466,Introduction to Bioinformatics,2018,Fall,"El-Kebir, Mohammed",7,14,7,3,4,1,0,0,0,0,0,0,0
+466,Introduction to Bioinformatics,2018,Spring,"Peng, Jian",4,33,8,9,3,0,0,0,0,0,0,0,0
+466,Introduction to Bioinformatics,2019,Spring,"Peng, Jian",10,36,8,7,2,0,0,0,0,0,0,0,0
+467,Social Visualization,2013,Spring,"Karahalios, Kyratso G",13,27,15,4,0,0,0,0,0,0,0,0,2
+467,Social Visualization,2014,Fall,"Karahalios, Kyratso G",3,34,14,8,6,0,1,0,1,0,0,0,0
+467,Social Visualization,2014,Spring,"Karahalios, Kyratso G",11,26,31,10,8,1,0,3,0,0,0,0,1
+467,Social Visualization,2016,Spring,"Karahalios, Kyratso G",2,42,16,8,8,3,0,1,0,0,0,0,0
+467,Social Visualization,2019,Spring,"Karahalios, Kyratso G",10,31,4,4,1,0,0,0,0,0,0,0,0
+473,Algorithms,2010,Spring,"Erickson, Jeff G",5,8,11,12,11,10,10,16,9,4,4,7,3
+473,Algorithms,2018,Fall,"Har-Peled, Sariel",2,8,9,3,1,6,3,2,3,0,2,0,0
+473,Algorithms,2018,Spring,"Mehta, Ruta",1,8,12,4,3,4,2,4,2,0,0,0,1
+473,Fundamental Algorithms,2010,Fall,"Chekuri, Chandra S",4,10,12,15,12,20,12,6,4,0,2,3,0
+473,Fundamental Algorithms,2011,Fall,"Har-Peled, Sariel",0,9,18,17,12,14,15,14,11,5,5,6,1
+473,Fundamental Algorithms,2011,Spring,"Har-Peled, Sariel",1,9,7,13,9,13,13,15,9,6,4,1,3
+473,Fundamental Algorithms,2012,Fall,"Erickson, Jeff G",5,19,12,21,15,17,12,21,10,15,6,9,4
+473,Fundamental Algorithms,2013,Fall,"Erickson, Jeff G",6,24,17,23,20,16,20,23,14,10,8,3,4
+473,Fundamental Algorithms,2013,Spring,"Har-Peled, Sariel",1,5,5,4,10,7,8,8,7,0,2,1,2
+473,Fundamental Algorithms,2013,Spring,"Kolla, Alexandra",2,3,3,6,5,7,9,11,6,3,1,0,0
+473,Fundamental Algorithms,2014,Fall,"Kolla, Alexandra",5,6,24,23,37,34,27,17,6,1,1,0,2
+473,Fundamental Algorithms,2014,Spring,"Chekuri, Chandra S",7,25,20,25,19,16,16,21,7,4,1,3,6
+473,Fundamental Algorithms,2015,Spring,"Har-Peled, Sariel",0,3,6,4,10,14,10,9,6,5,4,1,0
+477,Formal Software Devel Methods,2018,Spring,"Gunter, Elsa",10,9,0,2,1,3,2,2,1,0,1,1,0
+477,Formal Software Devel Methods,2019,Spring,"Parthasarathy, Madhusudan",6,5,6,3,1,0,0,0,0,0,0,1,1
+484,Parallel Programming,2014,Spring,"Padua, David A",0,4,1,0,7,0,0,7,0,0,3,0,0
+484,Parallel Programming,2015,Spring,"Kale, Laxmikant V",2,8,2,2,9,3,1,3,2,1,1,0,0
+484,Parallel Programming,2016,Spring,"Kale, Laxmikant V",5,4,6,1,4,3,3,2,1,1,0,0,0
+484,Parallel Programming,2017,Fall,"Kale, Laxmikant V",2,11,2,4,8,2,0,5,1,0,1,0,0
+484,Parallel Programming,2017,Spring,"Kale, Laxmikant V",4,14,5,4,10,3,1,4,2,0,1,0,0
+484,Parallel Programming,2018,Fall,"Kale, Laxmikant V",7,9,5,1,9,5,2,1,2,1,1,0,0
+484,Parallel Programming,2019,Spring,"Kale, Laxmikant V",5,12,1,6,12,2,3,0,0,0,1,2,0
+492,Senior Project I,2010,Fall,"Woodley, Michael J",0,16,0,4,25,0,0,0,0,0,0,0,1
+492,Senior Project I,2011,Fall,"Woodley, Michael J",0,20,13,5,6,0,5,0,0,0,0,0,0
+492,Senior Project I,2012,Fall,"Woodley, Michael J",0,11,16,4,7,0,0,0,0,0,0,0,0
+492,Senior Project I,2013,Fall,"Woodley, Michael J",0,25,30,4,0,0,5,0,0,0,0,0,0
+492,Senior Project I,2014,Fall,"Woodley, Michael J",24,24,40,6,4,0,0,0,0,0,0,0,0
+492,Senior Project I,2015,Fall,"Woodley, Michael J",0,8,56,25,22,24,2,0,1,1,0,0,0
+492,Senior Project I,2016,Fall,"Woodley, Michael J",1,6,11,15,4,4,2,0,1,0,0,0,0
+492,Senior Project I,2017,Spring,"Woodley, Michael J",1,12,6,6,3,0,0,0,0,0,0,0,0
+492,Senior Project I,2018,Spring,"Woodley, Michael J",6,7,4,0,3,1,0,0,0,0,0,0,0
+493,"Senior Project II, ACP",2010,Spring,"Woodley, Michael J",5,25,2,3,0,0,0,0,0,0,0,0,0
+493,"Senior Project II, ACP",2011,Spring,"Woodley, Michael J",1,17,11,0,11,0,0,0,0,0,0,0,0
+493,"Senior Project II, ACP",2013,Spring,"Woodley, Michael J",0,17,5,5,1,0,0,0,0,0,0,0,1
+493,"Senior Project II, ACP",2014,Spring,"Woodley, Michael J",18,14,18,9,0,0,0,0,0,0,0,0,0
+493,"Senior Project II, ACP",2015,Spring,"Woodley, Michael J",4,21,25,13,7,4,0,0,0,0,0,0,0
+493,"Senior Project II, ACP",2016,Spring,"Woodley, Michael J",21,38,17,12,5,4,2,0,0,0,0,0,4
+493,"Senior Project II, ACP",2017,Spring,"Woodley, Michael J",0,9,9,3,4,2,1,2,1,1,1,0,0
+494,Senior Project II,2015,Spring,"Woodley, Michael J",2,6,6,4,2,0,1,0,0,0,0,0,0
+494,Senior Project II,2016,Spring,"Woodley, Michael J",6,9,5,2,5,0,2,0,0,0,0,0,0
+498,Algorithms and Models of Comp,2014,Fall,"Erickson, Jeff G",1,12,3,8,8,6,8,5,9,7,3,2,2
+498,Algorithms and Models of Comp,2014,Spring,"Pitt, Leonard B",0,3,6,4,4,2,3,4,1,5,3,0,1
+498,Algorithms and Models of Comp,2015,Fall,"Chekuri, Chandra S",13,51,47,35,38,39,39,38,20,12,10,13,3
+498,Algorithms and Models of Comp,2015,Spring,"Pitt, Leonard B",21,33,24,43,39,30,35,27,32,24,20,8,5
+498,Algorithms and Models of Comp,2016,Spring,"Viswanathan, Mahesh",19,37,67,14,39,80,19,35,13,34,10,0,0
+498,Algorithms for Big Data,2019,Spring,"Chekuri, Chandra S",1,27,13,4,0,2,3,0,0,0,0,0,0
+498,Applied Machine Learning,2016,Spring,"Forsyth, David A",6,79,54,16,5,0,0,0,0,0,0,0,3
+498,Applied Machine Learning,2017,Spring,"Forsyth, David A",11,67,66,62,3,0,0,3,0,0,0,0,0
+498,Applied Machine Learning,2018,Fall,"Forsyth, David A",3,73,23,5,7,0,0,3,0,0,0,0,5
+498,Applied Machine Learning,2018,Fall,"Walker, Trevor A",1,53,31,4,4,0,0,0,0,0,0,0,3
+498,Applied Machine Learning,2018,Spring,"Forsyth, David A",0,363,14,21,6,0,0,2,0,0,2,0,6
+498,Applied Machine Learning,2019,Spring,"Walker, Trevor A",6,359,16,7,6,3,1,1,3,1,0,1,7
+498,Art and Science of Web Prog,2015,Spring,"Kumar, Ranjitha",7,18,8,18,13,6,11,2,1,0,1,0,0
+498,Art and Science of Web Prog,2016,Spring,"Kumar, Ranjitha",3,20,16,10,13,11,16,1,1,0,2,0,0
+498,Art and Science of Web Prog,2019,Spring,"Kumar, Ranjitha",7,37,33,41,17,11,10,5,6,4,0,0,3
+498,Art and Science of Web Progrm,2013,Spring,"King, Samuel T",0,22,6,1,3,1,0,0,3,0,0,0,0
+498,Audio Computing Lab,2018,Spring,"Smaragdis, Paris",9,24,4,1,0,3,0,0,0,0,0,0,1
+498,Audio Computing Lab,2019,Spring,"Smaragdis, Paris",19,21,10,6,2,1,0,0,0,0,0,0,0
+498,Cloud Computing,2013,Spring,"Campbell, R H",6,27,9,12,7,12,7,4,2,0,1,0,0
+498,Cloud Computing,2014,Spring,"Campbell, R H",19,30,20,10,10,2,0,0,0,0,0,0,0
+498,Cloud Computing Applications,2017,Spring,"Campbell, R H",18,19,10,3,1,0,0,0,0,0,0,0,0
+498,Cloud Computing Applications,2018,Spring,"Farivar, Reza",24,83,28,4,1,1,1,0,0,0,0,0,0
+498,Cloud Computing Applications,2019,Spring,"Farivar, Reza",103,93,36,17,7,0,0,4,0,0,2,0,4
+498,Cloud Networking,2018,Fall,"Godfrey, Philip B",8,8,3,3,2,0,0,2,0,0,0,0,4
+498,Computational Advertising,2018,Fall,"Sundaram, Hari",7,17,24,7,4,1,0,0,0,0,1,0,0
+498,Computational Photography,2013,Fall,"Hoiem, Derek W",4,7,9,2,2,0,0,0,1,0,0,0,0
+498,Computational Photography,2014,Fall,"Hoiem, Derek W",12,6,3,2,1,3,0,0,0,0,0,1,0
+498,Cyber Dystopia,2018,Fall,"Gunter, Carl",6,22,1,0,1,0,0,1,0,0,0,0,0
+498,Data Science & Analytics,2019,Spring,"Campbell, R H",1,1,4,4,3,6,1,3,0,0,2,0,2
+498,Digital Forensics,2013,Fall,"Campbell, R H",0,21,0,0,1,0,0,0,0,0,0,0,1
+498,Digital Forensics,2014,Fall,"Campbell, R H",3,8,9,2,6,2,1,0,0,0,0,0,0
+498,Digital Forensics,2015,Fall,"Campbell, R H",2,5,12,12,2,1,0,0,0,0,0,0,0
+498,Digital Forensics,2016,Fall,"Campbell, R H",0,12,6,1,8,0,1,0,0,0,0,0,0
+498,Digital Forensics,2017,Fall,"Campbell, R H",0,29,1,1,4,0,0,0,0,0,0,0,1
+498,Digital Forensics,2018,Fall,"Campbell, R H",0,37,0,0,1,0,0,0,0,0,0,0,0
+498,Experimental Methods for HCI,2018,Fall,"Kirlik, Alex",4,6,3,3,8,2,0,1,0,0,1,0,0
+498,Internet of Things,2019,Spring,"Caesar, Matthew C",11,28,3,0,2,0,0,0,0,0,0,0,0
+498,Intro to Data Science,2016,Fall,"Stodden, Victoria",11,9,15,3,0,0,0,0,0,0,0,0,0
+498,Intro to Parallel Programming,2013,Spring,"Padua, David A",0,6,0,4,7,0,2,7,1,0,1,2,0
+498,Introduction to Deep Learning,2018,Fall,"Lazebnik, Svetlana",49,10,2,1,12,0,0,10,2,0,3,1,0
+498,Learning and Computer Science,2018,Spring,"Herman, Geoffrey L",2,7,1,1,6,0,0,2,0,0,1,0,1
+498,Mobile Interaction Design,2016,Spring,"Bailey, Brian P",3,17,11,5,6,1,0,0,1,0,0,0,0
+498,Probability in CS,2015,Fall,"Forsyth, David A",1,26,7,17,17,7,1,1,2,0,1,0,3
+498,Probability in CS,2015,Spring,"Forsyth, David A",2,16,8,8,10,10,1,2,0,0,1,0,6
+498,Probability in CS,2016,Spring,"Smaragdis, Paris",14,15,13,7,1,1,2,2,2,2,0,0,0
+498,Probability in Computer Sci,2012,Fall,"Forsyth, David A",0,4,7,6,2,2,2,1,0,0,0,0,1
+498,Probability in Computer Sci,2013,Fall,"Forsyth, David A",3,9,4,6,6,8,4,1,2,0,2,0,4
+498,Probability in Computer Sci,2014,Fall,"Forsyth, David A",10,11,11,13,11,8,8,0,1,0,0,0,3
+498,Social & Information Networks,2016,Fall,"Sundaram, Hari",5,26,9,3,3,6,3,3,2,0,0,0,0
+498,Socio-Computer Interaction,2013,Fall,"Fu, Wai-Tat",0,8,6,5,7,9,1,0,0,0,1,0,0
+498,Software Testing,2015,Spring,"Marinov, Darko",6,4,3,3,4,5,1,0,0,0,0,0,0
+498,Software Testing,2016,Spring,"Marinov, Darko",9,3,3,4,5,3,0,0,0,0,0,0,0
+498,Special Topics,2011,Fall,"Fu, Wai-Tat",2,10,1,3,8,1,0,1,0,0,1,0,0
+498,Special Topics,2011,Fall,"Hoiem, Derek W",6,8,4,1,2,0,0,1,0,0,0,0,0
+498,Special Topics,2011,Spring,"Garnett, Guy E",2,11,13,5,3,1,0,0,0,0,0,0,0
+498,The Art of Web Programming,2016,Fall,"Kumar, Ranjitha",4,22,11,19,13,9,8,1,6,1,1,0,0
+498,The Art of Web Programming,2017,Fall,"Kumar, Ranjitha",5,37,29,27,28,19,5,7,7,0,1,0,0
+498,Theory II,2015,Fall,"Har-Peled, Sariel",0,5,5,4,4,2,2,3,0,0,0,0,0
+498,Theory II,2015,Spring,"Erickson, Jeff G",4,11,5,8,7,3,3,0,2,0,0,0,0
+498,Theory II,2016,Fall,"Chekuri, Chandra S",2,7,8,7,11,10,2,1,0,1,1,0,1
+498,Theory II,2016,Spring,"Erickson, Jeff G",5,18,15,14,15,11,12,5,3,2,0,1,1
+498,Theory II,2017,Fall,"Chan, Timothy M",5,5,7,6,7,6,4,3,4,0,0,0,0
+498,Theory II,2017,Spring,"Erickson, Jeff G",3,13,18,14,13,10,11,10,4,2,1,0,5
+498,Using Tech to Solve Adv Probs,2014,Spring,"Clifton, Rhiannon L",0,11,5,2,3,0,1,0,0,0,0,0,0
+498,Virtual Reality,2015,Fall,"Yershova, Ganna",5,46,19,16,7,3,0,0,0,0,0,0,0
+498,Virtual Reality,2015,Spring,"Lavalle, Steven M",11,41,28,7,5,1,0,0,1,0,0,0,0
+498,Virtual Reality,2016,Fall,"Yershova, Ganna",0,81,49,31,12,1,1,0,0,0,0,0,0
+498,Virtual Reality,2016,Spring,"Lavalle, Steven M",10,26,22,9,19,6,0,4,0,0,0,0,0
+498,Virtual Reality,2017,Fall,"Yershova, Ganna",28,114,12,2,2,0,0,0,0,0,0,0,0
+498,Virtual Reality,2017,Spring,"Lavalle, Steven M",17,53,30,17,53,8,0,5,0,0,0,0,1
+498,Virtual Reality,2018,Fall,"Shaffer, Eric G",0,49,36,21,38,11,2,8,0,0,2,0,1
+498,Virtual Reality,2018,Spring,"Angrave, Lawrence C",49,31,17,27,18,7,6,1,1,0,0,0,0
+498,Virtual Reality,2019,Spring,"Shaffer, Eric G",1,30,41,27,20,10,6,1,1,0,1,0,0
+510,Advanced Information Retrieval,2017,Fall,"Zhai, Chengxiang",16,40,15,8,8,0,0,0,0,0,0,0,0
+510,Advanced Information Retrieval,2018,Fall,"Zhai, Chengxiang",17,44,11,5,2,3,0,0,0,0,0,0,0
+511,Advanced Data Management,2014,Spring,"Chang, Kevin C",7,13,18,2,3,2,1,0,1,0,0,0,0
+511,Advanced Data Management,2016,Spring,"Chang, Kevin C",4,15,10,3,5,2,1,0,0,0,0,0,0
+511,Advanced Data Management,2017,Spring,"Chang, Kevin C",1,8,17,4,1,2,0,0,0,0,0,0,1
+512,Data Mining Principles,2013,Spring,"Han, Jiawei",10,34,20,6,2,1,3,0,0,0,0,0,1
+512,Data Mining Principles,2014,Spring,"Han, Jiawei",10,34,11,5,5,1,1,3,1,0,0,0,0
+512,Data Mining Principles,2015,Spring,"Han, Jiawei",10,31,19,0,3,1,0,1,0,0,0,0,0
+512,Data Mining Principles,2016,Spring,"Han, Jiawei",10,39,6,5,2,0,0,0,0,0,1,0,0
+512,Data Mining Principles,2017,Spring,"Han, Jiawei",9,32,17,3,1,1,1,0,1,0,0,0,0
+512,Data Mining Principles,2018,Spring,"Han, Jiawei",9,24,16,8,8,5,3,1,1,0,0,0,1
+512,Data Mining Principles,2019,Spring,"Han, Jiawei",12,22,22,4,6,0,0,1,0,0,1,0,0
+519,Scientific Visualization,2015,Fall,"Shaffer, Eric G",2,21,4,2,2,0,0,0,0,0,0,0,0
+519,Scientific Visualization,2015,Spring,"Shaffer, Eric G",0,15,5,3,1,0,0,0,0,0,0,0,1
+519,Scientific Visualization,2016,Fall,"Shaffer, Eric G",0,13,9,7,1,0,0,1,0,0,0,0,1
+519,Scientific Visualization,2017,Fall,"Shaffer, Eric G",7,17,6,4,6,0,0,0,0,0,0,0,0
+523,Advanced Operating Systems,2013,Fall,"Campbell, R H",0,8,17,6,0,0,0,0,0,0,0,0,1
+523,Advanced Operating Systems,2017,Fall,"Campbell, R H",11,10,5,5,1,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2011,Spring,"Gupta, Indranil",3,8,11,5,0,1,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2013,Spring,"Gupta, Indranil",5,7,12,2,0,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2014,Spring,"Gupta, Indranil",11,18,16,6,1,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2015,Spring,"Gupta, Indranil",3,17,40,4,0,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2016,Spring,"Gupta, Indranil",8,13,24,26,1,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2017,Spring,"Gupta, Indranil",7,13,13,14,3,0,0,0,0,0,0,0,0
+525,Advanced Distributed Systems,2018,Spring,"Gupta, Indranil",8,9,33,5,1,0,0,0,0,0,0,0,0
+527,Adv Topics in Software Eng,2010,Fall,"Marinov, Darko",6,9,8,3,0,0,0,0,0,0,0,0,0
+527,Topics in Software Engineering,2013,Fall,"Xie, Tao",15,17,3,2,2,2,0,0,0,0,0,0,0
+527,Topics in Software Engineering,2014,Fall,"Marinov, Darko",6,5,6,11,4,2,0,0,0,0,0,0,0
+527,Topics in Software Engineering,2015,Fall,"Xie, Tao",6,11,8,1,3,1,0,0,0,0,0,0,0
+527,Topics in Software Engineering,2016,Fall,"Marinov, Darko",4,8,3,2,2,1,0,0,0,0,0,0,1
+527,Topics in Software Engineering,2017,Fall,"Marinov, Darko",4,11,5,3,0,0,0,0,0,0,0,0,0
+527,Topics in Software Engineering,2019,Spring,"Xie, Tao",12,5,2,3,0,1,0,0,0,0,0,0,0
+528,Obj-Oriented Progrmg & Design,2013,Spring,"Johnson, Ralph E",0,29,0,0,12,0,0,0,0,0,0,0,0
+533,Parallel Computer Architecture,2010,Spring,"Torrellas, Josep",3,19,0,3,5,0,0,0,0,0,0,0,0
+533,Parallel Computer Architecture,2011,Spring,"Torrellas, Josep",6,12,6,4,5,0,0,2,0,0,0,0,0
+533,Parallel Computer Architecture,2013,Spring,"Torrellas, Josep",6,9,3,0,8,0,0,0,0,0,0,0,0
+533,Parallel Computer Architecture,2014,Spring,"Torrellas, Josep",6,10,0,3,4,0,0,0,0,0,0,0,0
+533,Parallel Computer Architecture,2015,Spring,"Torrellas, Josep",4,6,1,2,6,1,0,1,0,0,0,0,0
+533,Parallel Computer Architecture,2016,Spring,"Torrellas, Josep",3,11,3,4,9,0,0,0,0,0,0,0,0
+533,Parallel Computer Architecture,2019,Spring,"Torrellas, Josep",2,14,0,2,4,0,0,0,0,0,0,0,1
+538,Advanced Computer Networks,2013,Fall,"Godfrey, Philip B",3,36,3,1,0,1,0,0,0,0,0,0,0
+538,Advanced Computer Networks,2016,Spring,"Nahrstedt, Klara",0,15,2,4,0,0,0,0,0,0,0,0,0
+538,Advanced Computer Networks,2017,Spring,"Godfrey, Philip B",2,16,0,2,1,1,1,0,0,0,0,0,0
+538,Advanced Computer Networks,2018,Spring,"Godfrey, Philip B",2,19,0,0,1,1,1,0,0,0,0,0,0
+538,Advanced Computer Networks,2019,Spring,"Godfrey, Philip B",1,26,4,3,1,1,1,0,1,0,0,0,0
+544,Optimiz in Computer Vision,2014,Spring,"Forsyth, David A",0,29,0,2,0,0,0,0,0,0,0,0,0
+546,Machine Learning in NLP,2011,Spring,"Roth, Dan",0,20,0,0,1,0,0,0,0,0,0,0,0
+546,Machine Learning in NLP,2014,Spring,"Hockenmaier, Julia C",0,13,7,2,2,1,1,0,0,0,0,0,0
+546,Machine Learning in NLP,2016,Spring,"Roth, Dan",2,18,5,7,5,2,0,0,0,0,0,0,0
+546,Machine Learning in NLP,2018,Spring,"Hockenmaier, Julia C",0,80,2,1,1,0,0,0,0,0,0,0,0
+548,Models of Cognitive Processes,2016,Fall,"Fu, Wai-Tat",1,18,3,2,2,0,0,0,0,0,0,0,0
+548,Models of Cognitive Processes,2017,Fall,"Fu, Wai-Tat",0,7,2,13,17,2,3,0,0,0,1,0,0
+548,Models of Cognitive Processes,2018,Fall,"Fu, Wai-Tat",0,10,0,0,12,1,0,2,0,0,0,0,0
+554,Parallel Numerical Algorithms,2010,Spring,"Heath, Michael T",4,2,6,7,1,2,0,0,0,0,0,0,0
+554,Parallel Numerical Algorithms,2011,Fall,"Heath, Michael T",4,8,7,2,0,0,0,0,0,0,0,0,0
+554,Parallel Numerical Algorithms,2013,Fall,"Heath, Michael T",3,6,12,5,2,3,0,0,0,0,0,0,0
+554,Parallel Numerical Algorithms,2015,Fall,"Heath, Michael T",3,6,4,8,1,4,0,0,0,0,0,0,0
+554,Parallel Numerical Algorithms,2017,Fall,"Solomonik, Edgar V",1,9,9,3,0,0,0,0,0,0,0,0,0
+555,Numerical Methods for PDEs,2010,Spring,"Hirani, Anil N",2,8,9,6,1,2,0,0,0,0,0,0,0
+555,Numerical Methods for PDEs,2013,Spring,"Olson, Luke",0,21,3,6,1,5,0,1,0,0,0,0,0
+555,Numerical Methods for PDEs,2014,Spring,"Olson, Luke",1,22,4,3,0,0,0,0,1,0,0,0,0
+555,Numerical Methods for PDEs,2015,Spring,"Olson, Luke",0,21,3,0,1,3,0,0,0,0,0,0,1
+555,Numerical Methods for PDEs,2016,Spring,"Olson, Luke",0,21,3,0,2,0,0,0,0,0,0,0,0
+555,Numerical Methods for PDEs,2017,Spring,"Olson, Luke",0,28,2,1,0,0,0,0,0,0,0,0,0
+555,Numerical Methods for PDEs,2018,Spring,"Fischer, Paul",2,16,6,1,0,0,0,0,0,0,0,0,0
+555,Numerical Methods for PDEs,2019,Spring,"Fischer, Paul",8,11,4,0,2,0,0,0,0,0,0,0,0
+556,Iterative & Multigrid Methods,2014,Fall,"Olson, Luke",0,15,5,2,1,2,0,0,1,0,1,0,0
+563,Advanced Computer Security,2016,Fall,"Gunter, Carl",0,24,0,0,1,0,0,1,0,0,0,0,0
+563,Advanced Computer Security,2018,Fall,"Bates, Adam M",1,12,11,3,0,1,0,0,1,0,0,0,0
+565,Human-Computer Interaction,2013,Spring,"Bailey, Brian P",1,7,10,4,7,0,0,3,0,0,0,0,1
+565,Human-Computer Interaction,2014,Spring,"Bailey, Brian P",0,21,3,0,0,0,0,1,0,0,0,0,0
+565,Human-Computer Interaction,2015,Fall,"Bailey, Brian P",3,9,9,3,0,1,0,0,0,0,0,0,0
+565,Human-Computer Interaction,2017,Spring,"Bailey, Brian P",0,20,3,4,2,1,0,0,0,0,0,0,0
+573,Algorithms,2010,Fall,"Erickson, Jeff G",4,15,9,12,8,4,1,0,0,0,0,0,0
+573,Algorithms,2011,Fall,"Chekuri, Chandra S",2,10,10,8,4,3,0,0,0,0,0,0,0
+573,Algorithms,2012,Fall,"Har-Peled, Sariel",0,6,8,8,4,2,0,0,0,0,0,0,0
+573,Algorithms,2013,Fall,"Har-Peled, Sariel",0,8,8,7,5,3,0,0,0,0,0,0,0
+574,Randomized Algorithms,2014,Spring,"Har-Peled, Sariel",0,3,10,3,5,2,0,0,0,0,0,0,0
+579,Computational Complexity,2019,Spring,"Forbes, Michael A",2,11,6,3,1,3,0,0,0,0,0,0,0
+583,Approximation Algorithms,2018,Spring,"Chekuri, Chandra S",0,23,4,0,1,0,0,0,0,0,0,0,0
+598,Adv Social&Information Network,2017,Fall,"Sundaram, Hari",12,7,2,3,0,0,0,0,0,0,0,0,0
+598,Advanced Bayesian Modeling,2017,Fall,"Park, Trevor H",8,20,5,9,5,2,0,1,0,0,0,0,0
+598,Advanced Bayesian Modeling,2018,Fall,"Park, Trevor H",14,30,6,16,9,3,1,1,3,0,0,0,2
+598,Advanced Data Structures,2015,Fall,"Erickson, Jeff G",0,14,9,6,0,0,0,0,0,0,0,0,0
+598,Advanced Information Retrieval,2012,Fall,"Zhai, Chengxiang",8,22,8,0,2,0,0,0,0,0,0,0,0
+598,Advanced Information Retrieval,2013,Fall,"Zhai, Chengxiang",5,37,4,3,0,0,0,0,0,0,0,0,0
+598,Advanced Information Retrieval,2014,Fall,"Zhai, Chengxiang",6,23,3,2,0,0,0,0,0,0,0,0,0
+598,Advanced Information Retrieval,2016,Fall,"Zhai, Chengxiang",6,17,9,4,3,1,0,0,0,0,0,0,0
+598,Adversarial Machine Learning,2018,Fall,"Li, Bo",1,20,7,1,0,0,0,0,0,0,0,0,0
+598,Autonomous Vehicles for AI,2017,Spring,"Forsyth, David A",0,26,0,0,0,0,0,1,0,0,0,0,0
+598,Cutting-Edge Trends In DLR,2017,Spring,"Lazebnik, Svetlana",12,27,11,6,3,0,0,0,0,0,0,0,0
+598,Data-Driven Design,2014,Fall,"Kumar, Ranjitha",2,10,2,6,1,1,0,0,0,0,0,0,0
+598,Data-Driven Design,2015,Fall,"Kumar, Ranjitha",2,8,5,4,2,0,0,0,0,0,0,0,0
+598,Deep Learning,2018,Fall,"Sirignano, Justin A",12,17,7,1,2,0,0,0,0,0,0,0,0
+598,Foundations of Data Curation,2018,Fall,"Renear, Allen H",75,28,5,2,2,0,0,0,0,0,0,0,0
+598,Graphical Models,2016,Fall,"Koyejo, Oluwasanmi O",3,19,1,0,0,0,0,0,0,0,1,0,0
+598,HCI for ML,2018,Fall,"Kumar, Ranjitha",0,24,11,2,1,0,0,0,0,0,0,0,0
+598,Improving Your Research Skills,2015,Spring,"Sha, Lui R",9,12,4,3,0,0,0,0,0,0,0,0,0
+598,Lang/Abst f High-Perf Sci Comp,2018,Fall,"Kloeckner, Andreas P",0,19,1,1,0,0,0,0,0,0,0,0,0
+598,Mach Lrng for Signal Processng,2012,Fall,"Smaragdis, Paris",7,20,4,1,0,0,0,0,0,0,0,0,0
+598,Mach Lrng for Signal Processng,2013,Fall,"Smaragdis, Paris",4,47,3,5,1,0,0,0,0,0,0,0,0
+598,Mach Lrng for Signal Processng,2014,Fall,"Smaragdis, Paris",12,23,16,0,2,5,1,0,0,0,0,0,1
+598,Mach Lrng for Signal Processng,2017,Fall,"Smaragdis, Paris",17,32,19,2,0,1,0,1,0,0,0,0,2
+598,Mach Lrng for Signal Processng,2018,Fall,"Smaragdis, Paris",14,43,11,0,13,2,0,0,1,0,0,0,0
+598,Machine Learning Theory,2017,Fall,"Telgarsky, Matus J",2,13,5,0,2,0,0,0,0,0,0,0,0
+598,Machine Lrning Computation Bio,2015,Fall,"Peng, Jian",5,13,2,1,0,0,0,0,0,0,0,0,0
+598,Machine Lrning Computation Bio,2018,Fall,"Peng, Jian",1,15,6,0,3,0,0,0,0,0,0,0,0
+598,Parallel Programming,2014,Fall,"Kale, Laxmikant V",1,11,4,2,3,2,0,0,0,0,0,0,0
+598,Practical Statistical Learning,2018,Fall,"Liang, Feng",1,90,13,7,3,0,0,2,0,0,0,0,2
+598,Realiablity of Cloud-Scale Sys,2018,Fall,"Xu, Tianyin",3,13,9,5,1,0,0,0,0,0,0,0,0
+598,Secure Processor Design,2017,Fall,"Fletcher, Christopher W",3,19,2,1,0,0,0,0,0,0,0,0,0
+598,Social Sensing,2017,Spring,"Abdelzaher, Tarek",7,11,4,2,0,0,0,0,0,0,0,0,0
+598,Social Spaces on the Internet,2018,Fall,"Karahalios, Kyratso G",12,11,4,1,0,0,0,0,0,0,0,0,0
+598,Special Topics,2010,Spring,"Hockenmaier, Julia C",0,17,4,1,0,0,0,0,0,0,0,0,0
+598,Special Topics,2011,Fall,"Rutenbar, Robin A",3,8,5,2,6,5,0,0,0,0,0,0,0
+598,Special Topics,2014,Spring,"Adve, Sarita V",14,3,1,0,2,1,0,0,0,0,0,0,0
+598,Stat Reinforcement lrng,2019,Spring,"Jiang, Nan",8,10,3,1,1,0,0,0,0,0,0,0,0
+598,Statistical Reinforcement,2018,Fall,"Jiang, Nan",4,8,5,1,0,0,1,2,0,0,0,0,0
+598,Topic in Algorithms,2015,Spring,"Blum, Avrim L",3,8,7,1,5,0,0,0,0,0,0,0,0

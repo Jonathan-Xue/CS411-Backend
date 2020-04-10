@@ -34,14 +34,16 @@ def get_all_entries():
     result = sql_db.engine.execute('SELECT * FROM csGrade')
     rows = result.fetchall()
     row_dicts = [dict(row) for row in rows]
-    return row_dicts
+    row_data = { 'data': row_dicts, 'length': len(row_dicts) }
+    return row_data
 
 @app.route('/courses', methods=['GET'])
 def get_all_courses():
     result = sql_db.engine.execute('SELECT * FROM csCourse')
     rows = result.fetchall()
     row_dicts = [dict(row) for row in rows]
-    return row_dicts
+    row_data = { 'data': row_dicts, 'length': len(row_dicts) }
+    return row_data
 
 @app.route('/sql', methods=['GET'])
 def sql_template():

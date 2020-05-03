@@ -1,0 +1,170 @@
+instructorId,instructorName,researchInterests
+1,David Varodayan,
+2,Wai-Tat Fu,
+3,Steven Lavalle,
+4,Matus Telgarsky,"Machine Learning Theory, Machine Learning Theory"
+5,Wade Fagen-Ulmschneider,"Data Discovery, Social Media, Open-Ended Creative Assessments"
+6,Jiawei Han,"Machine Learning, Natural Language-Based Text Analysis, Text Summarization, Mining Biological Text, Biological Named Entity and Relation Extraction, Data Mining, Text Mining, Information Networks, Database Systems, Data Analytics, Data Science Applications"
+7,Rajesh Bhasin,
+8,Marc Snir,"Large-Scale Parallel Systems, Algorithms, Libraries , Large-Scale Parallel Systems, Algorithms, Libraries "
+9,John Hart,"Learning at Scale, Data Visualization, Computer Graphics, Virtual Reality"
+10,Trevor Walker,
+11,John Bambenek,
+12,Ryan Cunningham,
+13,Aditya Parameswaran,
+14,Chaitanya Date,
+15,Piyush Gupta,
+16,Geoffrey Challen,"Technology to Improve Classroom Interactivity and Outcomes, Data-Driven Approaches to Teaching and Learning"
+17,Varun Singh,
+18,Robert Brunner,Cosmological Data Mining
+19,Ralph Johnson,
+20,Nikita Borisov,"Security and Privacy, Distributed Systems "
+21,Feng Liang,
+22,Haitham Al-Hassanieh,"Wireless Networking, Internet-of-Things (IoT), 5G Networks, Algorithms"
+23,Minas Charalambides,
+24,Boonrod Yuttanan,
+25,Jeff Erickson,"Computational Geometry and Topology, Algorithms"
+26,Andrew Fister,
+27,Oluwasanmi Koyejo,
+28,Zu Huang,
+29,Samuel King,
+30,Anil Hirani,
+31,Margaret Fleck,"Computational Linguistics, Programming Language Tools "
+32,Josep Torrellas,"Parallel Architectures, Energy-Efficiency Architectures, Hardware/Software Co-Design, Programmability"
+33,Stephen Bond,
+34,Aditya Zutshi,
+35,Mark Hasegawa-Johnson,Statistical Speech Technology
+36,Chengxiang Zhai,
+37,Romit Choudhury,"Wireless Networking, Mobile Computing, Sensing Systems "
+38,Maria Garzaran,
+39,Derek Hoiem,"Computer Vision, Object Recognition, Spatial Understanding, Scene Interpretation "
+40,Lu Su,
+41,Victoria Stodden,"Reproducibility in Computational Science, Data Science, Policy Issues Surrounding Open Data/Code Sharing  "
+42,Justin Sirignano,
+43,Peixiang Zhao,
+44,Kevin Chang,"Machine Learning, AI Applications, Data Management Support for AI, Data Mining, Database Systems, Information Retrieval, Web Search/Mining, Social Media Analytics"
+45,Sariel Har-Peled,"Computational Geometry, Geometric Approximation Algorithms"
+46,Timothy Chan,"Computational Geometry, Algorithms, Data Structures"
+47,Navin Fogla,
+48,Martin Hellwig,
+49,Dan Roth,
+50,Hari Sundaram,"Network Analysis, Behavioral Modeling, Applications of Game Theory, Voting, Improving Individual and Collective Decision Making, Information Asymmetry, MOOCs"
+51,Mohammed El-Kebir,"Bioinformatics, Cancer Genomics, Cancer Phylogenetics, Phylodynamics, Phylogeography, Information Visualization, Combinatorial Optimization, Integer Linear Programming, Computational Biology"
+52,Trevor Park,
+53,Grigore Rosu,"Software, Design, Semantics and Implementation of Programming Specification Languages "
+54,Steven Lumetta,
+55,Christopher Fletcher,"Architectures for Security and Machine Learning, Hardware Security, Applied Cryptography"
+56,David Nicol,"Modeling and Simulation, Security, Privacy, and Information Trust for Computer and Communication Systems "
+57,Svetlana Lazebnik,"Computer Vision, Scene Understanding, Visual Learning, Vision and Language"
+58,Debessay Kassa,
+59,Nitin Vaidya,
+60,Matthew Caesar,"Network Verification, Software Resilience, Model Checking, Design, Analysis, and Verification of Wide-Area Networks and Distributed Systems "
+61,Saurabh Sinha,"Bioinformatics, Genomics, Modeling, Sequence Analysis, Machine Learning, Probabilistic Methods, Cancer, Behavior"
+62,John Earls,
+63,Lui Sha,"Real-Time Systems and Scheduling, Cyberphysical Systems, Medical Systems Engineering "
+64,Mirko Montanari,
+65,Carl Gunter,"Internet-of-Things, Privacy, Data Science,Healthcare, Power Grid, Security, Internet Architecture and Protocols, Smartphones and The Internet-of-Things"
+66,Philip Godfrey,
+67,Ranjitha Kumar,"Data-Driven Design, Design Mining, User-Centered Machine Learning, UI/UX, Mobile/Web Applications, Social Networks, Fashion, Emoji"
+68,David Forsyth,"Computer Vision, Object Recognition, Scene Understanding, Graphics, Projection Mapping "
+69,Geoffrey Herman,"How Students Learn Computing, Studying How to Design Effective Instructional Visualization, Teaching at Scale, Assessing Student Learning"
+70,A Beckman,
+71,Abdussalam Alawini,"Active Learning in Large Classrooms, Teamwork and Collaboration, Computer-Based Assessment, Instructional Technologies, Data Provenance, Scientific Data Management, Data Citation, Workflow Management, Machine Learning"
+72,Ankeeth Ved,
+73,Ganna Yershova,
+74,William Gropp,"Programming Models and Systems for Parallel Computing, Parallel I/O, High Performance Scientific Computing, Scalable Numerical Algorithms for PDEs, Numerical Software, Performance Analysis"
+75,Bart Semeraro,
+76,Graham Evans,
+77,Sarita Adve,"Computer Architecture, Parallel Computing, Memory Systems, Domain-Specific and Heterogeneous Systems, Resiliency, Approximate Computing"
+78,Kai Zhao,
+79,Eric Shaffer,"Teaching at Scale, Outcomes Assessment, Learning Analytics"
+80,Richard Barber,
+81,Chen Li,
+82,Jian Peng,"Machine Learning and Optimization , Bioinformatics, Protein Function and Structure, Systems Biology, Machine Learning and Optimization"
+83,Michael Heath,
+84,Abner Rivera,
+85,Bo Li,"Adversarial Machine Learning, Robust Learning, Machine Learning, Privacy Preserving Generative Models"
+86,Sharat Nagaraja,
+87,Edgar Solomonik,"High-Performance Computing, Communication Cost Analysis, Tensor Computations, Quantum Simulation, Numerical Linear Algebra, Tensor Computations, Parallel Algorithms, Quantum Chemistry, Quantum Simulation"
+88,Lance Pittman,
+89,Arushi Aggarwal,
+90,Allen Renear,
+91,Gerald DeJong,
+92,Gul Agha,"Models for Concurrent Computation; Parallel and Distributed Algorithms , Distributed Systems, Wireless Embedded Sensor Networks, Multi-Agent Systems"
+93,Keith Miller,
+94,Avrim Blum,
+95,Chandra Chekuri,"Algorithms, Optimization"
+96,Albert Harris,
+97,Thomas Gambill,
+98,Daniel Dig,
+99,Michael Forbes,"Pseudorandomness, Algebraic Computation, Computational Complexity"
+100,Qi Li,
+101,Michael Loui,
+102,Mahesh Viswanathan,"Model Checking, Logic, Cyberphysical Systems, Software, Security, Model Checking, Logic, Cyberphysical Systems, Software, Security "
+103,Ankit Saharan,
+104,Jose Meseguer,"Formal Executable Specification and Verification, Software Architecture "
+105,Robin Kravets,"Mobile Privacy, Wireless Security, Networking, Wireless Networking, Mobile Computing, Internet-of-Things "
+106,Andreas Kloeckner,"Integral Equation Methods for PDEs, High-Order Finite Element Methods for Hyperbolic PDEs, Tools and Languages for High-Performance Computing, Time Integration "
+107,Klara Nahrstedt,"Quality of Experience, Tele-Immersion, Multi-View Visualization, Embedded Sensors, Distributed and Parallel Systems, Quality of Experience, Tele-Immersion, Multi-View Visualization, Embedded Sensors, Distributed and Parallel Systems, Mobile, Multi-Sensory Systems, Quality and Resource Management, Energy Systems, Quality of Service and Quality of Experience, Tele-Immersion, Video 360 Systems, Distributed and Parallel Systems "
+108,Gerald Dejong,
+109,Tianyin Xu,"Operating Systems, Cloud and Datacenter Systems, System Reliability and Resilience, Large-Scale System Management, Configuration Management, and Reliability Engineering, Operating Systems, Cloud and Datacenter Systems, System Reliability and Resilience, Large-Scale System Management, Configuration Management, Reliability Engineering"
+110,Nisha Somnath,
+111,Rhiannon Clifton,
+112,Lawrence Angrave,"Success Factors of Underrepresented Students in Online Courses, Universal Access, Crowd-Based Course Curation"
+113,Darko Marinov,"Software Engineering, Software Testing"
+114,Aditya Bhagath,
+115,Craig Zilles,"Learning Analytics, Pedagogy, Computer-Based Testing, Assessment, Asynchronous Exams, Item Generation, Concept Inventories, Plagiarism Detection"
+116,Michael Haberman,
+117,Yi-Shuan Chen,
+118,Marco Caccamo,
+119,Shishir Nagaraja,
+120,Samer Fanek,
+121,R Campbell,
+122,Paul Fischer,"High-Order Numerical Methods for Partial Differential Equations, Scalable Parallel Algorithms, Iterative Solvers, Parallel Computing, Spectral Element Methods, Computational Fluid Dynamics"
+123,Ibrahim Karahan,
+124,Robin Rutenbar,
+125,William Chapman,
+126,Michael Woodley,
+127,Viraj Kumar,
+128,Eyal Amir,
+129,Madhusudan Parthasarathy,"Formal Methods, Software Verification, Model Checking, Decidable Logics "
+130,Cinda Heeren,
+131,Saeidreza Far,
+132,Tarek Abdelzaher,"Networked Sensing, Intelligent Internet-of-Things (IoT) Applications, IoT and Big Data, Embedded (Cyber-physical) and Real-Time Systems, Machine Learning for CPS"
+133,Adam Bates,"Systems and Networks, Auditing, Internet of Things Security, Security"
+134,Julia Hockenmaier,"Natural Language Processing, Computational Linguistics "
+135,Reza Farivar,
+136,Brian Bailey,"Human-Computer Interfaces, Design Thinking, Creativity, Crowdsourcing, Teamwork"
+137,Ruta Mehta,"Algorithmic Game Theory, Mathematical Economics, Efficient Algorithms"
+138,Alex Kirlik,"Human-Computer Interaction, Human Factors, Cognitive Science and Engineering, Modeling and Supporting Human Judgment and Decision Making, Human-Automation Interaction"
+139,Alexandra Kolla,
+140,Steven Lauterburg,
+141,Dennis Griffith,
+142,Damion Mitchell,
+143,John Toole,
+144,Marsha Woodbury,
+145,Sasa Misailovic,"Program Optimization Systems, Probabilisitic Programming, Approximate Computing Techniques, Program Optimization Systems, Probabilistic Programming, Approximate Computing Techniques, Approximate Computing across Full System Stack"
+146,Michael Bailey,"Networks, Security and Availability of Complex Distributed Systems "
+147,Pritam Sukumar,
+148,Tao Xie,"Software Engineering, Software Testing, Program Analysis, Software Analytics , Mobile, Text Analytics, Testing, Program Analysis"
+149,Guy Garnett,
+150,Mariana Silva,"Teaching at Scale, Assessment, Collaborative Learning, Online Learning Platforms"
+151,Leonard Pitt,
+152,David Padua,"Compiler Techniques for Parallel Computing, Compiler Evaluation and Testing, Autotuning Strategies and Systems, Program Analysis, Transformation, and Optimization "
+153,Rakesh Bobba,
+154,Christopher Hsiao,
+155,Vikram Adve,"Compilers, Parallel Computing, Heterogeneous Parallel Systems, Hardware-Software Codesign, Edge Computing, Programming Languages, Compilers, Parallel Programming, Domain-Specific Languages, Automated Debugging, Formal Verification, Software Repositories, Secure Compilation, Program Analysis, Software Security, Debloating"
+156,Tandy Warnow,"Machine Learning in Computational Genomics, Graph Algorithms, Statistical Estimation, Heuristics for NP-Hard Optimization Problems, Phylogenomics, Metagenomics, Multiple Sequence Alignment, Historical Linguistics, Graph Algorithms, Statistical Estimation, Heuristics for NP-Hard Optimization Problems, Experimental Algorithmics, Applications to Grand Challenges in Biology and Historical Linguistics"
+157,Alexander Schwing,"Machine Learning, Computer Vision"
+158,Laxmikant Kale,"Large-Scale Parallel Systems; Runtime Systems, Tools, and Frameworks for High-Performance Computing, Simulation Software, Numerical Libraries and Algorithms "
+159,Kyratso Karahalios,
+160,Paris Smaragdis,"Machine Learning for Audio, Speech and Music; Signal Processing; Source Separation; Sound Recognition and Classification"
+161,Samuel Kamin,
+162,Elsa Gunter,"Scalable Education, Automated Interactive Assessment, Blended Learning, Formal Methods, Programming Languages, Software Engineering, Semantics, Interactive Theorem Proving, Model Checking, Type Systems, Program Verification, Compiler Correctness"
+163,Lucas Cook,
+164,Nan Jiang,"Reinforcement Learning, Machine Learning, Sample Complexity Analyses"
+165,Luke Olson,"Parallel Numerical Algorithms, Performance Modeling, Numerical Analysis, Scientific Computing, Large-Scale Simulation, Multigrid and Iterative Methods, Finite Element Methods"
+166,Timothy Weninger,
+167,Indranil Gupta,"Distributed Systems, Cloud Computing, Internet-of-Things Distributed Systems, Distributed Machine Learning, Industry Production Systems"
+168,Susan Hinrichs,
+169,Neal Davis,"Incentivizing Productive Student Behaviors, Open Source Curricula, Assessment, Learning Analytics"

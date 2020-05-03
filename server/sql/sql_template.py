@@ -5,7 +5,13 @@ from server import app, sql_db
 def entries():
     if request.method == 'GET':
         # Query
-        result = sql_db.engine.execute('SELECT * FROM csGrade')
+        query = '''
+            SELECT csGrade.*, csInstructor.instructorName AS instructorName
+            from csGrade LEFT JOIN csInstructor
+            ON csGrade.primaryInstructor = csInstructor.instructorId;
+        '''
+
+        result = sql_db.engine.execute(query)
         rows = result.fetchall()
 
         # Parse Output
@@ -44,7 +50,7 @@ def entries_dup(courseNo, courseName, year, term, primaryInstructor):
         delete_data = (courseNo, courseName, year, term, primaryInstructor)
 
         # Query
-        delete_query = """DELETE FROM csGrade WHERE courseNo = %s AND courseName = %s AND year = %s AND term = %s AND primaryInstructor = %s;""" 
+        delete_query = """DELETE FROM csGrade WHERE courseNo = %s AND courseName = %s AND year = %s AND term = %s AND primaryInstructor = %s;"""
         sql_db.engine.execute(delete_query, delete_data)
 
         # Return

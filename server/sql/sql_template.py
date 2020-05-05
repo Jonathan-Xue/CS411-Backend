@@ -194,82 +194,136 @@ def get_profs_for_course(courseNo, courseName):
         WHERE courseNo = %s AND courseName = %s;
     '''
 
+    # for testing only
+    courseNo = 241
+    courseName = "System Programming"
+
     result = sql_db.engine.execute(q, (courseNo, courseName))
     res = result.fetchone()
-    print(res)
-    return res # TODO
 
-    # courseDesc = res[0]
-    #
-    # course_text = courseName + ", " + courseDesc
-    # course_text_nlp = nlp(course_text)
-    #
-    # # 2. get all instructors' research interests
-    # q = '''
-    #     SELECT instructorId, instructorName, researchInterests
-    #     FROM csInstructor;
-    # '''
-    #
-    # cur.execute(q)
-    # res = cur.fetchall()
-    #
-    # prof_research_dict = {}
-    # prof_id_dict = {}
-    # for r in res:
-    #     prof_research_dict[r[0]] = nlp(r[2])
-    #     prof_id_dict[r[0]] = str(r[1])
-    #
-    # # 3. get average GPA for instructors who have taught the course
-    # q = '''
-    #     SELECT instructorId, (((SUM(aPlus) * 4) + (SUM(a) * 4) + (SUM(aMinus) * 3.67) + (SUM(bPlus) * 3.33) + (SUM(b) * 3) + (SUM(bMinus) * 2.67) + (SUM(cPlus) * 2.33) + (SUM(c) * 2) + (SUM(cMinus) * 1.67) + (SUM(dPlus) * 1.33) + (SUM(d) * 1) + (SUM(dMinus) * 0.67) + (SUM(f) * 0)) / (SUM(aPlus) + SUM(a) + SUM(aMinus) + SUM(bPlus) + SUM(b) + SUM(bMinus) + SUM(cPlus) + SUM(c) + SUM(cMinus) + SUM(dPlus) + SUM(d) + SUM(dMinus) + SUM(f))) as averageGPA
-    #     FROM csGrade LEFT JOIN csInstructor ON csInstructor.instructorId = csGrade.primaryInstructor
-    #     WHERE csGrade.courseNo = %s AND csGrade.courseName = %s
-    #     GROUP BY csInstructor.instructorId;
-    # '''
-    #
-    # cur.execute(q, (courseNo, courseName))
-    # res = cur.fetchall()
-    #
-    # prof_avg_dict = {}
-    # for r in res:
-    #     prof_avg_dict[r[0]] = float(r[1])
-    # base_score = float(min([r[1] for r in res]))
-    #
-    # sim_score_weight = 0.1
-    #
-    # max_s = 0
-    # min_s = 0
-    # prof_total_scores = []
-    # all_scores = []
-    #
-    # for prof in prof_research_dict:
-    #     sim_score = 0
-    #     if prof_research_dict[prof].vector_norm:
-    #         sim_score = float(course_text_nlp.similarity(prof_research_dict[prof]))
-    #
-    #     gpa_score = base_score
-    #     if prof in prof_avg_dict:
-    #         gpa_score = prof_avg_dict[prof]
-    #
-    #     total_score = sim_score * sim_score_weight + gpa_score
-    #
-    #     prof_data = {
-    #         "instructorId": prof,
-    #         "instructorName": prof_id_dict[prof],
-    #         "researchInterests": prof_research_dict[prof].text,
-    #         "score": total_score
-    #     }
-    #
-    #     all_scores.append(total_score)
-    #     prof_total_scores.append(prof_data)
-    #
-    # max_s = max(all_scores)
-    # min_s = min(all_scores)
-    # for prof_data in prof_total_scores:
-    #     prof_data["score"] = normalize_score(min_s, max_s, prof_data["score"])
-    # sorted_prof_scores = sorted(prof_total_scores, key= lambda p : p["score"], reverse=True)
-    # return sorted_prof_scores[:5]
+    courseDesc = res["courseDesc"]
+    course_text = courseName + ", " + courseDesc
+    course_text_nlp = nlp(course_text)
+
+    # 2. get all instructors' research interests
+    q = '''
+        SELECT instructorId, instructorName, researchInterests
+        FROM csInstructor;
+    '''
+
+    result = sql_db.engine.execute(q)
+    res = result.fetchall()
+
+    prof_research_dict = {}
+    prof_id_dict = {}
+    for r in res:
+        prof_research_dict[r["instructorId"]] = nlp(r["researchInterests"])
+        prof_id_dict[r["instructorId"]] = r["instructorName"]
+
+    # 3. get average GPA for instructors who have taught the course
+    q = '''
+        SELECT instructorId, (((SUM(aPlus) * 4) + (SUM(a) * 4) + (SUM(aMinus) * 3.67) + (SUM(bPlus) * 3.33) + (SUM(b) * 3) + (SUM(bMinus) * 2.67) + (SUM(cPlus) * 2.33) + (SUM(c) * 2) + (SUM(cMinus) * 1.67) + (SUM(dPlus) * 1.33) + (SUM(d) * 1) + (SUM(dMinus) * 0.67) + (SUM(f) * 0)) / (SUM(aPlus) + SUM(a) + SUM(aMinus) + SUM(bPlus) + SUM(b) + SUM(bMinus) + SUM(cPlus) + SUM(c) + SUM(cMinus) + SUM(dPlus) + SUM(d) + SUM(dMinus) + SUM(f))) as averageGPA
+        FROM csGrade LEFT JOIN csInstructor ON csInstructor.instructorId = csGrade.primaryInstructor
+        WHERE csGrade.courseNo = %s AND csGrade.courseName = %s
+        GROUP BY csInstructor.instructorId;
+    '''
+
+    result = sql_db.engine.execute(q, (courseNo, courseName))
+    res = result.fetchall()
+
+    prof_avg_dict = {}
+    for r in res:
+        prof_avg_dict[r["instructorId"]] = float(r["averageGPA"])
+    base_score = float(min([r["averageGPA"] for r in res]))
+
+    sim_score_weight = 0.1
+
+    max_s = 0
+    min_s = 0
+    prof_total_scores = []
+    all_scores = []
+
+    for prof in prof_research_dict:
+        sim_score = 0
+        if prof_research_dict[prof].vector_norm:
+            sim_score = float(course_text_nlp.similarity(prof_research_dict[prof]))
+
+        gpa_score = base_score
+        if prof in prof_avg_dict:
+            gpa_score = prof_avg_dict[prof]
+
+        total_score = sim_score * sim_score_weight + gpa_score
+
+        prof_data = {
+            "instructorId": prof,
+            "instructorName": prof_id_dict[prof],
+            "researchInterests": prof_research_dict[prof].text,
+            "score": total_score
+        }
+
+        all_scores.append(total_score)
+        prof_total_scores.append(prof_data)
+
+    max_s = max(all_scores)
+    min_s = min(all_scores)
+    for prof_data in prof_total_scores:
+        prof_data["score"] = normalize_score(min_s, max_s, prof_data["score"])
+
+    sorted_prof_scores = sorted(prof_total_scores, key= lambda p : p["score"], reverse=True)
+    return { "data": sorted_prof_scores[:5] }
 
 @app.route('/matches/instructor/<instructorId>', methods=['GET'])
 def get_courses_for_prof(instructorId):
-    return {} # TODO
+
+    # 1. get prof and his/her research interests
+    q = '''
+        SELECT instructorId, instructorName, researchInterests
+        FROM csInstructor
+        WHERE instructorId = %s;
+    '''
+
+    instructorId = 5
+
+    result = sql_db.engine.execute(q, (instructorId,))
+    res = result.fetchone()
+
+    instructorName = res["instructorName"]
+    researchInterests = res["researchInterests"]
+
+    instructor_text_nlp = nlp(researchInterests)
+
+    if not instructor_text_nlp.vector_norm:
+        return { "data": [] } # cant match prof to courses if prof research interests is empty
+
+    # 2. get courses and their text data
+    q = '''
+        SELECT courseNo, courseName, courseDesc
+        FROM csCourse;
+    '''
+
+    result = sql_db.engine.execute(q)
+    res = result.fetchall()
+
+    course_desc_dict = {}
+    for r in res:
+        course_desc_dict[(r["courseNo"], r["courseName"])] = nlp(r["courseDesc"])
+
+    course_total_scores = []
+    for course in course_desc_dict:
+        courseNo, courseName = course
+
+        score = 0
+        if course_desc_dict[course].vector_norm:
+            score = instructor_text_nlp.similarity(course_desc_dict[course])
+
+        course_data = {
+            "courseNo": courseNo,
+            "courseName": courseName,
+            "courseDesc": course_desc_dict[course].text,
+            "score": score
+        }
+
+        course_total_scores.append(course_data)
+
+    sorted_course_scores = sorted(course_total_scores, key = lambda c : c["score"], reverse=True)
+    return { "data": sorted_course_scores[:10] }

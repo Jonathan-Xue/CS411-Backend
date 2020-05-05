@@ -331,12 +331,10 @@ def get_courses_for_prof(instructorId):
     try:
         # 1. get prof and his/her research interests
         q = '''
-            SELECT instructorId, instructorName, researchInterests
-            FROM csInstructor
+            SELECT instructorId, instructorName, researchInterests, COUNT(*) AS termsTaught
+            FROM csInstructor LEFT JOIN csGrade ON csInstructor.instructorId = csGrade.primaryInstructor
             WHERE instructorId = %s;
         '''
-
-        instructorId = 5
 
         result = sql_db.engine.execute(q, (instructorId,))
         if result is None:
@@ -345,6 +343,7 @@ def get_courses_for_prof(instructorId):
 
         instructorName = res["instructorName"]
         researchInterests = res["researchInterests"]
+        termsTaught = int(res["termsTaught"])
 
         instructor_text_nlp = nlp(researchInterests)
 
@@ -366,13 +365,36 @@ def get_courses_for_prof(instructorId):
         for r in res:
             course_desc_dict[(r["courseNo"], r["courseName"])] = nlp(r["courseDesc"])
 
+         # 3. get courses that the instructor has taught before
+        q = '''
+            SELECT courseNo, courseName, COUNT(*) AS cnt
+            FROM csGrade
+            WHERE primaryInstructor = %s
+            GROUP BY courseNo, courseName;
+        '''
+
+        result = sql_db.engine.execute(q, (instructorId,))
+        if result is None:
+            return { 'message': "Invalid query." }
+        res = result.fetchall()
+
+        course_taught_dict = {}
+        for r in res:
+            course_taught_dict[(r["courseNo"], r["courseName"])] = r["cnt"] / termsTaught
+
+        all_scores = []
         course_total_scores = []
+        taught_weight = 0.1
+
         for course in course_desc_dict:
             courseNo, courseName = course
 
             score = 0
+            if course in course_taught_dict:
+                score += taught_weight * course_taught_dict[course]
+
             if course_desc_dict[course].vector_norm:
-                score = instructor_text_nlp.similarity(course_desc_dict[course])
+                score += instructor_text_nlp.similarity(course_desc_dict[course])
 
             course_data = {
                 "courseNo": courseNo,
@@ -381,7 +403,13 @@ def get_courses_for_prof(instructorId):
                 "score": score
             }
 
+            all_scores.append(score)
             course_total_scores.append(course_data)
+
+        max_s = max(all_scores)
+        min_s = min(all_scores)
+        for course_data in course_total_scores:
+            course_data["score"] = normalize_score(min_s, max_s, course_data["score"])
 
         sorted_course_scores = sorted(course_total_scores, key = lambda c : c["score"], reverse=True)
         return { "data": sorted_course_scores[:10] }

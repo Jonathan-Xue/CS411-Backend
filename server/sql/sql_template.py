@@ -169,7 +169,7 @@ def instructors_dup(instructorId):
 
     elif request.method == 'DELETE':
         # Parse Arguments
-        delete_data = (courseNo, courseName)
+        delete_data = (instructorId,)
 
         # Query
         delete_query = """DELETE FROM csInstructor WHERE instructorId = %s;"""

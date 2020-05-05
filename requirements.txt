@@ -4,7 +4,6 @@ certifi==2020.4.5.1
 chardet==3.0.4
 click==7.1.2
 cymem==2.0.3
-en-core-web-md==2.2.5
 Flask==1.1.2
 Flask-Cors==3.0.8
 Flask-SQLAlchemy==2.4.1
@@ -29,3 +28,4 @@ urllib3==1.25.9
 wasabi==0.6.0
 Werkzeug==1.0.1
 zipp==3.1.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.0/en_core_web_md-2.2.0.tar.gz

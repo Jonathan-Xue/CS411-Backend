@@ -146,11 +146,12 @@ def get_courses_for_prof(instructorId):
             return { 'message': "Invalid query." }
         res = result.fetchall()
 
-        course_desc_dict = {}
+        course_text_dict = {}
         for r in res:
-            course_desc_nlp = nlp(r["courseDesc"])
-            course_desc_nlp = [course_desc_nlp.text for course_desc_nlp in sentence if not course_desc_nlp.is_stop and not course_desc_nlp.is_punct]
-            course_desc_dict[(r["courseNo"], r["courseName"])] = course_desc_nlp
+            course_text = courseName + ", " + courseDesc
+            course_text_nlp = nlp(course_text)
+            course_text_nlp = [course_text_nlp.text for course_text_nlp in sentence if not course_text_nlp.is_stop and not course_text_nlp.is_punct]
+            course_text_dict[(r["courseNo"], r["courseName"])] = course_text_nlp
 
         # Courses Instructor Has Previously Taught
         q = '''
@@ -175,20 +176,20 @@ def get_courses_for_prof(instructorId):
         similarity_weight = 1.0
         taught_weight = 1.0
 
-        for course in course_desc_dict:
+        for course in course_text_dict:
             courseNo, courseName = course
 
             score = 0
             if course in course_taught_dict:
                 score += taught_weight * course_taught_dict[course]
 
-            if course_desc_dict[course].vector_norm:
-                score += similarity_weight * instructor_interests_nlp.similarity(course_desc_dict[course])
+            if course_text_dict[course].vector_norm:
+                score += similarity_weight * instructor_interests_nlp.similarity(course_text_dict[course])
 
             course_data = {
                 "courseNo": courseNo,
                 "courseName": courseName,
-                "courseDesc": course_desc_dict[course].text,
+                "courseDesc": course_text_dict[course].text,
                 "score": score
             }
 

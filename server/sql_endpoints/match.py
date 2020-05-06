@@ -31,8 +31,8 @@ def get_profs_for_course(courseNo, courseName):
 
         courseDesc = res["courseDesc"]
         course_text = courseName + ", " + courseDesc
-        course_text_nlp = nlp(course_text)
-        course_text_nlp = [course_text_nlp.text for course_text_nlp in sentence if not course_text_nlp.is_stop and not course_text_nlp.is_punct]
+        course_text_nlp = [course_text_token.text for course_text_token in nlp(course_text) if not course_text_token.is_stop and not course_text_token.is_punct]
+        course_text_nlp = nlp((" ").join(course_text_nlp))
 
         # Instructor Research Interests
         q = '''
@@ -46,12 +46,13 @@ def get_profs_for_course(courseNo, courseName):
         res = result.fetchall()
 
         prof_research_dict = {}
-        prof_id_dict = {}
+        prof_unmodified_dict = {}
         for r in res:
-            instructor_interests_nlp = nlp(r["researchInterests"])
-            instructor_interests_nlp = [instructor_interests_nlp.text for instructor_interests_nlp in sentence if not instructor_interests_nlp.is_stop and not instructor_interests_nlp.is_punct]
+            instructor_interests_nlp = [instructor_interests_token.text for instructor_interests_token in nlp(r["researchInterests"]) if not instructor_interests_token.is_stop and not instructor_interests_token.is_punct]
+            instructor_interests_nlp = nlp((" ").join(instructor_interests_nlp))
+
             prof_research_dict[r["instructorId"]] = instructor_interests_nlp
-            prof_id_dict[r["instructorId"]] = r["instructorName"]
+            prof_unmodified_dict[r["instructorId"]] = { "instructorName": r["instructorName"], "researchInterests": r["researchInterests"] }
 
         # Avg GPA For Instructors Who've Taught The Course
         q = '''
@@ -92,8 +93,8 @@ def get_profs_for_course(courseNo, courseName):
 
             prof_data = {
                 "instructorId": prof,
-                "instructorName": prof_id_dict[prof],
-                "researchInterests": prof_research_dict[prof].text,
+                "instructorName": prof_unmodified_dict[prof]['instructorName'],
+                "researchInterests": prof_unmodified_dict[prof]['researchInterests'],
                 "score": total_score
             }
 
@@ -132,8 +133,8 @@ def get_courses_for_prof(instructorId):
         researchInterests = res["researchInterests"]
         termsTaught = int(res["termsTaught"])
 
-        instructor_interests_nlp = nlp(researchInterests)
-        instructor_interests_nlp = [instructor_interests_nlp.text for instructor_interests_nlp in sentence if not instructor_interests_nlp.is_stop and not instructor_interests_nlp.is_punct]
+        instructor_interests_nlp = [instructor_interests_token.text for instructor_interests_token in nlp(researchInterests) if not instructor_interests_token.is_stop and not instructor_interests_token.is_punct]
+        instructor_interests_nlp = nlp((" ").join(instructor_interests_nlp))
 
         # Courses & Text Data
         q = '''
@@ -146,12 +147,15 @@ def get_courses_for_prof(instructorId):
             return { 'message': "Invalid query." }
         res = result.fetchall()
 
+        course_unmodified_dict = {}
         course_text_dict = {}
         for r in res:
-            course_text = courseName + ", " + courseDesc
-            course_text_nlp = nlp(course_text)
-            course_text_nlp = [course_text_nlp.text for course_text_nlp in sentence if not course_text_nlp.is_stop and not course_text_nlp.is_punct]
+            course_text = r["courseName"] + r["courseDesc"]
+            course_text_nlp = [course_text_token.text for course_text_token in nlp(course_text) if not course_text_token.is_stop and not course_text_token.is_punct]
+            course_text_nlp = nlp((" ").join(course_text_nlp))
+
             course_text_dict[(r["courseNo"], r["courseName"])] = course_text_nlp
+            course_unmodified_dict[(r["courseNo"], r["courseName"])] = r["courseDesc"]
 
         # Courses Instructor Has Previously Taught
         q = '''
@@ -189,7 +193,7 @@ def get_courses_for_prof(instructorId):
             course_data = {
                 "courseNo": courseNo,
                 "courseName": courseName,
-                "courseDesc": course_text_dict[course].text,
+                "courseDesc": course_unmodified_dict[course],
                 "score": score
             }
 

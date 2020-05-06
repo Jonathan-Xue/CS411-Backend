@@ -131,9 +131,6 @@ def get_courses_for_prof(instructorId):
 
         instructor_text_nlp = nlp(researchInterests)
 
-        if not instructor_text_nlp.vector_norm:
-            return { "data": [] }
-
         # Courses & Text Data
         q = '''
             SELECT courseNo, courseName, courseDesc

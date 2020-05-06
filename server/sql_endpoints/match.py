@@ -10,6 +10,9 @@ def load_spacy_nlp():
             nlp = spacy.load('en_core_web_sm')
 
 def normalize_score(min_s, max_s, score):
+    if (max_s - min_s) == 0:
+        return 0
+
     return (score - min_s) / (max_s - min_s)
 
 @app.route('/matches/course/<courseNo>/<courseName>', methods=['GET'])
@@ -107,7 +110,7 @@ def get_profs_for_course(courseNo, courseName):
         for prof_data in prof_total_scores:
             prof_data["score"] = normalize_score(min_s, max_s, prof_data["score"])
 
-        sorted_prof_scores = sorted(prof_total_scores, key= lambda p : p["score"], reverse=True)
+        sorted_prof_scores = sorted(prof_total_scores, key= lambda p : p["score"], cmp=compare_with_ties)
         return { "data": sorted_prof_scores[:5] }
     except Exception as e:
         return { 'message': dict(e) }

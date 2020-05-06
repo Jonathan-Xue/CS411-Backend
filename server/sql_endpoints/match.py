@@ -1,5 +1,6 @@
 from flask import request
 from server import app, sql_db, nlp, spacy
+import random
 
 def load_spacy_nlp():
     global nlp
@@ -110,7 +111,7 @@ def get_profs_for_course(courseNo, courseName):
         for prof_data in prof_total_scores:
             prof_data["score"] = normalize_score(min_s, max_s, prof_data["score"])
 
-        sorted_prof_scores = sorted(prof_total_scores, key= lambda p : p["score"], cmp=compare_with_ties)
+        sorted_prof_scores = sorted(prof_total_scores, key=lambda p: (p["score"], random.random()), reverse=True)
         return { "data": sorted_prof_scores[:5] }
     except Exception as e:
         return { 'message': dict(e) }
@@ -209,7 +210,7 @@ def get_courses_for_prof(instructorId):
         for course_data in course_total_scores:
             course_data["score"] = normalize_score(min_s, max_s, course_data["score"])
 
-        sorted_course_scores = sorted(course_total_scores, key = lambda c : c["score"], reverse=True)
+        sorted_course_scores = sorted(course_total_scores, key=lambda c: (c["score"], random.random()), reverse=True)
         return { "data": sorted_course_scores[:10] }
     except Exception as e:
         return { 'message': dict(e) }

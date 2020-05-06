@@ -32,6 +32,7 @@ def get_profs_for_course(courseNo, courseName):
         courseDesc = res["courseDesc"]
         course_text = courseName + ", " + courseDesc
         course_text_nlp = nlp(course_text)
+        course_text_nlp = [course_text_nlp.text for course_text_nlp in sentence if not course_text_nlp.is_stop and not course_text_nlp.is_punct]
 
         # Instructor Research Interests
         q = '''
@@ -47,7 +48,9 @@ def get_profs_for_course(courseNo, courseName):
         prof_research_dict = {}
         prof_id_dict = {}
         for r in res:
-            prof_research_dict[r["instructorId"]] = nlp(r["researchInterests"])
+            instructor_interests_nlp = nlp(r["researchInterests"])
+            instructor_interests_nlp = [instructor_interests_nlp.text for instructor_interests_nlp in sentence if not instructor_interests_nlp.is_stop and not instructor_interests_nlp.is_punct]
+            prof_research_dict[r["instructorId"]] = instructor_interests_nlp
             prof_id_dict[r["instructorId"]] = r["instructorName"]
 
         # Avg GPA For Instructors Who've Taught The Course
@@ -129,7 +132,8 @@ def get_courses_for_prof(instructorId):
         researchInterests = res["researchInterests"]
         termsTaught = int(res["termsTaught"])
 
-        instructor_text_nlp = nlp(researchInterests)
+        instructor_interests_nlp = nlp(researchInterests)
+        instructor_interests_nlp = [instructor_interests_nlp.text for instructor_interests_nlp in sentence if not instructor_interests_nlp.is_stop and not instructor_interests_nlp.is_punct]
 
         # Courses & Text Data
         q = '''
@@ -144,7 +148,9 @@ def get_courses_for_prof(instructorId):
 
         course_desc_dict = {}
         for r in res:
-            course_desc_dict[(r["courseNo"], r["courseName"])] = nlp(r["courseDesc"])
+            course_desc_nlp = nlp(r["courseDesc"])
+            course_desc_nlp = [course_desc_nlp.text for course_desc_nlp in sentence if not course_desc_nlp.is_stop and not course_desc_nlp.is_punct]
+            course_desc_dict[(r["courseNo"], r["courseName"])] = course_desc_nlp
 
         # Courses Instructor Has Previously Taught
         q = '''
@@ -177,7 +183,7 @@ def get_courses_for_prof(instructorId):
                 score += taught_weight * course_taught_dict[course]
 
             if course_desc_dict[course].vector_norm:
-                score += similarity_weight * instructor_text_nlp.similarity(course_desc_dict[course])
+                score += similarity_weight * instructor_interests_nlp.similarity(course_desc_dict[course])
 
             course_data = {
                 "courseNo": courseNo,
